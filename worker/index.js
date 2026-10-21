@@ -9,7 +9,7 @@
  * - Edge caching for sub-30ms global performance
  */
 
-const DEFAULT_UPSTREAM_BASE = "https://raw.githubusercontent.com/username/IPTV/main/public/streams";
+const DEFAULT_UPSTREAM_BASE = "https://raw.githubusercontent.com/Drone9988/IPTV/main/public/streams";
 
 export default {
   async fetch(request, env, ctx) {
