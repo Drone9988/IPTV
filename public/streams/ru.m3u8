@@ -20,9 +20,6 @@ https://stream.smotrim.ru/hls/vesti_fm/playlist.m3u8?entity=channel&id=199&sign=
 #EXTINF:-1 tvg-id="Vetta24.ru" tvg-name="Ветта 24" tvg-logo="https://i.imgur.com/zKH1b5k.png" group-title="General" tvg-country="RU" tvg-quality="720p HD",Ветта 24 [720p HD]
 #EXTGRP:General
 http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
-#EXTINF:-1 tvg-id="TelekanalZvezda.ru" tvg-name="Звезда" tvg-logo="https://i.imgur.com/c0L0ncA.png" group-title="General" tvg-country="RU" tvg-quality="720p HD",Звезда [720p HD]
-#EXTGRP:General
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 tvg-id="Karusel.ru" tvg-name="Карусель Ⓢ" tvg-logo="https://i.imgur.com/4fFMlVq.png" group-title="General" tvg-country="RU" tvg-quality="720p HD",Карусель Ⓢ [720p HD]
 #EXTGRP:General
 https://streaming.goodstream.icu/live/232.m3u8
@@ -38,6 +35,9 @@ https://stream.smotrim.ru/hls/moscow_24/playlist.m3u8?entity=channel&id=76&sign=
 #EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Муз-ТВ Ⓢ" tvg-logo="https://i.imgur.com/Ml3qqOF.png" group-title="General" tvg-country="RU" tvg-quality="720p HD",Муз-ТВ Ⓢ [720p HD]
 #EXTGRP:General
 https://streaming.goodstream.icu/live/618.m3u8
+#EXTINF:-1 tvg-id="NizhniyNovgorod24.ru" tvg-name="Нижний Новгород 24" tvg-logo="https://i.imgur.com/ZWgPVIC.png" group-title="General" tvg-country="RU" tvg-quality="720p HD",Нижний Новгород 24 [720p HD]
+#EXTGRP:General
+https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
 #EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Россия 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/960px-Russia-1.svg.png" group-title="General" tvg-country="RU" tvg-quality="720p HD",Россия 1 [720p HD]
 #EXTGRP:General
 https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8

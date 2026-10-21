@@ -5,18 +5,12 @@
 #EXTINF:-1 tvg-id="AlcarriaTV.es" tvg-name="Alcarria TV" tvg-logo="https://i.imgur.com/zNSuxVZ.jpg" group-title="General" tvg-country="MX" tvg-quality="720p HD",Alcarria TV [720p HD]
 #EXTGRP:General
 http://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
-#EXTINF:-1 tvg-id="Canal6Multimedios.mx" tvg-name="Canal 6 Multimedios" tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200" group-title="General" tvg-country="MX" tvg-quality="720p HD",Canal 6 Multimedios [720p HD]
-#EXTGRP:General
-https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
 #EXTINF:-1 tvg-id="CanalOnce.mx" tvg-name="Canal Once" tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200" group-title="General" tvg-country="MX" tvg-quality="720p HD",Canal Once [720p HD]
 #EXTGRP:General
 https://vivo.canaloncelive.tv/secureoncedos/oncedigital/playlist.m3u8
 #EXTINF:-1 tvg-id="EstrellaTV.mx" tvg-name="Estrella TV" tvg-logo="https://graph.facebook.com/EstrellaTV/picture?width=200&height=200" group-title="General" tvg-country="MX" tvg-quality="720p HD",Estrella TV [720p HD]
 #EXTGRP:General
 https://amg00567-estrellamedia-estrellatv-estrellamedia-5tdh5.amagi.tv/playlist/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
-#EXTINF:-1 tvg-id="Lasestrellas.tv" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Las_Estrellas.svg" group-title="General" tvg-country="MX" tvg-quality="720p HD",Las Estrellas [720p HD]
-#EXTGRP:General
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="MexicoTravelTV.mx" tvg-name="México Travel TV" tvg-logo="https://graph.facebook.com/MexicoTravelChannelTV/picture?width=200&height=200" group-title="General" tvg-country="MX" tvg-quality="720p HD",México Travel TV [720p HD]
 #EXTGRP:General
 https://5ca9af4645e15.streamlock.net/mexicotravel/videomexicotravel/playlist.m3u8
@@ -26,6 +20,3 @@ https://stream.ontvmx.com/ontv/ghxTYEQmKkB2UJyVuW/playlist.m3u8
 #EXTINF:-1 tvg-id="Tele10Nayarit.mx" tvg-name="TELE 10 Nayarit" tvg-logo="https://graph.facebook.com/Tele10Nayarit/picture?width=200&height=200" group-title="General" tvg-country="MX" tvg-quality="720p HD",TELE 10 Nayarit [720p HD]
 #EXTGRP:General
 https://live.iplanay.gob.mx/hls/nayarittv.m3u8
-#EXTINF:-1 tvg-id="TeleFormula.mx" tvg-name="TeleFormula" tvg-logo="https://i.imgur.com/jR6taXt.png" group-title="General" tvg-country="MX" tvg-quality="720p HD",TeleFormula [720p HD]
-#EXTGRP:General
-https://us-b4-p-e-ja16.cdn.mdstrm.com/live-stream-gdai/62f2c855f7981b5a5a2d8763/linear/hls/pa/event/pEN-eKQqS3OyqwKvMshcoQ/stream/f73708b1-e64b-4b94-b114-d3d540229183:ATL/master.m3u8?aid=602140ecd1277a077ef81b34&adInsertionGoogleStreamId=f73708b1-e64b-4b94-b114-d3d540229183:ATL&pid=AxCYKkSNIYDhzha2qFPt03mhpGWrY17H&sid=STt7ki9tCrKowbNHEhVvmQ2BnPUCNY7G&uid=Mh8Bi2bfrpt7KikwwmmQSD5hJp9nMLf7&es=us-b4-p-e-ja16.cdn.mdstrm.com&ote=1792690513671&ot=QaZ9X_G5CtC5Bv1y3p6sfw&proto=https&pz=us&access_token=qqUI56P0qt9xxbiYjOSrSmBZZnFtQfrQtf17iCOhUfNVJQJidX59lDHMe8GbnOHfvPuLERJODll

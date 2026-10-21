@@ -14,9 +14,6 @@ https://live-fi.tvkaista.net/jim/live.m3u8?src=freetv
 #EXTINF:-1 tvg-id="Liv.fi" tvg-name="Liv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Liv_color_RGB.png" group-title="General" tvg-country="FI" tvg-quality="720p HD",Liv [720p HD]
 #EXTGRP:General
 https://live-fi.tvkaista.net/liv/live.m3u8?src=freetv
-#EXTINF:-1 tvg-id="Sub.fi" tvg-name="MTV Sub" tvg-logo="https://i.imgur.com/VRCuxQt.png" group-title="General" tvg-country="FI" tvg-quality="720p HD",MTV Sub [720p HD]
-#EXTGRP:General
-https://live-fi.tvkaista.net/sub/live.m3u8?src=freetv
 #EXTINF:-1 tvg-id="MTVUutiset.fi" tvg-name="MTV Uutiset Live" tvg-logo="https://i.imgur.com/IyB6mIb.png" group-title="General" tvg-country="FI" tvg-quality="720p HD",MTV Uutiset Live [720p HD]
 #EXTGRP:General
 https://live.streaming.a2d.tv/content/channels/uutiset/cmaf.m3u8
