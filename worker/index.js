@@ -14,7 +14,7 @@ const DEFAULT_UPSTREAM_BASE = "https://raw.githubusercontent.com/Drone9988/IPTV/
 export default {
   async fetch(request, env, ctx) {
     const url = new URL(request.url);
-    const upstreamBase = env.UPSTREAM_URL || DEFAULT_UPSTREAM_BASE;
+    const upstreamBase = env.UPSTREAM_URL || `${url.origin}/streams`;
 
     const corsHeaders = {
       "Access-Control-Allow-Origin": "*",

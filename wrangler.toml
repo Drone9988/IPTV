@@ -1,5 +1,5 @@
 name = "iptv"
-main = "index.js"
+main = "worker/index.js"
 compatibility_date = "2024-04-01"
 
 [vars]
