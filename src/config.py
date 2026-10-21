@@ -76,6 +76,12 @@ SOURCES: List[Dict[str, str]] = [
         "url": "https://iptv-org.github.io/iptv/countries/ir.m3u",
         "category": "Farsi / Iranian",
         "country": "IR"
+    },
+    # Independent Fallback Aggregator (2,000+ FTA channels)
+    {
+        "name": "Free-TV Worldwide Independent Source",
+        "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8",
+        "category": "General"
     }
 ]
 
