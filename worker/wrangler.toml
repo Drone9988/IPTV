@@ -1,0 +1,8 @@
+name = "free-iptv-edge"
+main = "index.js"
+compatibility_date = "2024-04-01"
+
+[vars]
+# Configure this with your GitHub repository URL:
+# Format: https://raw.githubusercontent.com/<YOUR-GITHUB-USERNAME>/<YOUR-REPO-NAME>/main/public/streams
+UPSTREAM_URL = "https://raw.githubusercontent.com/username/IPTV/main/public/streams"

@@ -1,0 +1,21 @@
+{
+  "updated_at": "2026-10-21T14:50:45.665670+00:00",
+  "total_tested": 2465,
+  "online_channels": 1861,
+  "working_rate_percent": 75.5,
+  "categories": {
+    "News": 119,
+    "Sports": 87,
+    "Movies": 101,
+    "Entertainment": 100,
+    "Music": 121,
+    "Kids": 102,
+    "Documentary": 94,
+    "General": 118
+  },
+  "countries": {
+    "US": 694,
+    "UK": 76,
+    "CA": 62
+  }
+}

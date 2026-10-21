@@ -1,0 +1,49 @@
+name: Automated IPTV Stream Health Checker & Updater
+
+on:
+  schedule:
+    # Runs every 6 hours (at 00:00, 06:00, 12:00, and 18:00 UTC)
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+    # Allows manual trigger anytime from the GitHub Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-streams:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run IPTV Aggregator & Stream Health Validator
+        run: |
+          python -m src.updater
+
+      - name: Commit and Push Updated Playlists
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/streams/
+          
+          # Only commit if there are actual playlist updates
+          if git diff --staged --quiet; then
+            echo "No changes detected in streams. Everything is up to date."
+          else
+            git commit -m "Auto-update: verified active IPTV streams [$(date -u +'%Y-%m-%d %H:%M UTC')]"
+            git push
+          fi

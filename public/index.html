@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Free IPTV - Live Verified Television</title>
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- Hls.js for HLS video playback in all browsers -->
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+  <!-- Lucide Icons -->
+  <script src="https://unpkg.com/lucide@latest"></script>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen flex flex-col font-sans">
+
+  <!-- Header -->
+  <header class="border-b border-slate-800 bg-slate-900/80 backdrop-blur sticky top-0 z-50">
+    <div class="max-w-7xl mx-auto px-4 py-3 flex items-center justify-between">
+      <div class="flex items-center gap-3">
+        <div class="w-10 h-10 rounded-xl bg-gradient-to-tr from-cyan-500 to-blue-600 flex items-center justify-center shadow-lg shadow-cyan-500/20">
+          <i data-lucide="tv" class="w-5 h-5 text-white"></i>
+        </div>
+        <div>
+          <h1 class="text-lg font-bold bg-gradient-to-r from-white via-slate-200 to-cyan-400 bg-clip-text text-transparent">Free IPTV Edge</h1>
+          <p class="text-xs text-slate-400">Automated GitHub & Cloudflare Stream Validator</p>
+        </div>
+      </div>
+
+      <!-- Action Buttons -->
+      <div class="flex items-center gap-3">
+        <button id="copyM3uBtn" class="flex items-center gap-2 px-3 py-1.5 rounded-lg bg-cyan-600 hover:bg-cyan-500 text-white text-xs font-semibold shadow transition">
+          <i data-lucide="copy" class="w-4 h-4"></i>
+          <span>Copy M3U Playlist</span>
+        </button>
+        <a href="https://github.com" target="_blank" id="githubLink" class="p-2 text-slate-400 hover:text-white transition">
+          <i data-lucide="github" class="w-5 h-5"></i>
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Container -->
+  <main class="max-w-7xl mx-auto px-4 py-6 flex-1 w-full flex flex-col lg:flex-row gap-6">
+
+    <!-- Left Column: Video Player & Now Playing Details -->
+    <div class="lg:w-2/3 flex flex-col gap-4">
+      <!-- Video Player Wrapper -->
+      <div class="relative aspect-video bg-black rounded-2xl overflow-hidden shadow-2xl border border-slate-800 flex items-center justify-center group">
+        <video id="videoPlayer" class="w-full h-full object-contain" controls autoplay playsinline></video>
+        
+        <!-- Loading Overlay -->
+        <div id="videoLoader" class="absolute inset-0 bg-black/75 flex flex-col items-center justify-center gap-3 pointer-events-none hidden">
+          <div class="w-10 h-10 border-4 border-cyan-500 border-t-transparent rounded-full animate-spin"></div>
+          <span class="text-sm font-medium text-cyan-300">Connecting to live stream...</span>
+        </div>
+
+        <!-- Error Overlay -->
+        <div id="videoError" class="absolute inset-0 bg-slate-900/90 flex flex-col items-center justify-center gap-3 p-6 text-center hidden">
+          <i data-lucide="alert-triangle" class="w-10 h-10 text-amber-400"></i>
+          <p class="text-sm text-slate-300">Unable to load this stream in web browser directly (may require CORS proxy or VLC player).</p>
+          <button id="retryBtn" class="px-4 py-1.5 rounded-lg bg-slate-800 hover:bg-slate-700 text-xs font-medium">Retry Stream</button>
+        </div>
+      </div>
+
+      <!-- Channel Information Bar -->
+      <div class="p-4 rounded-xl bg-slate-900 border border-slate-800 flex flex-wrap items-center justify-between gap-4">
+        <div class="flex items-center gap-3">
+          <img id="currentLogo" src="https://via.placeholder.com/48?text=TV" alt="Logo" class="w-12 h-12 rounded-lg bg-slate-800 object-contain p-1 border border-slate-700">
+          <div>
+            <h2 id="currentTitle" class="text-base font-bold text-white">Select a Channel</h2>
+            <div class="flex items-center gap-2 mt-1">
+              <span id="currentCategory" class="px-2 py-0.5 rounded text-[11px] font-medium bg-slate-800 text-slate-300">Category</span>
+              <span id="currentCountry" class="px-2 py-0.5 rounded text-[11px] font-medium bg-slate-800 text-slate-400">Country</span>
+              <span class="inline-flex items-center gap-1 text-[11px] text-emerald-400">
+                <span class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
+                <span>Verified Online</span>
+              </span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Quick Links / External Players -->
+        <div class="flex items-center gap-2">
+          <button id="copyStreamUrlBtn" title="Copy Direct Stream URL" class="p-2 rounded-lg bg-slate-800 hover:bg-slate-700 text-slate-300 hover:text-white transition text-xs flex items-center gap-1.5">
+            <i data-lucide="link" class="w-4 h-4"></i>
+            <span>Copy Link</span>
+          </button>
+        </div>
+      </div>
+
+      <!-- Quick Platform Guide -->
+      <div class="grid grid-cols-2 sm:grid-cols-4 gap-3 text-xs">
+        <div class="p-3 rounded-xl bg-slate-900/60 border border-slate-800/80">
+          <span class="font-semibold text-slate-300 block mb-1">🖥️ VLC Player</span>
+          <span class="text-slate-500">Media &rarr; Open Network Stream &rarr; Paste M3U</span>
+        </div>
+        <div class="p-3 rounded-xl bg-slate-900/60 border border-slate-800/80">
+          <span class="font-semibold text-slate-300 block mb-1">📺 Smart TV</span>
+          <span class="text-slate-500">TiviMate or IPTV Smarters Pro app</span>
+        </div>
+        <div class="p-3 rounded-xl bg-slate-900/60 border border-slate-800/80">
+          <span class="font-semibold text-slate-300 block mb-1">📱 Apple / iOS</span>
+          <span class="text-slate-500">GSE Smart IPTV or IPTVX</span>
+        </div>
+        <div class="p-3 rounded-xl bg-slate-900/60 border border-slate-800/80">
+          <span class="font-semibold text-slate-300 block mb-1">⚡ Cloudflare</span>
+          <span class="text-slate-500">Sub-30ms global edge cache & routing</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Right Column: Channels Navigation & Search -->
+    <div class="lg:w-1/3 flex flex-col gap-4">
+      <!-- Search & Filters -->
+      <div class="flex flex-col gap-3">
+        <div class="relative">
+          <i data-lucide="search" class="w-4 h-4 text-slate-400 absolute left-3 top-3"></i>
+          <input type="text" id="searchInput" placeholder="Search channels (e.g. News, BBC, Sports)..." class="w-full bg-slate-900 border border-slate-800 rounded-xl pl-9 pr-4 py-2 text-sm text-slate-200 placeholder-slate-500 focus:outline-none focus:border-cyan-500 transition">
+        </div>
+
+        <!-- Category Pills Bar -->
+        <div id="categoryPills" class="flex gap-1.5 overflow-x-auto pb-1 text-xs no-scrollbar">
+          <button data-cat="all" class="cat-pill active px-3 py-1.5 rounded-lg bg-cyan-600 text-white font-medium whitespace-nowrap">All</button>
+          <button data-cat="news" class="cat-pill px-3 py-1.5 rounded-lg bg-slate-900 hover:bg-slate-800 text-slate-300 whitespace-nowrap">News</button>
+          <button data-cat="sports" class="cat-pill px-3 py-1.5 rounded-lg bg-slate-900 hover:bg-slate-800 text-slate-300 whitespace-nowrap">Sports</button>
+          <button data-cat="movies" class="cat-pill px-3 py-1.5 rounded-lg bg-slate-900 hover:bg-slate-800 text-slate-300 whitespace-nowrap">Movies</button>
+          <button data-cat="entertainment" class="cat-pill px-3 py-1.5 rounded-lg bg-slate-900 hover:bg-slate-800 text-slate-300 whitespace-nowrap">Entertainment</button>
+          <button data-cat="music" class="cat-pill px-3 py-1.5 rounded-lg bg-slate-900 hover:bg-slate-800 text-slate-300 whitespace-nowrap">Music</button>
+          <button data-cat="kids" class="cat-pill px-3 py-1.5 rounded-lg bg-slate-900 hover:bg-slate-800 text-slate-300 whitespace-nowrap">Kids</button>
+          <button data-cat="documentary" class="cat-pill px-3 py-1.5 rounded-lg bg-slate-900 hover:bg-slate-800 text-slate-300 whitespace-nowrap">Docs</button>
+        </div>
+      </div>
+
+      <!-- Channel List -->
+      <div class="flex-1 bg-slate-900/50 border border-slate-800 rounded-2xl flex flex-col overflow-hidden max-h-[600px]">
+        <!-- List Header -->
+        <div class="px-4 py-3 border-b border-slate-800 flex items-center justify-between text-xs text-slate-400">
+          <span id="channelCountText">Loading channels...</span>
+          <span id="healthBadge" class="flex items-center gap-1.5 text-emerald-400">
+            <span class="w-1.5 h-1.5 rounded-full bg-emerald-400"></span>
+            <span>All Links Verified</span>
+          </span>
+        </div>
+
+        <!-- Scrollable Channels Container -->
+        <div id="channelsContainer" class="flex-1 overflow-y-auto divide-y divide-slate-800/60 p-2 space-y-1">
+          <!-- Dynamically populated -->
+        </div>
+      </div>
+    </div>
+
+  </main>
+
+  <!-- Footer -->
+  <footer class="border-t border-slate-800 py-4 text-center text-xs text-slate-500">
+    <p>Automated via GitHub Actions (6-hour cron health checks) & Cloudflare Edge CDN. All streams are legal, free-to-air public broadcasts.</p>
+  </footer>
+
+  <script src="app.js"></script>
+  <script>
+    lucide.createIcons();
+  </script>
+</body>
+</html>
