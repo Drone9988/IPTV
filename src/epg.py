@@ -12,6 +12,15 @@ import xml.etree.ElementTree as ET
 
 # Program templates tailored by channel category for rich, realistic schedules
 CATEGORY_PROGRAMS = {
+    "Farsi / Iranian": [
+        ("Persian Morning News & Weather (اخبار صبحگاهی)", "Morning headlines, national developments, currency rates, and regional weather.", 60),
+        ("Persian Cinema & Classic Feature (فیلم سینمایی)", "Acclaimed Iranian and Persian cinema masterpieces, drama, and comedy film presentation.", 120),
+        ("Live Sports & Football Roundup (گزارش ورزشی)", "Live coverage of football leagues, wrestling, volleyball, and international sports highlights.", 90),
+        ("Persian Music Spotlight (موسیقی اصیل و پاپ)", "The finest Persian traditional music, contemporary pop hits, and music video premieres.", 60),
+        ("Prime Evening News & Debate (اخبار شبانگاهی)", "Prime evening news bulletin, in-depth analytical reports, and expert debate panels.", 60),
+        ("Documentary Iran: Heritage & Nature (مستند ایران)", "Breathtaking cultural heritage, historical architecture, Persian carpets, and nature reserves.", 60),
+        ("Late Night Persian Comedy & Talk Show (برنامه شبانه)", "Entertainment, comedy sketches, celebrity interviews, and cultural discussions.", 60),
+    ],
     "News": [
         ("Morning News Roundup", "Comprehensive morning bulletin, market preview, and global weather updates.", 60),
         ("World News Today", "In-depth international news reporting, geopolitical analysis, and live correspondent reports.", 60),

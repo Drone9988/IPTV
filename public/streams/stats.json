@@ -1,9 +1,10 @@
 {
-  "updated_at": "2026-10-21T15:15:44.408482+00:00",
-  "total_tested": 2465,
-  "online_channels": 1861,
-  "working_rate_percent": 75.5,
+  "updated_at": "2026-10-21T15:22:26.558943+00:00",
+  "total_tested": 2800,
+  "online_channels": 2062,
+  "working_rate_percent": 73.6,
   "categories": {
+    "Farsi / Iranian": 201,
     "News": 150,
     "Sports": 87,
     "Movies": 164,
@@ -15,8 +16,9 @@
   },
   "countries": {
     "INT": 1029,
-    "US": 694,
     "UK": 76,
+    "US": 694,
+    "IR": 201,
     "CA": 62
   },
   "epg_available": true,

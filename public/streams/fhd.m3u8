@@ -452,6 +452,45 @@ https://verginanews.gr:8443/hls_live/stream1.m3u8
 #EXTINF:-1 tvg-id="WeTV.us@East" tvg-name="We TV (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/We_TV_logo_2014.svg/960px-We_TV_logo_2014.svg.png" group-title="Entertainment" tvg-country="US" tvg-quality="1080p FHD",We TV (1080p) [1080p FHD]
 #EXTGRP:Entertainment
 http://23.237.104.106:8080/USA_WE_TV/index.m3u8
+#EXTINF:-1 tvg-id="HighVisionTV.us@SD" tvg-name="High Vision TV (1080p)" tvg-logo="https://i.imgur.com/zhCgoru.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="1080p FHD",High Vision TV (1080p) [1080p FHD]
+#EXTGRP:Farsi / Iranian
+https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8
+#EXTINF:-1 tvg-id="ImamHusseinTV1.iq@SD" tvg-name="Imam Hussein TV 1 (1080p)" tvg-logo="https://i.imgur.com/pDdUvz7.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="1080p FHD",Imam Hussein TV 1 (1080p) [1080p FHD]
+#EXTGRP:Farsi / Iranian
+https://fa.imamhossaintv.com/live/ih1.m3u8
+#EXTINF:-1 tvg-id="ImamHusseinTV6.iq@SD" tvg-name="Imam Hussein TV 6 (1080p)" tvg-logo="https://i.imgur.com/lqhU0PY.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="1080p FHD",Imam Hussein TV 6 (1080p) [1080p FHD]
+#EXTGRP:Farsi / Iranian
+https://live.imamhossaintv.com/live/ih6.m3u8
+#EXTINF:-1 tvg-id="IranInternational.uk@SD" tvg-name="Iran International (1080p)" tvg-logo="https://i.imgur.com/55RpaF3.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="1080p FHD",Iran International (1080p) [1080p FHD]
+#EXTGRP:Farsi / Iranian
+https://hlspackager.akamaized.net/live/DB/IRAN_INTERNATIONAL/HLS/IRAN_INTERNATIONAL.m3u8
+#EXTINF:-1 tvg-id="IRIBUHD.ir@4K" tvg-name="IRIB UHD (2160p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_FARATAR_UHD.png/960px-IRIB_FARATAR_UHD.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="4K UHD",IRIB UHD (2160p) [4K UHD]
+#EXTGRP:Farsi / Iranian
+https://live-aburayhan1105.telewebion.net/ek/faratar/live/playlist.m3u8?isp=NA&city=NA
+#EXTINF:-1 tvg-id="IRIBUHD.ir@4K" tvg-name="IRIB UHD (2160p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_FARATAR_UHD.png/960px-IRIB_FARATAR_UHD.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="4K UHD",IRIB UHD (2160p) [4K UHD]
+#EXTGRP:Farsi / Iranian
+https://live-aburayhan1103.telewebion.net/ek/faratar/live/playlist.m3u8?isp=NA&city=NA
+#EXTINF:-1 tvg-id="MBCPersia.ae@SD" tvg-name="MBC Persia (1080p)" tvg-logo="https://i.imgur.com/4FXiyjn.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="1080p FHD",MBC Persia (1080p) [1080p FHD]
+#EXTGRP:Farsi / Iranian
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
+#EXTINF:-1 tvg-id="PMCRoyale.ae@SD" tvg-name="PMC Royale (1080p)" tvg-logo="" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="1080p FHD",PMC Royale (1080p) [1080p FHD]
+#EXTGRP:Farsi / Iranian
+https://pmcrohls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PressTVFrench.ir@SD" tvg-name="Press TV French (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/960px-Press_TV_logo.svg.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="1080p FHD",Press TV French (1080p) [1080p FHD]
+#EXTGRP:Farsi / Iranian
+https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RasoulallahTv.ir@HD" tvg-name="RasoulallahTv (1080p)" tvg-logo="https://i.imgur.com/Jh5ADee.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="1080p FHD",RasoulallahTv (1080p) [1080p FHD]
+#EXTGRP:Farsi / Iranian
+https://avr.host247.net/live/rasoulallahtv/playlist.m3u8
+#EXTINF:-1 tvg-id="RJTV.us@SD" tvg-name="RJTV (1080p)" tvg-logo="https://i.imgur.com/a1zuW2C.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="1080p FHD",RJTV (1080p) [1080p FHD]
+#EXTGRP:Farsi / Iranian
+https://rjtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="VoATVPersian.us@SD" tvg-name="VoA TV Persian (1080p)" tvg-logo="https://i.imgur.com/TmqComb.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="1080p FHD",VoA TV Persian (1080p) [1080p FHD]
+#EXTGRP:Farsi / Iranian
+https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
+#EXTINF:-1 tvg-id="WiseHumanTv.ir@HD" tvg-name="WiseHumanTv (1080p)" tvg-logo="https://i.imgur.com/BT7EtfB.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="1080p FHD",WiseHumanTv (1080p) [1080p FHD]
+#EXTGRP:Farsi / Iranian
+https://avr.host247.net/live/WiseHumanTv/playlist.m3u8
 #EXTINF:-1 tvg-id="3ABNLatino.us@SD" tvg-name="3ABN Latino (1080p)" tvg-logo="https://i.imgur.com/Ugb4AFo.png" group-title="General" tvg-country="US" tvg-quality="1080p FHD",3ABN Latino (1080p) [1080p FHD]
 #EXTGRP:General
 http://138.59.177.78:9999/play/a0a3/index.m3u8

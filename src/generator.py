@@ -117,8 +117,14 @@ def save_playlists_and_json(
         cat_lower = cat.lower()
         cat_channels = [ch for ch in channels if ch.get("category", "").lower() == cat_lower]
         if cat_channels:
-            cat_m3u = generate_m3u8(cat_channels, playlist_title=f"Free IPTV - {cat}", epg_url="epg.xml")
-            cat_filename = f"{cat_lower.replace(' ', '_')}.m3u8"
+            cat_m3u = generate_m3u8(cat_channels, playlist_title=f"Free IPTV - {cat}", epg_url="epg.xml.gz")
+            if "farsi" in cat_lower:
+                cat_filename = "farsi.m3u8"
+                # Also save iran.m3u8 alias
+                with open(os.path.join(output_dir, "iran.m3u8"), "w", encoding="utf-8") as f:
+                    f.write(cat_m3u)
+            else:
+                cat_filename = f"{cat_lower.replace(' ', '_').replace('/', '_')}.m3u8"
             with open(os.path.join(output_dir, cat_filename), "w", encoding="utf-8") as f:
                 f.write(cat_m3u)
             cat_counts[cat] = len(cat_channels)

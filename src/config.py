@@ -63,6 +63,19 @@ SOURCES: List[Dict[str, str]] = [
         "name": "IPTV-org English Worldwide",
         "url": "https://iptv-org.github.io/iptv/languages/eng.m3u",
         "category": "General"
+    },
+    # Iranian & Persian Worldwide Feeds
+    {
+        "name": "IPTV-org Persian Worldwide",
+        "url": "https://iptv-org.github.io/iptv/languages/fas.m3u",
+        "category": "Farsi / Iranian",
+        "country": "IR"
+    },
+    {
+        "name": "IPTV-org Iran National",
+        "url": "https://iptv-org.github.io/iptv/countries/ir.m3u",
+        "category": "Farsi / Iranian",
+        "country": "IR"
     }
 ]
 
@@ -93,6 +106,7 @@ CHECKER_SETTINGS: Dict[str, Any] = {
 
 # Categories to generate dedicated M3U playlists for
 CATEGORIES = [
+    "Farsi / Iranian",
     "News",
     "Sports",
     "Movies",

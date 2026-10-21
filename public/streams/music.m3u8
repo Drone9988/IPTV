@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="epg.xml" x-tvg-url="epg.xml" refresh="3600"
+#EXTM3U url-tvg="epg.xml.gz" x-tvg-url="epg.xml.gz" refresh="3600"
 #PLAYLIST:Free IPTV - Music
 #EXT-X-VERSION:3
 

@@ -62,7 +62,11 @@ CATEGORY_MAP = {
     "culture": "Education",
     "gaming": "Gaming",
     "tech": "Gaming",
-    "general": "General"
+    "general": "General",
+    "farsi": "Farsi / Iranian",
+    "iran": "Farsi / Iranian",
+    "persian": "Farsi / Iranian",
+    "farsi / iranian": "Farsi / Iranian"
 }
 
 RESOLUTION_PATTERNS = [
@@ -109,9 +113,25 @@ def enrich_channel_metadata(channel: Dict[str, Any]) -> Dict[str, Any]:
     Enriches and standardizes all channel metadata.
     """
     name = clean_channel_name(channel.get("name", "Channel"))
-    category = normalize_category(channel.get("category", "General"))
+    raw_cat = channel.get("category", "")
+    category = normalize_category(raw_cat)
     country_code, flag, country_name = normalize_country(channel.get("country", ""))
     quality = detect_quality(name, channel.get("url", ""))
+    language = (channel.get("language") or "").lower()
+
+    # Specific Iranian & Farsi classification
+    is_farsi = (
+        language in ("fas", "per", "fa") or
+        country_code == "IR" or
+        "farsi" in raw_cat.lower() or
+        "iran" in raw_cat.lower() or
+        "persian" in raw_cat.lower()
+    )
+
+    if is_farsi:
+        category = "Farsi / Iranian"
+        if country_code in ("", "INT"):
+            country_code, flag, country_name = "IR", "🇮🇷", "Iran"
 
     enriched = channel.copy()
     enriched["name"] = name

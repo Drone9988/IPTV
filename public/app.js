@@ -371,7 +371,7 @@ function applyFilters() {
     // Name or category search
     const matchesName = (c.name || "").toLowerCase().includes(query) || (c.category || "").toLowerCase().includes(query);
     // Category pill
-    const matchesCat = selectedCat === "all" || (c.category || "").toLowerCase() === selectedCat;
+    const matchesCat = selectedCat === "all" || (c.category || "").toLowerCase().includes(selectedCat);
     // Country dropdown
     const matchesCountry = selectedCountry === "all" || (c.country_code || "").toUpperCase() === selectedCountry.toUpperCase();
     // Quality dropdown
