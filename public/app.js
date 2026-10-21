@@ -167,8 +167,8 @@ function playChannel(channel) {
   startStream(channel.url);
 }
 
-// 4. HLS Video Player Engine
-function startStream(streamUrl) {
+// 4. HLS Video Player Engine with Auto-Proxy Failover
+function startStream(streamUrl, isRetry = false) {
   videoLoader.classList.remove("hidden");
   videoError.classList.add("hidden");
 
@@ -194,8 +194,14 @@ function startStream(streamUrl) {
 
     currentHls.on(Hls.Events.ERROR, (event, data) => {
       if (data.fatal) {
-        videoLoader.classList.add("hidden");
-        videoError.classList.remove("hidden");
+        if (!isRetry && !streamUrl.includes("/proxy?url=")) {
+          console.log("Direct stream blocked by CORS. Auto-retrying via Cloudflare Proxy...");
+          const proxyUrl = `/proxy?url=${encodeURIComponent(streamUrl)}`;
+          startStream(proxyUrl, true);
+        } else {
+          videoLoader.classList.add("hidden");
+          videoError.classList.remove("hidden");
+        }
       }
     });
   } else if (videoPlayer.canPlayType("application/vnd.apple.mpegurl")) {
@@ -203,6 +209,15 @@ function startStream(streamUrl) {
     videoPlayer.addEventListener("loadedmetadata", () => {
       videoLoader.classList.add("hidden");
       videoPlayer.play().catch(() => {});
+    });
+    videoPlayer.addEventListener("error", () => {
+      if (!isRetry && !streamUrl.includes("/proxy?url=")) {
+        const proxyUrl = `/proxy?url=${encodeURIComponent(streamUrl)}`;
+        startStream(proxyUrl, true);
+      } else {
+        videoLoader.classList.add("hidden");
+        videoError.classList.remove("hidden");
+      }
     });
   } else {
     videoLoader.classList.add("hidden");
