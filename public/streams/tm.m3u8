@@ -1,0 +1,19 @@
+#EXTM3U url-tvg="epg.xml" x-tvg-url="epg.xml" refresh="3600"
+#PLAYLIST:Free IPTV - TM
+#EXT-X-VERSION:3
+
+#EXTINF:-1 tvg-id="AltynAsyr.tm" tvg-name="Altyn Asyr" tvg-logo="" group-title="General" tvg-country="TM" tvg-quality="720p HD",Altyn Asyr [720p HD]
+#EXTGRP:General
+https://alpha.tv.online.tm/hls/ch001.m3u8
+#EXTINF:-1 tvg-id="ARKADAG.tm" tvg-name="ARKADAG" tvg-logo="" group-title="General" tvg-country="TM" tvg-quality="720p HD",ARKADAG [720p HD]
+#EXTGRP:General
+https://alpha.tv.online.tm/hls/ch000.m3u8
+#EXTINF:-1 tvg-id="Ashgabat.tm" tvg-name="Ashgabat" tvg-logo="" group-title="General" tvg-country="TM" tvg-quality="720p HD",Ashgabat [720p HD]
+#EXTGRP:General
+https://alpha.tv.online.tm/hls/ch006.m3u8
+#EXTINF:-1 tvg-id="Miras.tm" tvg-name="Miras" tvg-logo="" group-title="General" tvg-country="TM" tvg-quality="720p HD",Miras [720p HD]
+#EXTGRP:General
+https://alpha.tv.online.tm/hls/ch003.m3u8
+#EXTINF:-1 tvg-id="Yaslyk.tm" tvg-name="Yaslyk" tvg-logo="" group-title="General" tvg-country="TM" tvg-quality="720p HD",Yaslyk [720p HD]
+#EXTGRP:General
+https://alpha.tv.online.tm/hls/ch002.m3u8

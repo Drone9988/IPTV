@@ -1,0 +1,43 @@
+#EXTM3U url-tvg="epg.xml" x-tvg-url="epg.xml" refresh="3600"
+#PLAYLIST:Free IPTV - CL
+#EXT-X-VERSION:3
+
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="13 Cultura" tvg-logo="https://i.imgur.com/49QkKWv.png" group-title="General" tvg-country="CL" tvg-quality="720p HD",13 Cultura [720p HD]
+#EXTGRP:General
+https://dai.google.com/linear/hls/pa/event/GI-9cp_bT8KcerLpZwkuhw/stream/e5512873-cb4f-44e9-aa0d-70d656988e30:CHS/master.m3u8
+#EXTINF:-1 tvg-id="13P.cl" tvg-name="13 Prime" tvg-logo="https://i.imgur.com/YwDFNxs.png" group-title="General" tvg-country="CL" tvg-quality="720p HD",13 Prime [720p HD]
+#EXTGRP:General
+https://dai.google.com/linear/hls/pa/event/p4mmBxEzSmKAxY1GusOHrw/stream/b364c629-e292-4d8f-8787-e56568c831ff:ATL/master.m3u8
+#EXTINF:-1 tvg-id="13T.cl" tvg-name="13 Teleseries" tvg-logo="https://i.imgur.com/aJMBnse.png" group-title="General" tvg-country="CL" tvg-quality="720p HD",13 Teleseries [720p HD]
+#EXTGRP:General
+https://dai.google.com/linear/hls/pa/event/f4TrySe8SoiGF8Lu3EIq1g/stream/194fe72b-fcb9-44e0-b530-33695c8a8972:DLS/master.m3u8
+#EXTINF:-1 tvg-id="biobiochile.cl" tvg-name="Bio Bio TV" tvg-logo="https://i.imgur.com/wrRufts.png" group-title="General" tvg-country="CL" tvg-quality="720p HD",Bio Bio TV [720p HD]
+#EXTGRP:General
+https://jireh-9-hls-video-us-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8?dpssid=b26880553796ad8ec26cc6bc&sid=ba5t1l1xb214492711736ad8ec26cc6b9&ndvc=1
+#EXTINF:-1 tvg-id="Canal13.cl" tvg-name="Canal 13" tvg-logo="https://i.imgur.com/JIo1HBs.png" group-title="General" tvg-country="CL" tvg-quality="720p HD",Canal 13 [720p HD]
+#EXTGRP:General
+https://dai.google.com/linear/hls/pa/event/nthipJzGQY-A-N0t6xCZhA/stream/ef08332c-5df7-4f94-b776-a93964d5bb20:CHS/master.m3u8
+#EXTINF:-1 tvg-id="ElPinguinoTV.cl" tvg-name="El Pingüino TV" tvg-logo="https://i.imgur.com/ohXs2NV.png" group-title="General" tvg-country="CL" tvg-quality="720p HD",El Pingüino TV [720p HD]
+#EXTGRP:General
+https://jireh-9-hls-video-us-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.m3u8?dpssid=b22666484566ad8ec26ab5b1&sid=ba5t1l1xb215548751726ad8ec26ab5b0&ndvc=1
+#EXTINF:-1 tvg-id="mega.cl" tvg-name="Mega" tvg-logo="https://i.imgur.com/CYdWSDb.png" group-title="General" tvg-country="CL" tvg-quality="720p HD",Mega [720p HD]
+#EXTGRP:General
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SoloTV.cl" tvg-name="SoloTV" tvg-logo="https://i.imgur.com/Ad2ueID.png" group-title="General" tvg-country="CL" tvg-quality="720p HD",SoloTV [720p HD]
+#EXTGRP:General
+https://stream.making.cl/memfs/ee909361-73e9-4e74-8391-5f1b0b8006c2.m3u8
+#EXTINF:-1 tvg-id="T13.cl" tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" group-title="General" tvg-country="CL" tvg-quality="720p HD",T13 en vivo [720p HD]
+#EXTGRP:General
+https://jireh-9-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?dpssid=b217942170966ad8ec2693bbb&sid=ba5t1l1xb221077820676ad8ec2693bb8&ndvc=1
+#EXTINF:-1 tvg-id="TVPlus.cl" tvg-name="TV+" tvg-logo="https://i.imgur.com/NtuZIEJ.png" group-title="General" tvg-country="CL" tvg-quality="720p HD",TV+ [720p HD]
+#EXTGRP:General
+https://jireh-8-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8?dpssid=1449dc49e26eb263b3e2e513f9afa2d3&sid=ba5t1l1xb22896426526ad8ec26ba85e&ndvc=0
+#EXTINF:-1 tvg-id="TVN3.cl" tvg-name="TVN 3" tvg-logo="https://i.imgur.com/84lWqRi.png" group-title="General" tvg-country="CL" tvg-quality="720p HD",TVN 3 [720p HD]
+#EXTGRP:General
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+#EXTINF:-1 tvg-id="UCL.uy" tvg-name="UCL" tvg-logo="https://i.imgur.com/JxqVHPX.png" group-title="General" tvg-country="CL" tvg-quality="720p HD",UCL [720p HD]
+#EXTGRP:General
+https://jireh-6-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ucl/ucl.smil/playlist.m3u8?dpssid=b28364370476ad8ec26a2894&sid=ba5t1l1xb25490744286ad8ec26a2892&ndvc=1
+#EXTINF:-1 tvg-id="UCVTV.cl" tvg-name="UCV Televisión" tvg-logo="https://i.imgur.com/2VL4Pts.png" group-title="General" tvg-country="CL" tvg-quality="720p HD",UCV Televisión [720p HD]
+#EXTGRP:General
+https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8

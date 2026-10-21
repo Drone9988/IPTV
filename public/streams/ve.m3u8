@@ -1,0 +1,19 @@
+#EXTM3U url-tvg="epg.xml" x-tvg-url="epg.xml" refresh="3600"
+#PLAYLIST:Free IPTV - VE
+#EXT-X-VERSION:3
+
+#EXTINF:-1 tvg-id="Globovision.ve" tvg-name="Globovisión" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/47/Globovisi%C3%B3n_logo_2013.png" group-title="General" tvg-country="VE" tvg-quality="720p HD",Globovisión [720p HD]
+#EXTGRP:General
+http://181.78.8.199:8000/play/a09k/index.m3u8
+#EXTINF:-1 tvg-id="LatinaTV.ve" tvg-name="Latina TV" tvg-logo="https://intervenhosting.net/imagenes/latinatv.jpg" group-title="General" tvg-country="VE" tvg-quality="720p HD",Latina TV [720p HD]
+#EXTGRP:General
+https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8
+#EXTINF:-1 tvg-id="TeleSUR.ve" tvg-name="Telesur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/TeleSUR.png" group-title="General" tvg-country="VE" tvg-quality="720p HD",Telesur [720p HD]
+#EXTGRP:General
+https://raw.githubusercontent.com/BellezaEmporium/IPTV_Exception/master/channels/ve/telesur.m3u8
+#EXTINF:-1 tvg-id="Televen.ve" tvg-name="Televen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Televen_logo.PNG" group-title="General" tvg-country="VE" tvg-quality="720p HD",Televen [720p HD]
+#EXTGRP:General
+http://181.78.8.199:8000/play/a09j/index.m3u8
+#EXTINF:-1 tvg-id="ValeTV.ve" tvg-name="Vale TV Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Logo_de_VALE_TV.png" group-title="General" tvg-country="VE" tvg-quality="720p HD",Vale TV Ⓢ [720p HD]
+#EXTGRP:General
+https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8

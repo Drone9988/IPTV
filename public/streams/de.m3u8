@@ -1,0 +1,28 @@
+#EXTM3U url-tvg="epg.xml" x-tvg-url="epg.xml" refresh="3600"
+#PLAYLIST:Free IPTV - DE
+#EXT-X-VERSION:3
+
+#EXTINF:-1 tvg-id="ARDalpha.de" tvg-name="ARD Alpha Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/500px-ARD_alpha.svg.png" group-title="General" tvg-country="DE" tvg-quality="720p HD",ARD Alpha Ⓖ [720p HD]
+#EXTGRP:General
+https://mcdn.br.de/br/fs/ard_alpha/hls/int/master.m3u8
+#EXTINF:-1 tvg-id="BRFernsehenSud.de" tvg-name="BR Süd Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_BR_Fernsehen_2021.svg/500px-Logo_BR_Fernsehen_2021.svg.png" group-title="General" tvg-country="DE" tvg-quality="720p HD",BR Süd Ⓖ [720p HD]
+#EXTGRP:General
+https://mcdn.br.de/br/fs/bfs_sued/hls/int/master.m3u8
+#EXTINF:-1 tvg-id="DasErste.de" tvg-name="Das Erste Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/500px-Das_Erste_2014.svg.png" group-title="General" tvg-country="DE" tvg-quality="720p HD",Das Erste Ⓖ [720p HD]
+#EXTGRP:General
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+#EXTINF:-1 tvg-id="HRFernsehen.de" tvg-name="HR Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/HR-Fernsehen_Logo_2023.svg/500px-HR-Fernsehen_Logo_2023.svg.png" group-title="General" tvg-country="DE" tvg-quality="720p HD",HR Ⓖ [720p HD]
+#EXTGRP:General
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+#EXTINF:-1 tvg-id="NDRFernsehenInternational.de" tvg-name="NDR International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/500px-Logo_NDR_Fernsehen_2017.svg.png" group-title="General" tvg-country="DE" tvg-quality="720p HD",NDR International [720p HD]
+#EXTGRP:General
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+#EXTINF:-1 tvg-id="NDRFernsehenMecklenburgVorpommern.de" tvg-name="NDR Mecklenburg-Vorpommern Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/500px-Logo_NDR_Fernsehen_2017.svg.png" group-title="General" tvg-country="DE" tvg-quality="720p HD",NDR Mecklenburg-Vorpommern Ⓖ [720p HD]
+#EXTGRP:General
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/master.m3u8
+#EXTINF:-1 tvg-id="SRFernsehen.de" tvg-name="SR Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/SR_Fernsehen_Logo_2023.svg/500px-SR_Fernsehen_Logo_2023.svg.png" group-title="General" tvg-country="DE" tvg-quality="720p HD",SR Ⓖ [720p HD]
+#EXTGRP:General
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="Tagesschau24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tagesschau24-2012.svg/500px-Tagesschau24-2012.svg.png" group-title="General" tvg-country="DE" tvg-quality="720p HD",Tagesschau24 [720p HD]
+#EXTGRP:General
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8

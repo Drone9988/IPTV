@@ -1,0 +1,19 @@
+#EXTM3U url-tvg="epg.xml" x-tvg-url="epg.xml" refresh="3600"
+#PLAYLIST:Free IPTV - FR
+#EXT-X-VERSION:3
+
+#EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-name="CGTN Français" tvg-logo="https://i.imgur.com/fMsJYzl.png" group-title="General" tvg-country="FR" tvg-quality="720p HD",CGTN Français [720p HD]
+#EXTGRP:General
+https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/960px-France_3_2018.svg.png" group-title="General" tvg-country="FR" tvg-quality="720p HD",France 3 [720p HD]
+#EXTGRP:General
+http://89.187.185.76:8080/France3/index.m3u8
+#EXTINF:-1 tvg-id="HandicapTV.fr" tvg-name="Handicap TV" tvg-logo="" group-title="General" tvg-country="FR" tvg-quality="720p HD",Handicap TV [720p HD]
+#EXTGRP:General
+https://srv.webtvmanager.fr:3697/stream/play.m3u8
+#EXTINF:-1 tvg-id="TVAlsace.fr" tvg-name="TV Alsace" tvg-logo="https://i.imgur.com/zaJDEOv.png" group-title="General" tvg-country="FR" tvg-quality="720p HD",TV Alsace [720p HD]
+#EXTGRP:General
+http://194.163.157.137:8080/hls/radioalsace.m3u8
+#EXTINF:-1 tvg-id="TVMulhouse.fr" tvg-name="TV Mulhouse" tvg-logo="https://i.imgur.com/4esQG8H.png" group-title="General" tvg-country="FR" tvg-quality="720p HD",TV Mulhouse [720p HD]
+#EXTGRP:General
+http://194.163.157.137:8080/hls/radiomulhouse.m3u8

@@ -1,0 +1,19 @@
+#EXTM3U url-tvg="epg.xml" x-tvg-url="epg.xml" refresh="3600"
+#PLAYLIST:Free IPTV - GE
+#EXT-X-VERSION:3
+
+#EXTINF:-1 tvg-id="1TV.ge" tvg-name="First Channel (1TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Pirveli_Arkhi_Logo_2022.svg/500px-Pirveli_Arkhi_Logo_2022.svg.png" group-title="General" tvg-country="GE" tvg-quality="720p HD",First Channel (1TV) [720p HD]
+#EXTGRP:General
+https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+#EXTINF:-1 tvg-id="2TV.ge" tvg-name="First Channel /Education/ (2TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/ka/c/c9/2_Tv_Logo.jpg" group-title="General" tvg-country="GE" tvg-quality="720p HD",First Channel /Education/ (2TV) [720p HD]
+#EXTGRP:General
+https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+#EXTINF:-1 tvg-id="ImediTV.ge" tvg-name="Imedi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Imlogo_2020.png" group-title="General" tvg-country="GE" tvg-quality="720p HD",Imedi TV [720p HD]
+#EXTGRP:General
+https://tv.cdn.xsg.ge/imedihd/index.m3u8
+#EXTINF:-1 tvg-id="Rustavi2.ge" tvg-name="Rustavi 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Rustavi_2_logo.png" group-title="General" tvg-country="GE" tvg-quality="720p HD",Rustavi 2 [720p HD]
+#EXTGRP:General
+http://nue01-edge01.itdc.ge/rustavi2hqnew/mpegts
+#EXTINF:-1 tvg-id="TVPirveli.ge" tvg-name="TV Pirveli" tvg-logo="https://i.imgur.com/cGHsM1x.png" group-title="General" tvg-country="GE" tvg-quality="720p HD",TV Pirveli [720p HD]
+#EXTGRP:General
+http://nue01-edge01.itdc.ge/pirvelitv/mpegts

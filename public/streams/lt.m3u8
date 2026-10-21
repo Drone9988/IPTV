@@ -1,0 +1,28 @@
+#EXTM3U url-tvg="epg.xml" x-tvg-url="epg.xml" refresh="3600"
+#PLAYLIST:Free IPTV - LT
+#EXT-X-VERSION:3
+
+#EXTINF:-1 tvg-id="BTV.lt" tvg-name="BTV" tvg-logo="https://i.imgur.com/AeplGsP.png" group-title="General" tvg-country="LT" tvg-quality="720p HD",BTV [720p HD]
+#EXTGRP:General
+http://stream.mcquack.net/35/index.m3u8
+#EXTINF:-1 tvg-id="DelfiTV.lt" tvg-name="Delfi TV" tvg-logo="https://i.imgur.com/IFoHP5M.png" group-title="General" tvg-country="LT" tvg-quality="720p HD",Delfi TV [720p HD]
+#EXTGRP:General
+https://s1.dcdn.lt/live/televizija/playlist.m3u8
+#EXTINF:-1 tvg-id="LNK.lt" tvg-name="LNK" tvg-logo="https://i.imgur.com/arCZ56g.png" group-title="General" tvg-country="LT" tvg-quality="720p HD",LNK [720p HD]
+#EXTGRP:General
+http://stream.mcquack.net/30/index.m3u8
+#EXTINF:-1 tvg-id="LRTLituanica.lt" tvg-name="LRT Lituanica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/LRT_Lituanica_Logo_2022.svg/500px-LRT_Lituanica_Logo_2022.svg.png" group-title="General" tvg-country="LT" tvg-quality="720p HD",LRT Lituanica [720p HD]
+#EXTGRP:General
+https://stream-live.lrt.lt/lituanica/master.m3u8
+#EXTINF:-1 tvg-id="LRTTV.lt" tvg-name="LRT TV" tvg-logo="https://i.imgur.com/FL2ZuGC.png" group-title="General" tvg-country="LT" tvg-quality="720p HD",LRT TV [720p HD]
+#EXTGRP:General
+http://stream.mcquack.net/31/index.m3u8
+#EXTINF:-1 tvg-id="TV3Lithuania.lt" tvg-name="TV3 Ⓢ" tvg-logo="https://i.imgur.com/7nipq0y.png" group-title="General" tvg-country="LT" tvg-quality="720p HD",TV3 Ⓢ [720p HD]
+#EXTGRP:General
+http://stream.mcquack.net/29/index.m3u8
+#EXTINF:-1 tvg-id="TV6Lithuania.lt" tvg-name="TV6 Ⓢ" tvg-logo="https://i.imgur.com/oC0jiFW.png" group-title="General" tvg-country="LT" tvg-quality="720p HD",TV6 Ⓢ [720p HD]
+#EXTGRP:General
+http://stream.mcquack.net/375/index.m3u8
+#EXTINF:-1 tvg-id="TV8Lithuania.lt" tvg-name="TV8 Ⓢ" tvg-logo="https://i.imgur.com/9g3wknl.png" group-title="General" tvg-country="LT" tvg-quality="720p HD",TV8 Ⓢ [720p HD]
+#EXTGRP:General
+http://stream.mcquack.net/374/index.m3u8

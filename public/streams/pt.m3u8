@@ -1,0 +1,19 @@
+#EXTM3U url-tvg="epg.xml" x-tvg-url="epg.xml" refresh="3600"
+#PLAYLIST:Free IPTV - PT
+#EXT-X-VERSION:3
+
+#EXTINF:-1 tvg-id="ADtv.pt" tvg-name="ADtv Ⓢ" tvg-logo="https://i.imgur.com/FvlcU3z.png" group-title="General" tvg-country="PT" tvg-quality="720p HD",ADtv Ⓢ [720p HD]
+#EXTGRP:General
+https://playout172.livextend.cloud/liveiframe/_definst_/ngrp:liveartvabr_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal" tvg-logo="https://i.imgur.com/NYH39xs.png" group-title="General" tvg-country="PT" tvg-quality="720p HD",CNN Portugal [720p HD]
+#EXTGRP:General
+https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/CNN_Portugal.m3u8
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="Porto Canal Ⓢ" tvg-logo="https://i.imgur.com/wsyvP2H.png" group-title="General" tvg-country="PT" tvg-quality="720p HD",Porto Canal Ⓢ [720p HD]
+#EXTGRP:General
+https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SIC.pt" tvg-name="SIC" tvg-logo="https://i.imgur.com/SPMqiDG.png" group-title="General" tvg-country="PT" tvg-quality="720p HD",SIC [720p HD]
+#EXTGRP:General
+https://production-fast-sic.content.okast.tv/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8?bpkio_sessionid=10d1c147d80-0dbe4b7a-9e53-45b9-a03b-436473b65b1c&bpkio_serviceid=fa2e8c4385712f9aa54bbe52b1bd9b6b&category=all
+#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/TVI_logo_2017.png" group-title="General" tvg-country="PT" tvg-quality="720p HD",TVI [720p HD]
+#EXTGRP:General
+https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8

@@ -1,0 +1,19 @@
+#EXTM3U url-tvg="epg.xml" x-tvg-url="epg.xml" refresh="3600"
+#PLAYLIST:Free IPTV - BA
+#EXT-X-VERSION:3
+
+#EXTINF:-1 tvg-id="N1BosniaHerzegovina.ba" tvg-name="N1 Bosna i Hercegovina" tvg-logo="https://i.imgur.com/72oMSWz.png" group-title="General" tvg-country="BA" tvg-quality="720p HD",N1 Bosna i Hercegovina [720p HD]
+#EXTGRP:General
+https://n1-bg-ku-r1-1.umn.cdn.united.cloud/stream/?i=nbVsit301-PI8bkUcoFXOg&a=X-v-TnEGf5cz-wbfDMNEAxTnISy1excIbR0w55dTBF-64C8mCvWasegVLdd-IzsTzj8lR0ykobLGN1x9s2b07CtFP8Pq6hOMN_aFrtWGxqrwcpbNdclLiv9Jz9ox4kjj6n043c8TlGu0rjFGGU0KULIyLNum34CeRsQIiQWtEzxXZwIfDV_laGC2UIvnZgNl1UZmQ2IKu-tVLYxXi0JvaA&sp=n1info&u=n1info&player=http
+#EXTINF:-1 tvg-id="BNTV.ba" tvg-name="RTV BN" tvg-logo="https://i.imgur.com/DUBvfWb.png" group-title="General" tvg-country="BA" tvg-quality="720p HD",RTV BN [720p HD]
+#EXTGRP:General
+https://stream2.rtvbn.tv:8080/live_1935/bnstream/index.m3u8
+#EXTINF:-1 tvg-id="RTVHB.ba" tvg-name="RTV HB Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/Logo_of_TV_Herceg-Bosne.png" group-title="General" tvg-country="BA" tvg-quality="720p HD",RTV HB Ⓢ [720p HD]
+#EXTGRP:General
+https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVZenica.ba" tvg-name="RTV ZE Ⓢ" tvg-logo="https://i.imgur.com/TKUaflB.png" group-title="General" tvg-country="BA" tvg-quality="720p HD",RTV ZE Ⓢ [720p HD]
+#EXTGRP:General
+https://stream.rtvze.ba/live/123/123.m3u8
+#EXTINF:-1 tvg-id="Televizija5.ba" tvg-name="Televizija 5" tvg-logo="https://i.imgur.com/znpvJys.png" group-title="General" tvg-country="BA" tvg-quality="720p HD",Televizija 5 [720p HD]
+#EXTGRP:General
+https://balkanmedia.dynu.net/hls/tv5web.m3u8

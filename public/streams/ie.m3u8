@@ -1,0 +1,25 @@
+#EXTM3U url-tvg="epg.xml" x-tvg-url="epg.xml" refresh="3600"
+#PLAYLIST:Free IPTV - IE
+#EXT-X-VERSION:3
+
+#EXTINF:-1 tvg-id="RTENews.ie" tvg-name="RTE News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/78/Updated_RT%C3%89_News_and_Current_Affairs_Logo.png" group-title="General" tvg-country="IE" tvg-quality="720p HD",RTE News [720p HD]
+#EXTGRP:General
+https://live.rte.ie/live/a/channel3/channel3.isml/channel3.m3u8
+#EXTINF:-1 tvg-id="RTEOne.ie" tvg-name="RTÉ One" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/RT%C3%89_One_2014.svg/500px-RT%C3%89_One_2014.svg.png" group-title="General" tvg-country="IE" tvg-quality="720p HD",RTÉ One [720p HD]
+#EXTGRP:General
+https://live.rte.ie/live/a/channel1/channel1.isml/channel1.m3u8
+#EXTINF:-1 tvg-id="RTE2.ie" tvg-name="RTÉ2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/500px-RT%C3%892_logo.svg.png" group-title="General" tvg-country="IE" tvg-quality="720p HD",RTÉ2 [720p HD]
+#EXTGRP:General
+https://live.rte.ie/live/a/channel2/channel2.isml/channel2.m3u8
+#EXTINF:-1 tvg-id="VirginMediaOne.ie" tvg-name="Virgin Media 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Virgin_Media_One_logo_2018.svg/960px-Virgin_Media_One_logo_2018.svg.png" group-title="General" tvg-country="IE" tvg-quality="720p HD",Virgin Media 1 [720p HD]
+#EXTGRP:General
+https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_one/index.m3u8
+#EXTINF:-1 tvg-id="VirginMediaTwo.ie" tvg-name="Virgin Media 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Virgin_Media_Two_logo_2018.svg/960px-Virgin_Media_Two_logo_2018.svg.png" group-title="General" tvg-country="IE" tvg-quality="720p HD",Virgin Media 2 [720p HD]
+#EXTGRP:General
+https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_two/index.m3u8
+#EXTINF:-1 tvg-id="VirginMediaThree.ie" tvg-name="Virgin Media 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Virgin_Media_Three_logo_2018.svg/960px-Virgin_Media_Three_logo_2018.svg.png" group-title="General" tvg-country="IE" tvg-quality="720p HD",Virgin Media 3 [720p HD]
+#EXTGRP:General
+https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_three/index.m3u8
+#EXTINF:-1 tvg-id="VirginMediaFour.ie" tvg-name="Virgin Media 4" tvg-logo="https://i.imgur.com/x4VsyIm.png" group-title="General" tvg-country="IE" tvg-quality="720p HD",Virgin Media 4 [720p HD]
+#EXTGRP:General
+https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_four/index.m3u8

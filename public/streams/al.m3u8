@@ -1,0 +1,19 @@
+#EXTM3U url-tvg="epg.xml" x-tvg-url="epg.xml" refresh="3600"
+#PLAYLIST:Free IPTV - AL
+#EXT-X-VERSION:3
+
+#EXTINF:-1 tvg-id="News24.al" tvg-name="News 24 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/960px-News_24_%28Albania%29.svg.png" group-title="General" tvg-country="AL" tvg-quality="720p HD",News 24 Ⓢ [720p HD]
+#EXTGRP:General
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TropojaTelevizion.al" tvg-name="Tropoja" tvg-logo="https://i.imgur.com/D3hNOVS.png" group-title="General" tvg-country="AL" tvg-quality="720p HD",Tropoja [720p HD]
+#EXTGRP:General
+https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV7Albania.al" tvg-name="TV 7 Albania" tvg-logo="https://i.imgur.com/k9WqPLZ.png" group-title="General" tvg-country="AL" tvg-quality="720p HD",TV 7 Albania [720p HD]
+#EXTGRP:General
+https://rpn3.bozztv.com/albaniatv/Med7-TV7Tirana/index.m3u8
+#EXTINF:-1 tvg-id="TVApollon.al" tvg-name="TV Apollon Ⓢ" tvg-logo="https://i.imgur.com/gUz2AjM.png" group-title="General" tvg-country="AL" tvg-quality="720p HD",TV Apollon Ⓢ [720p HD]
+#EXTGRP:General
+https://live.apollon.tv/Apollon-Web/video.m3u8?token=tnt9u76reF0d1
+#EXTINF:-1 tvg-id="VizionPlus.al" tvg-name="Vizion Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/500px-Vizion_Plus.svg.png" group-title="General" tvg-country="AL" tvg-quality="720p HD",Vizion Plus [720p HD]
+#EXTGRP:General
+https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8

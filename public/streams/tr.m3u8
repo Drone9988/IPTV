@@ -1,0 +1,22 @@
+#EXTM3U url-tvg="epg.xml" x-tvg-url="epg.xml" refresh="3600"
+#PLAYLIST:Free IPTV - TR
+#EXT-X-VERSION:3
+
+#EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT 2 Ⓖ" tvg-logo="https://i.imgur.com/lNWrOE2.png" group-title="General" tvg-country="TR" tvg-quality="720p HD",TRT 2 Ⓖ [720p HD]
+#EXTGRP:General
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-name="TRT Avaz" tvg-logo="https://i.imgur.com/VhTwXu5.png" group-title="General" tvg-country="TR" tvg-quality="720p HD",TRT Avaz [720p HD]
+#EXTGRP:General
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTEBALise.tr" tvg-name="TRT EBA Lise" tvg-logo="https://i.imgur.com/IebUZx1.png" group-title="General" tvg-country="TR" tvg-quality="720p HD",TRT EBA Lise [720p HD]
+#EXTGRP:General
+https://tv-e-okul02.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTEBAOrtaokul.tr" tvg-name="TRT EBA Ortaokul" tvg-logo="https://i.imgur.com/yfPTvRx.png" group-title="General" tvg-country="TR" tvg-quality="720p HD",TRT EBA Ortaokul [720p HD]
+#EXTGRP:General
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="TRT Türk" tvg-logo="https://i.imgur.com/OSTOQNw.png" group-title="General" tvg-country="TR" tvg-quality="720p HD",TRT Türk [720p HD]
+#EXTGRP:General
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-logo="https://i.imgur.com/JEA2xpv.png" group-title="General" tvg-country="TR" tvg-quality="720p HD",TRT World [720p HD]
+#EXTGRP:General
+https://tv-trtworld.medya.trt.com.tr/master.m3u8

@@ -1,0 +1,22 @@
+#EXTM3U url-tvg="epg.xml" x-tvg-url="epg.xml" refresh="3600"
+#PLAYLIST:Free IPTV - SA
+#EXT-X-VERSION:3
+
+#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-name="Al Quran Al Kareem TV" tvg-logo="https://i.imgur.com/A2fJysM.png" group-title="General" tvg-country="SA" tvg-quality="720p HD",Al Quran Al Kareem TV [720p HD]
+#EXTGRP:General
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+#EXTINF:-1 tvg-id="AlSaudiya.sa" tvg-name="Al Saudiya" tvg-logo="https://i.imgur.com/GRQTndk.png" group-title="General" tvg-country="SA" tvg-quality="720p HD",Al Saudiya [720p HD]
+#EXTGRP:General
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
+#EXTINF:-1 tvg-id="AlSaudiyaAlaan.sa" tvg-name="Al Saudiya Alaan" tvg-logo="https://i.imgur.com/sEOjApe.png" group-title="General" tvg-country="SA" tvg-quality="720p HD",Al Saudiya Alaan [720p HD]
+#EXTGRP:General
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8
+#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-name="Al Sunnah Al Nabawiyah TV" tvg-logo="https://i.imgur.com/S6LcTJv.png" group-title="General" tvg-country="SA" tvg-quality="720p HD",Al Sunnah Al Nabawiyah TV [720p HD]
+#EXTGRP:General
+http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8
+#EXTINF:-1 tvg-id="SBC.sa" tvg-name="SBC Saudi Arabia" tvg-logo="https://i.imgur.com/9JSQglj.png" group-title="General" tvg-country="SA" tvg-quality="720p HD",SBC Saudi Arabia [720p HD]
+#EXTGRP:General
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
+#EXTINF:-1 tvg-id="ThikrayatTV.sa" tvg-name="Thikrayat" tvg-logo="https://i.imgur.com/AKa1X9d.png" group-title="General" tvg-country="SA" tvg-quality="720p HD",Thikrayat [720p HD]
+#EXTGRP:General
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/8cfa8fe0c96275735745b89c683b27e3/index.m3u8

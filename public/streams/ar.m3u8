@@ -1,0 +1,22 @@
+#EXTM3U url-tvg="epg.xml" x-tvg-url="epg.xml" refresh="3600"
+#PLAYLIST:Free IPTV - AR
+#EXT-X-VERSION:3
+
+#EXTINF:-1 tvg-id="MasPerfil.ar" tvg-name="+Perfil" tvg-logo="https://i.imgur.com/3wZdPwN.png" group-title="General" tvg-country="AR" tvg-quality="720p HD",+Perfil [720p HD]
+#EXTGRP:General
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="América" tvg-logo="https://i.imgur.com/Jt7dOQm.png" group-title="General" tvg-country="AR" tvg-quality="720p HD",América [720p HD]
+#EXTGRP:General
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="El Trece" tvg-logo="https://i.imgur.com/ZK7AQFg.png" group-title="General" tvg-country="AR" tvg-quality="720p HD",El Trece [720p HD]
+#EXTGRP:General
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 tvg-id="NETTV.ar" tvg-name="Net TV" tvg-logo="https://i.imgur.com/EWmshtx.png" group-title="General" tvg-country="AR" tvg-quality="720p HD",Net TV [720p HD]
+#EXTGRP:General
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" tvg-logo="https://i.imgur.com/wrZfMXn.png" group-title="General" tvg-country="AR" tvg-quality="720p HD",Telefe [720p HD]
+#EXTGRP:General
+http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-logo="https://i.imgur.com/gfX0hdB.png" group-title="General" tvg-country="AR" tvg-quality="720p HD",Telemax [720p HD]
+#EXTGRP:General
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8

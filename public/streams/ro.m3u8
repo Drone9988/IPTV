@@ -1,0 +1,34 @@
+#EXTM3U url-tvg="epg.xml" x-tvg-url="epg.xml" refresh="3600"
+#PLAYLIST:Free IPTV - RO
+#EXT-X-VERSION:3
+
+#EXTINF:-1 tvg-id="Telestar1.ro" tvg-name="Telestar1" tvg-logo="https://i.imgur.com/UZQjEsd.png" group-title="General" tvg-country="RO" tvg-quality="720p HD",Telestar1 [720p HD]
+#EXTGRP:General
+https://dvb.tennet.ro/mobile_tv/telestar.m3u8
+#EXTINF:-1 tvg-id="TVR1.ro" tvg-name="TVR 1 Ⓖ" tvg-logo="https://i.imgur.com/CKQ7mpB.png" group-title="General" tvg-country="RO" tvg-quality="720p HD",TVR 1 Ⓖ [720p HD]
+#EXTGRP:General
+https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVR2.ro" tvg-name="TVR 2 Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/TVR_2_2022_logo.png" group-title="General" tvg-country="RO" tvg-quality="720p HD",TVR 2 Ⓖ [720p HD]
+#EXTGRP:General
+https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVR3.ro" tvg-name="TVR 3 Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/TVR3_2022.png" group-title="General" tvg-country="RO" tvg-quality="720p HD",TVR 3 Ⓖ [720p HD]
+#EXTGRP:General
+https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRCluj.ro" tvg-name="TVR Cluj Ⓖ" tvg-logo="https://i.imgur.com/8DqsGHO.png" group-title="General" tvg-country="RO" tvg-quality="720p HD",TVR Cluj Ⓖ [720p HD]
+#EXTGRP:General
+https://tvr-cluj.lg.mncdn.com/tvrcluj/smil:tvrcluj.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRCraiova.ro" tvg-name="TVR Craiova Ⓖ" tvg-logo="https://i.imgur.com/vxWbQiy.png" group-title="General" tvg-country="RO" tvg-quality="720p HD",TVR Craiova Ⓖ [720p HD]
+#EXTGRP:General
+https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRIasi.ro" tvg-name="TVR Iași Ⓖ" tvg-logo="https://i.imgur.com/Kxkihds.png" group-title="General" tvg-country="RO" tvg-quality="720p HD",TVR Iași Ⓖ [720p HD]
+#EXTGRP:General
+http://82.208.141.70:8778/1.m3u8
+#EXTINF:-1 tvg-id="TVRInternational.ro" tvg-name="TVR International Ⓖ" tvg-logo="https://i.imgur.com/AlW8jyl.png" group-title="General" tvg-country="RO" tvg-quality="720p HD",TVR International Ⓖ [720p HD]
+#EXTGRP:General
+https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRTimisoara.ro" tvg-name="TVR Timișoara Ⓖ" tvg-logo="https://i.imgur.com/Db3DV6H.png" group-title="General" tvg-country="RO" tvg-quality="720p HD",TVR Timișoara Ⓖ [720p HD]
+#EXTGRP:General
+https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRTarguMures.ro" tvg-name="TVR Tîrgu-Mureș Ⓖ" tvg-logo="https://i.imgur.com/9Hptdqj.png" group-title="General" tvg-country="RO" tvg-quality="720p HD",TVR Tîrgu-Mureș Ⓖ [720p HD]
+#EXTGRP:General
+https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8

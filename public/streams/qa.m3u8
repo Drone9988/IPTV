@@ -1,0 +1,22 @@
+#EXTM3U url-tvg="epg.xml" x-tvg-url="epg.xml" refresh="3600"
+#PLAYLIST:Free IPTV - QA
+#EXT-X-VERSION:3
+
+#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" tvg-name="Al Jazeera Mubasher" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Al_Jazeera_Mubasher_logo.png" group-title="General" tvg-country="QA" tvg-quality="720p HD",Al Jazeera Mubasher [720p HD]
+#EXTGRP:General
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:-1 tvg-id="AlRayyanTV.qa" tvg-name="Al Rayyan" tvg-logo="https://i.imgur.com/Ts3RjTV.png" group-title="General" tvg-country="QA" tvg-quality="720p HD",Al Rayyan [720p HD]
+#EXTGRP:General
+https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="AlRayyanOldTV.qa" tvg-name="Al Rayyan Old TV" tvg-logo="https://i.imgur.com/4qB5iN0.png" group-title="General" tvg-country="QA" tvg-quality="720p HD",Al Rayyan Old TV [720p HD]
+#EXTGRP:General
+https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="QatarTelevision.qa" tvg-name="Qatar Television" tvg-logo="https://i.imgur.com/N5RB4sp.png" group-title="General" tvg-country="QA" tvg-quality="720p HD",Qatar Television [720p HD]
+#EXTGRP:General
+https://qatartv.akamaized.net/hls/live/20000609/qtv1/master.m3u8
+#EXTINF:-1 tvg-id="QatarTelevision2.qa" tvg-name="Qatar Television 2" tvg-logo="https://i.imgur.com/iWJxDUm.png" group-title="General" tvg-country="QA" tvg-quality="720p HD",Qatar Television 2 [720p HD]
+#EXTGRP:General
+https://qatartv.akamaized.net/hls/live/20000611/qtv2/master.m3u8
+#EXTINF:-1 tvg-id="QatarTelevisionTheHolyQuran.qa" tvg-name="Qatar Television The Holy Quran" tvg-logo="https://i.imgur.com/N5RB4sp.png" group-title="General" tvg-country="QA" tvg-quality="720p HD",Qatar Television The Holy Quran [720p HD]
+#EXTGRP:General
+https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master1080p.m3u8

@@ -1,0 +1,25 @@
+#EXTM3U url-tvg="epg.xml" x-tvg-url="epg.xml" refresh="3600"
+#PLAYLIST:Free IPTV - IQ
+#EXT-X-VERSION:3
+
+#EXTINF:-1 tvg-id="AlHurra.iq" tvg-name="Al-Hurra" tvg-logo="https://i.imgur.com/0izeu5z.png" group-title="General" tvg-country="IQ" tvg-quality="720p HD",Al-Hurra [720p HD]
+#EXTGRP:General
+https://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master.m3u8
+#EXTINF:-1 tvg-id="AlhurraTVIraq.iq" tvg-name="Al-Hurra Iraq" tvg-logo="https://i.imgur.com/mXBZEQP.png" group-title="General" tvg-country="IQ" tvg-quality="720p HD",Al-Hurra Iraq [720p HD]
+#EXTGRP:General
+https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
+#EXTINF:-1 tvg-id="AlSharqiya.iq" tvg-name="Al-Sharqiya" tvg-logo="https://i.imgur.com/bPYyXNf.png" group-title="General" tvg-country="IQ" tvg-quality="720p HD",Al-Sharqiya [720p HD]
+#EXTGRP:General
+https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
+#EXTINF:-1 tvg-id="AlSharqiyaNews.iq" tvg-name="Al-Sharqiya News" tvg-logo="https://i.imgur.com/P6p17ZY.jpg" group-title="General" tvg-country="IQ" tvg-quality="720p HD",Al-Sharqiya News [720p HD]
+#EXTGRP:General
+https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1 tvg-id="AlabbassiaTV.iq" tvg-name="Alabbassia TV" tvg-logo="https://i.imgur.com/BPyrjO5.png" group-title="General" tvg-country="IQ" tvg-quality="720p HD",Alabbassia TV [720p HD]
+#EXTGRP:General
+https://stream.alabbassia.com/live/alabbassia/index.m3u8
+#EXTINF:-1 tvg-id="IraqFuture.iq" tvg-name="Iraq Future Ⓢ" tvg-logo="https://i.imgur.com/Z7woTe5.png" group-title="General" tvg-country="IQ" tvg-quality="720p HD",Iraq Future Ⓢ [720p HD]
+#EXTGRP:General
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_040/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ZagrosTV.iq" tvg-name="Zagros TV" tvg-logo="https://i.imgur.com/UjIuIQX.png" group-title="General" tvg-country="IQ" tvg-quality="720p HD",Zagros TV [720p HD]
+#EXTGRP:General
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8

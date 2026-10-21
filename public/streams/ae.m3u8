@@ -1,0 +1,28 @@
+#EXTM3U url-tvg="epg.xml" x-tvg-url="epg.xml" refresh="3600"
+#PLAYLIST:Free IPTV - AE
+#EXT-X-VERSION:3
+
+#EXTINF:-1 tvg-id="AlArabiyaBusiness.ae" tvg-name="Al Arabiya Business" tvg-logo="https://i.imgur.com/eEV4r6J.jpg" group-title="General" tvg-country="AE" tvg-quality="720p HD",Al Arabiya Business [720p HD]
+#EXTGRP:General
+https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SharjahSports.ae" tvg-name="Al Wousta" tvg-logo="https://i5.satexpat.com/cha/ae/al-wousta-95x90.gif" group-title="General" tvg-country="AE" tvg-quality="720p HD",Al Wousta [720p HD]
+#EXTGRP:General
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkArabic.ae" tvg-name="Cartoon Network Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_Arabic_logo.png" group-title="General" tvg-country="AE" tvg-quality="720p HD",Cartoon Network Arabic [720p HD]
+#EXTGRP:General
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+#EXTINF:-1 tvg-id="MBC1.ae" tvg-name="MBC 1" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="General" tvg-country="AE" tvg-quality="720p HD",MBC 1 [720p HD]
+#EXTGRP:General
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
+#EXTINF:-1 tvg-id="MBC5.ae" tvg-name="MBC 5" tvg-logo="https://i.imgur.com/fRWaDyF.png" group-title="General" tvg-country="AE" tvg-quality="720p HD",MBC 5 [720p HD]
+#EXTGRP:General
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
+#EXTINF:-1 tvg-id="SharjahTV.ae" tvg-name="Sharjah TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sharjah-tv-ae.png" group-title="General" tvg-country="AE" tvg-quality="720p HD",Sharjah TV [720p HD]
+#EXTGRP:General
+https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SkyNewsArabia.ae" tvg-name="Sky News Arabia" tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="General" tvg-country="AE" tvg-quality="720p HD",Sky News Arabia [720p HD]
+#EXTGRP:General
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1 tvg-id="Wanasah.ae" tvg-name="Wanasah" tvg-logo="https://i.imgur.com/nLtiXNf.png" group-title="General" tvg-country="AE" tvg-quality="720p HD",Wanasah [720p HD]
+#EXTGRP:General
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8

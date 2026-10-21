@@ -1,0 +1,76 @@
+#EXTM3U url-tvg="epg.xml" x-tvg-url="epg.xml" refresh="3600"
+#PLAYLIST:Free IPTV - HU
+#EXT-X-VERSION:3
+
+#EXTINF:-1 tvg-id="16TV.hu" tvg-name="16TV" tvg-logo="https://i.imgur.com/7ZPYJJ0.jpg" group-title="General" tvg-country="HU" tvg-quality="720p HD",16TV [720p HD]
+#EXTGRP:General
+https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ApostolTV.hu" tvg-name="Apostol TV" tvg-logo="https://www.apostoltv.hu/images/header-logo.png" group-title="General" tvg-country="HU" tvg-quality="720p HD",Apostol TV [720p HD]
+#EXTGRP:General
+https://live.apostoltv.hu/live/playlist.m3u8
+#EXTINF:-1 tvg-id="BalatonTV.hu" tvg-name="Balaton TV" tvg-logo="https://i.imgur.com/ip8L5Vt.jpg" group-title="General" tvg-country="HU" tvg-quality="720p HD",Balaton TV [720p HD]
+#EXTGRP:General
+https://stream.iptvservice.eu/hls/balatontv.m3u8
+#EXTINF:-1 tvg-id="BudapestEurpaTV.hu" tvg-name="Budapest Európa TV" tvg-logo="" group-title="General" tvg-country="HU" tvg-quality="720p HD",Budapest Európa TV [720p HD]
+#EXTGRP:General
+https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="CityTVBelvrosLiptvros.hu" tvg-name="CityTV (Belváros Lipótváros)" tvg-logo="https://citytv.hu/wp-content/uploads/2023/12/cropped-citytv.png" group-title="General" tvg-country="HU" tvg-quality="720p HD",CityTV (Belváros Lipótváros) [720p HD]
+#EXTGRP:General
+https://citytv.hu/playlist.m3u8
+#EXTINF:-1 tvg-id="EsztergomTV.hu" tvg-name="ES TV (Esztergom)" tvg-logo="" group-title="General" tvg-country="HU" tvg-quality="720p HD",ES TV (Esztergom) [720p HD]
+#EXTGRP:General
+https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE040.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="BonumTV.hu" tvg-name="EWTN TV" tvg-logo="https://katolikus.tv/wp-content/themes/bonum/img/ewtn-badge.jpg" group-title="General" tvg-country="HU" tvg-quality="720p HD",EWTN TV [720p HD]
+#EXTGRP:General
+https://hls.iptvservice.eu/hls/ewtn-hd.m3u8
+#EXTINF:-1 tvg-id="FehrvrTV.hu" tvg-name="FehérvárTV" tvg-logo="https://www.fehervartv.hu/css/img/icon-1-2.png" group-title="General" tvg-country="HU" tvg-quality="720p HD",FehérvárTV [720p HD]
+#EXTGRP:General
+https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE046.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="GyongyosiTV.hu" tvg-name="Gyöngyös TV" tvg-logo="https://i.imgur.com/RHgaPCk.png" group-title="General" tvg-country="HU" tvg-quality="720p HD",Gyöngyös TV [720p HD]
+#EXTGRP:General
+https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE043.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="HvizTV.hu" tvg-name="Héviz TV" tvg-logo="" group-title="General" tvg-country="HU" tvg-quality="720p HD",Héviz TV [720p HD]
+#EXTGRP:General
+https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="JszsgiTrsgiTV.hu" tvg-name="Jászsági Térségi TV" tvg-logo="" group-title="General" tvg-country="HU" tvg-quality="720p HD",Jászsági Térségi TV [720p HD]
+#EXTGRP:General
+https://cloudfront44.lexanetwork.com:1344/relay01/broadcast007.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="KanizsaTV.hu" tvg-name="Kanizsa TV" tvg-logo="" group-title="General" tvg-country="HU" tvg-quality="720p HD",Kanizsa TV [720p HD]
+#EXTGRP:General
+https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="KaposTV.hu" tvg-name="Kapos TV" tvg-logo="https://kapos.hu/static/keptar/13/b/9490.jpg" group-title="General" tvg-country="HU" tvg-quality="720p HD",Kapos TV [720p HD]
+#EXTGRP:General
+https://cloudfront44.lexanetwork.com:1344/relay01/broadcast004.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="KecskemetiTV.hu" tvg-name="Kecskemét TV" tvg-logo="https://kecskemetitv.hu/templates/kecskemetitv/img/ktv_logo.png" group-title="General" tvg-country="HU" tvg-quality="720p HD",Kecskemét TV [720p HD]
+#EXTGRP:General
+http://rtmp1.40e.hu:8000/live/ktv.m3u8
+#EXTINF:-1 tvg-id="KomaromiTelevizio.hu" tvg-name="Komáromi Televízió" tvg-logo="" group-title="General" tvg-country="HU" tvg-quality="720p HD",Komáromi Televízió [720p HD]
+#EXTGRP:General
+https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="LceumTV.hu" tvg-name="Líceum TV" tvg-logo="" group-title="General" tvg-country="HU" tvg-quality="720p HD",Líceum TV [720p HD]
+#EXTGRP:General
+http://193.225.32.62:8890/live.m3u8
+#EXTINF:-1 tvg-id="OroszlanyiVarosiTelevizio.hu" tvg-name="Oroszlányi Városi Televízió" tvg-logo="https://i.imgur.com/P0fxUH5.png" group-title="General" tvg-country="HU" tvg-quality="720p HD",Oroszlányi Városi Televízió [720p HD]
+#EXTGRP:General
+https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="PannonRTV.hu" tvg-name="Pannon RTV" tvg-logo="https://i.imgur.com/iD5tCjX.png" group-title="General" tvg-country="HU" tvg-quality="720p HD",Pannon RTV [720p HD]
+#EXTGRP:General
+https://stream2.nmih.hu:4102/hls/bff022f3cef41ffd6bc2705a7090f3b8/live.m3u8
+#EXTINF:-1 tvg-id="Parlamentikzvetts.hu" tvg-name="Parlamenti közvetítés" tvg-logo="" group-title="General" tvg-country="HU" tvg-quality="720p HD",Parlamenti közvetítés [720p HD]
+#EXTGRP:General
+https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ParlamentiTABkzvetts.hu" tvg-name="Parlamenti TAB közvetítés" tvg-logo="" group-title="General" tvg-country="HU" tvg-quality="720p HD",Parlamenti TAB közvetítés [720p HD]
+#EXTGRP:General
+https://tab.parlament.hu:446/edgelive/smil:mkogytab.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV7Bkscsaba.hu" tvg-name="TV7 Békéscsaba" tvg-logo="https://i.imgur.com/G9Ib5K3.png" group-title="General" tvg-country="HU" tvg-quality="720p HD",TV7 Békéscsaba [720p HD]
+#EXTGRP:General
+https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
+#EXTINF:-1 tvg-id="VasarhelyiTelevizio.hu" tvg-name="Vásárhelyi Televízió" tvg-logo="https://i.imgur.com/WOEqdmx.png" group-title="General" tvg-country="HU" tvg-quality="720p HD",Vásárhelyi Televízió [720p HD]
+#EXTGRP:General
+https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8
+#EXTINF:-1 tvg-id="ZalaegerszegiTV.hu" tvg-name="Zalaegerszeg TV" tvg-logo="https://zegtv.hu/wp-content/themes/assembly/images/zegtv-logo.png" group-title="General" tvg-country="HU" tvg-quality="720p HD",Zalaegerszeg TV [720p HD]
+#EXTGRP:General
+https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="OzdiVarosiTV.hu" tvg-name="Ózdi Városi TV" tvg-logo="https://i.imgur.com/5cOpdRp.jpg" group-title="General" tvg-country="HU" tvg-quality="720p HD",Ózdi Városi TV [720p HD]
+#EXTGRP:General
+http://stream.nmih.hu:7980/hls/e6cff640bffe128eab3dbc283e450379/live.m3u8

@@ -1,0 +1,97 @@
+#EXTM3U url-tvg="epg.xml" x-tvg-url="epg.xml" refresh="3600"
+#PLAYLIST:Free IPTV - UA
+#EXT-X-VERSION:3
+
+#EXTINF:-1 tvg-id="1Plus1Ukraina.ua" tvg-name="1+1 Ukraina Ⓢ" tvg-logo="https://i.imgur.com/FlG7npq.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",1+1 Ukraina Ⓢ [720p HD]
+#EXTGRP:General
+http://stream.mcquack.net/219/index.m3u8
+#EXTINF:-1 tvg-id="2Plus2.ua" tvg-name="2+2 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2%2B2_logo_2017.svg/500px-2%2B2_logo_2017.svg.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",2+2 Ⓢ [720p HD]
+#EXTGRP:General
+http://stream.mcquack.net/173/index.m3u8
+#EXTINF:-1 tvg-id="24Kanal.ua" tvg-name="24 Kanal" tvg-logo="https://pbs.twimg.com/profile_images/1498285886714298374/EMSJzC-0_400x400.jpg" group-title="General" tvg-country="UA" tvg-quality="720p HD",24 Kanal [720p HD]
+#EXTGRP:General
+http://streamvideol1.luxnet.ua/news24/livenews.m3u8
+#EXTINF:-1 tvg-id="SK1.ua" tvg-name="CK 1" tvg-logo="https://i.imgur.com/XiXwr5h.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",CK 1 [720p HD]
+#EXTGRP:General
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="ICTVSerialy.ua" tvg-name="ICTV Serialy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/ICTV_Serialy_%282024%29.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",ICTV Serialy [720p HD]
+#EXTGRP:General
+http://cdnua05.hls.tv/624/hls/f62d71219200da4130d13b21d23fb23c/4896/stream.m3u8
+#EXTINF:-1 tvg-id="ICTV2.ua" tvg-name="ICTV2" tvg-logo="https://i.imgur.com/J4zlRGv.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",ICTV2 [720p HD]
+#EXTGRP:General
+http://cdnua05.hls.tv/919/hls/8743361621b245838bee193c9ec28322/4835/stream.m3u8
+#EXTINF:-1 tvg-id="Inter.ua" tvg-name="Inter" tvg-logo="https://i.imgur.com/R06gbuT.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",Inter [720p HD]
+#EXTGRP:General
+http://stream.mcquack.net/174/index.m3u8
+#EXTINF:-1 tvg-id="ITV.ua" tvg-name="ITV" tvg-logo="https://i.imgur.com/NZdT9yJ.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",ITV [720p HD]
+#EXTGRP:General
+http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="Mega.ua" tvg-name="Mega" tvg-logo="https://i.imgur.com/F1v69tn.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",Mega [720p HD]
+#EXTGRP:General
+https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="NTKTV.ua" tvg-name="NTK TV" tvg-logo="https://www.ntktv.ua/bitrix/templates/ntk_copy/images/logo.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",NTK TV [720p HD]
+#EXTGRP:General
+http://stream.ntktv.ua/s/ntk/ntk.m3u8
+#EXTINF:-1 tvg-id="NTN.ua" tvg-name="NTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/NTNUA_logo_%282013%29.svg/500px-NTNUA_logo_%282013%29.svg.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",NTN [720p HD]
+#EXTGRP:General
+https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="Pershyi.ua" tvg-name="Pershyi" tvg-logo="https://i.imgur.com/osTQLED.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",Pershyi [720p HD]
+#EXTGRP:General
+https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
+#EXTINF:-1 tvg-id="PervyygorodskoyOdessa.ua" tvg-name="Pervyy gorodskoy Odessa" tvg-logo="https://i.imgur.com/8qdc6aO.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",Pervyy gorodskoy Odessa [720p HD]
+#EXTGRP:General
+https://live.1tv.od.ua/stream1/channel1/playlist.m3u8
+#EXTINF:-1 tvg-id="SuspilneKultura.ua" tvg-name="Suspilne Kultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Suspilne_Kultura_%282022%29.svg/500px-Suspilne_Kultura_%282022%29.svg.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",Suspilne Kultura [720p HD]
+#EXTGRP:General
+http://stream.mcquack.net/435/index.m3u8
+#EXTINF:-1 tvg-id="SuspilneSport.ua" tvg-name="Suspilne Sport" tvg-logo="https://i.imgur.com/16IhU0M.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",Suspilne Sport [720p HD]
+#EXTGRP:General
+http://cdnua05.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4856/stream.m3u8
+#EXTINF:-1 tvg-id="TelekanalRAI.ua" tvg-name="Telekanal RAI" tvg-logo="https://i.imgur.com/Ouv51WB.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",Telekanal RAI [720p HD]
+#EXTGRP:General
+https://stream.rai.ua/rai/stream.m3u8
+#EXTINF:-1 tvg-id="TET.ua" tvg-name="TET Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/TET_logo.svg/500px-TET_logo.svg.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",TET Ⓢ [720p HD]
+#EXTGRP:General
+http://stream.mcquack.net/338/index.m3u8
+#EXTINF:-1 tvg-id="TVA.ua" tvg-name="TVA" tvg-logo="https://i.imgur.com/PtTQ5lv.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",TVA [720p HD]
+#EXTGRP:General
+https://hls.cdn.ua/tva.ua_live/livestream/chunklist_.m3u8
+#EXTINF:-1 tvg-id="XSport.ua" tvg-name="XSport Ⓢ" tvg-logo="https://i.imgur.com/CHDcfrT.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",XSport Ⓢ [720p HD]
+#EXTGRP:General
+http://cdnua05.hls.tv/946/hls/8743361621b245838bee193c9ec28322/3999/stream.m3u8
+#EXTINF:-1 tvg-id="DniproTV.ua" tvg-name="Дніпро TV" tvg-logo="https://i.imgur.com/mbPTVh1.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",Дніпро TV [720p HD]
+#EXTGRP:General
+http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
+#EXTINF:-1 tvg-id="DIM.ua" tvg-name="ДІМ" tvg-logo="https://i.imgur.com/3cjaXIF.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",ДІМ [720p HD]
+#EXTGRP:General
+https://dash2.antik.sk/live/telekanal_dim/playlist.m3u8
+#EXTINF:-1 tvg-id="PixelTV.ua" tvg-name="Піксель TV" tvg-logo="https://i.imgur.com/ECro8Ah.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",Піксель TV [720p HD]
+#EXTGRP:General
+https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="SuspilneKropyvnytskyi.ua" tvg-name="Суспільне Kropyvnytskyi" tvg-logo="https://i.imgur.com/zzYJr87.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",Суспільне Kropyvnytskyi [720p HD]
+#EXTGRP:General
+http://cdnua05.hls.tv/650/hls/f62d71219200da4130d13b21d23fb23c/4788/stream.m3u8
+#EXTINF:-1 tvg-id="SuspilneDnipro.ua" tvg-name="Суспільне Дніпро" tvg-logo="https://i.imgur.com/nMHd9FK.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",Суспільне Дніпро [720p HD]
+#EXTGRP:General
+http://cdnua05.hls.tv/648/hls/f62d71219200da4130d13b21d23fb23c/4786/stream.m3u8
+#EXTINF:-1 tvg-id="SuspilneZhytomyr.ua" tvg-name="Суспільне Житомир Ⓢ" tvg-logo="https://i.imgur.com/lCv1Xaq.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",Суспільне Житомир Ⓢ [720p HD]
+#EXTGRP:General
+http://cdnua05.hls.tv/647/hls/f62d71219200da4130d13b21d23fb23c/4787/stream.m3u8
+#EXTINF:-1 tvg-id="SuspilneOdesa.ua" tvg-name="Суспільне Одеса Ⓢ" tvg-logo="https://i.imgur.com/giTdUK9.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",Суспільне Одеса Ⓢ [720p HD]
+#EXTGRP:General
+http://cdnua05.hls.tv/653/hls/f62d71219200da4130d13b21d23fb23c/4833/stream.m3u8
+#EXTINF:-1 tvg-id="SuspilneSumy.ua" tvg-name="Суспільне Суми Ⓢ" tvg-logo="https://i.imgur.com/U5GQiUz.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",Суспільне Суми Ⓢ [720p HD]
+#EXTGRP:General
+http://cdnua05.hls.tv/630/hls/f62d71219200da4130d13b21d23fb23c/4798/stream.m3u8
+#EXTINF:-1 tvg-id="SuspilneTernopil.ua" tvg-name="Суспільне Тернопіль" tvg-logo="https://i.imgur.com/rxXyCY7.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",Суспільне Тернопіль [720p HD]
+#EXTGRP:General
+http://cdnua05.hls.tv/647/hls/f62d71219200da4130d13b21d23fb23c/4789/stream.m3u8
+#EXTINF:-1 tvg-id="SuspilneKhmelnytskyi.ua" tvg-name="Суспільне Хмельницький Ⓢ" tvg-logo="https://i.imgur.com/uoTcTbU.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",Суспільне Хмельницький Ⓢ [720p HD]
+#EXTGRP:General
+http://cdnua05.hls.tv/632/hls/f62d71219200da4130d13b21d23fb23c/4800/stream.m3u8
+#EXTINF:-1 tvg-id="SuspilneChernivtsi.ua" tvg-name="Суспільне Чернівці Ⓢ" tvg-logo="https://i.imgur.com/mzYRGp2.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",Суспільне Чернівці Ⓢ [720p HD]
+#EXTGRP:General
+http://cdnua05.hls.tv/643/hls/f62d71219200da4130d13b21d23fb23c/4790/stream.m3u8
+#EXTINF:-1 tvg-id="SuspilneChernihiv.ua" tvg-name="Суспільне Чернігів" tvg-logo="https://i.imgur.com/WBChVXj.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",Суспільне Чернігів [720p HD]
+#EXTGRP:General
+http://cdnua05.hls.tv/645/hls/f62d71219200da4130d13b21d23fb23c/4791/stream.m3u8

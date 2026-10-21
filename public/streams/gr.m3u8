@@ -1,0 +1,91 @@
+#EXTM3U url-tvg="epg.xml" x-tvg-url="epg.xml" refresh="3600"
+#PLAYLIST:Free IPTV - GR
+#EXT-X-VERSION:3
+
+#EXTINF:-1 tvg-id="4E.gr" tvg-name="4E" tvg-logo="https://i.imgur.com/Ed085oJ.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",4E [720p HD]
+#EXTGRP:General
+http://eu2.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Action24TV.gr" tvg-name="Action24" tvg-logo="https://i.imgur.com/Zi1YohT.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",Action24 [720p HD]
+#EXTGRP:General
+https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
+#EXTINF:-1 tvg-id="AlphaTV.gr" tvg-name="AlphaTV" tvg-logo="https://i.imgur.com/bAVGX0l.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",AlphaTV [720p HD]
+#EXTGRP:General
+https://alphatvlive2-ak.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="besttv.gr" tvg-name="Best TV" tvg-logo="https://i.imgur.com/VA13E3w.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",Best TV [720p HD]
+#EXTGRP:General
+https://besttv.siliconweb.com/bestTV/live_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="CenterTV.gr" tvg-name="Center TV" tvg-logo="https://i.imgur.com/52JW71Q.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",Center TV [720p HD]
+#EXTGRP:General
+https://eu1.streams.gr:8081/centertv/index.m3u8
+#EXTINF:-1 tvg-id="CretaTV.gr" tvg-name="Creta" tvg-logo="https://i.imgur.com/x0qK8IE.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",Creta [720p HD]
+#EXTGRP:General
+http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
+#EXTINF:-1 tvg-id="DeltaTV.gr" tvg-name="Delta Evros" tvg-logo="https://i.imgur.com/PDfSkRF.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",Delta Evros [720p HD]
+#EXTGRP:General
+http://81.171.10.42:1935/liveD/DStream.sdp/chunklist_w819085920.m3u8
+#EXTINF:-1 tvg-id="egnatiatv.gr" tvg-name="Egnatia" tvg-logo="https://i.imgur.com/zuyYIca.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",Egnatia [720p HD]
+#EXTGRP:General
+https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u
+#EXTINF:-1 tvg-id="epsilon.gr" tvg-name="Epsilon" tvg-logo="https://i.imgur.com/vUQSDvZ.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",Epsilon [720p HD]
+#EXTGRP:General
+https://neon.streams.gr:8081/epsilontv/index.m3u8
+#EXTINF:-1 tvg-id="gnomitv.gr" tvg-name="Gnomi" tvg-logo="https://i.imgur.com/mHCk05E.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",Gnomi [720p HD]
+#EXTGRP:General
+https://live.streams.ovh:8081/gnomitv/index.m3u8
+#EXTINF:-1 tvg-id="hightv.gr" tvg-name="High TV" tvg-logo="https://i.imgur.com/wHzCGry.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",High TV [720p HD]
+#EXTGRP:General
+https://live.streams.ovh/hightv/hightv/playlist.m3u8
+#EXTINF:-1 tvg-id="ioniantv.gr" tvg-name="Ionian Channel" tvg-logo="https://i.imgur.com/ADVYeQd.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",Ionian Channel [720p HD]
+#EXTGRP:General
+https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="KontraChannel.gr" tvg-name="Kontra" tvg-logo="https://i.imgur.com/ROZ9VfV.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",Kontra [720p HD]
+#EXTGRP:General
+https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
+#EXTINF:-1 tvg-id="Kriti1Tv.gr" tvg-name="Kriti 1" tvg-logo="https://i.imgur.com/C1ucQeC.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",Kriti 1 [720p HD]
+#EXTGRP:General
+https://livetv.streams.ovh:8081/kriti/index.m3u8
+#EXTINF:-1 tvg-id="KritiTv.gr" tvg-name="Kriti TV" tvg-logo="https://i.imgur.com/eLhYMmc.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",Kriti TV [720p HD]
+#EXTGRP:General
+https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="lepantortv.gr" tvg-name="Lepanto" tvg-logo="https://i.imgur.com/h6Tqe0k.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",Lepanto [720p HD]
+#EXTGRP:General
+https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8
+#EXTINF:-1 tvg-id="lychnostv.gr" tvg-name="Lychnos" tvg-logo="hhttps://i.imgur.com/JYSlBfY.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",Lychnos [720p HD]
+#EXTGRP:General
+https://thor.mental-media.gr:19360/imp/imp.m3u8
+#EXTINF:-1 tvg-id="MegaChannel.gr" tvg-name="Mega News" tvg-logo="https://i.imgur.com/Z3k7iA0.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",Mega News [720p HD]
+#EXTGRP:General
+https://streamcdne3-c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/playlist.m3u8
+#EXTINF:-1 tvg-id="NeaTV.gr" tvg-name="NEA" tvg-logo="https://i.imgur.com/nvNW8G7.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",NEA [720p HD]
+#EXTGRP:General
+https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
+#EXTINF:-1 tvg-id="OneChannel.gr" tvg-name="One Channel" tvg-logo="https://i.imgur.com/GwKaHbM.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",One Channel [720p HD]
+#EXTGRP:General
+https://onechannel.siliconweb.com/one/stream/chunks_dvr.m3u8
+#EXTINF:-1 tvg-id="OpenTV.gr" tvg-name="Open TV" tvg-logo="https://i.imgur.com/HzBmvPT.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",Open TV [720p HD]
+#EXTGRP:General
+https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
+#EXTINF:-1 tvg-id="pellatv.gr" tvg-name="Pella" tvg-logo="https://i.imgur.com/pwUkkGL.jpeg" group-title="General" tvg-country="GR" tvg-quality="720p HD",Pella [720p HD]
+#EXTGRP:General
+https://video.streams.ovh:1936/pellatv/pellatv/playlist.m3u8
+#EXTINF:-1 tvg-id="CenterTV.gr" tvg-name="Samiaki TV" tvg-logo="https://i.imgur.com/aV5QoNG.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",Samiaki TV [720p HD]
+#EXTGRP:General
+http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
+#EXTINF:-1 tvg-id="SkaiTV.gr" tvg-name="Skai TV" tvg-logo="https://i.imgur.com/TSg7B8X.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",Skai TV [720p HD]
+#EXTGRP:General
+http://skai-live.siliconweb.com/media/cambria4/index.m3u8
+#EXTINF:-1 tvg-id="StarChannel.gr" tvg-name="Star" tvg-logo="https://i.imgur.com/Hp0stVQ.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",Star [720p HD]
+#EXTGRP:General
+https://livestar.siliconweb.com/starvod/star4/star4.m3u8
+#EXTINF:-1 tvg-id="SyrosTV1.gr" tvg-name="Syros TV1" tvg-logo="https://i.imgur.com/duXHyvN.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",Syros TV1 [720p HD]
+#EXTGRP:General
+https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
+#EXTINF:-1 tvg-id="ThrakiNetTV.gr" tvg-name="Thraki Net TV" tvg-logo="https://i.imgur.com/DV0I0ed.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",Thraki Net TV [720p HD]
+#EXTGRP:General
+https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
+#EXTINF:-1 tvg-id="trttv.gr" tvg-name="TRT" tvg-logo="https://i.imgur.com/g0jPOcC.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",TRT [720p HD]
+#EXTGRP:General
+https://av.hellasnet.tv/rst/trt/index.m3u8
+#EXTINF:-1 tvg-id="VouliTV.gr" tvg-name="Vouli TV" tvg-logo="https://i.imgur.com/1vqW7lc.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",Vouli TV [720p HD]
+#EXTGRP:General
+https://diavlos-cache.cnt.grnet.gr/parltv/webtv-1b.sdp/playlist.m3u8

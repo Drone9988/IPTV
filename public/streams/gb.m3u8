@@ -1,0 +1,40 @@
+#EXTM3U url-tvg="epg.xml" x-tvg-url="epg.xml" refresh="3600"
+#PLAYLIST:Free IPTV - GB
+#EXT-X-VERSION:3
+
+#EXTINF:-1 tvg-id="ArirangWorld.kr" tvg-name="Arirang World" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/67cfa9368d2d135744732a3aed3baecb3fadcf13/countries/international/arirang-int.png" group-title="General" tvg-country="GB" tvg-quality="720p HD",Arirang World [720p HD]
+#EXTGRP:General
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/500px-BBC_News_2022_%28Alt%29.svg.png" group-title="General" tvg-country="GB" tvg-quality="720p HD",BBC News [720p HD]
+#EXTGRP:General
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="BBCRadioWorldService.uk" tvg-name="BBC World Service" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcws-epg.png" group-title="General" tvg-country="GB" tvg-quality="720p HD",BBC World Service [720p HD]
+#EXTGRP:General
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
+#EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/500px-GB_News_Logo.svg.png" group-title="General" tvg-country="GB" tvg-quality="720p HD",GB News [720p HD]
+#EXTGRP:General
+https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+#EXTINF:-1 tvg-id="JewelleryMaker.uk" tvg-name="Jewellery Maker" tvg-logo="https://i.imgur.com/O7SdkBh.png" group-title="General" tvg-country="GB" tvg-quality="720p HD",Jewellery Maker [720p HD]
+#EXTGRP:General
+https://lo3.gemporia.com/abrjewellerymaker/smil:livestreamFullHD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/500px-NHK_World-Japan_TV.svg.png" group-title="General" tvg-country="GB" tvg-quality="720p HD",NHK World Japan [720p HD]
+#EXTGRP:General
+https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+#EXTINF:-1 tvg-id="Now70s.uk" tvg-name="Now 70s" tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="General" tvg-country="GB" tvg-quality="720p HD",Now 70s [720p HD]
+#EXTGRP:General
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Now80s.uk" tvg-name="Now 80s" tvg-logo="https://i.imgur.com/8paz37m.png" group-title="General" tvg-country="GB" tvg-quality="720p HD",Now 80s [720p HD]
+#EXTGRP:General
+https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="QVCBeautyUK.uk" tvg-name="QVC Beauty Ⓢ" tvg-logo="https://i.imgur.com/ZBHtqk1.png" group-title="General" tvg-country="GB" tvg-quality="720p HD",QVC Beauty Ⓢ [720p HD]
+#EXTGRP:General
+https://qvcuk-live.akamaized.net/hls/live/2097112/qby/3/3.m3u8
+#EXTINF:-1 tvg-id="QVCExtraUK.uk" tvg-name="QVC Extra Ⓢ" tvg-logo="https://i.imgur.com/TIe5T9Z.png" group-title="General" tvg-country="GB" tvg-quality="720p HD",QVC Extra Ⓢ [720p HD]
+#EXTGRP:General
+https://qvcuk-live.akamaized.net/hls/live/2097112/qex/3/3.m3u8
+#EXTINF:-1 tvg-id="QVCStyleUK.uk" tvg-name="QVC Style Ⓢ" tvg-logo="https://i.imgur.com/6HZlLL3.png" group-title="General" tvg-country="GB" tvg-quality="720p HD",QVC Style Ⓢ [720p HD]
+#EXTGRP:General
+https://qvcuk-live.akamaized.net/hls/live/2097112/qst/3/3.m3u8
+#EXTINF:-1 tvg-id="QVCUK.uk" tvg-name="QVC UK Ⓢ" tvg-logo="https://i.imgur.com/6TWUVrh.png" group-title="General" tvg-country="GB" tvg-quality="720p HD",QVC UK Ⓢ [720p HD]
+#EXTGRP:General
+https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/3/3.m3u8
