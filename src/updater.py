@@ -99,11 +99,14 @@ async def main():
         cat_counts = {}
         for ch in candidate_channels:
             cat = ch.get("category", "General")
-            cat_counts[cat] = cat_counts.get(cat, 0) + 1
-            if cat_counts[cat] <= max_per_cat:
+            if cat == "Farsi / Iranian" or ch.get("country") == "IR" or ch.get("language") in ("fas", "per"):
                 capped_candidates.append(ch)
+            else:
+                cat_counts[cat] = cat_counts.get(cat, 0) + 1
+                if cat_counts[cat] <= max_per_cat:
+                    capped_candidates.append(ch)
         candidate_channels = capped_candidates
-        logger.info(f"Channels capped to {max_per_cat}/category: {len(candidate_channels)} testing")
+        logger.info(f"Channels capped to {max_per_cat}/category (Farsi fully preserved): {len(candidate_channels)} testing")
 
     # 3. Asynchronously test every stream for live availability
     concurrency = CHECKER_SETTINGS.get("concurrency", 40)

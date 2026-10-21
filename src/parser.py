@@ -79,8 +79,12 @@ def parse_m3u_content(content: str, default_category: str = "General", default_c
             # This is the stream URL
             url = line
             if url.startswith("http://") or url.startswith("https://") or url.startswith("rtmp://"):
-                category = current_meta.get("group_title") or default_category
-                country = current_meta.get("country") or default_country
+                if default_category == "Farsi / Iranian":
+                    category = "Farsi / Iranian"
+                    country = current_meta.get("country") or default_country or "IR"
+                else:
+                    category = current_meta.get("group_title") or default_category
+                    country = current_meta.get("country") or default_country
                 
                 channel_dict = {
                     "id": current_meta.get("tvg_id") or "",
@@ -88,7 +92,7 @@ def parse_m3u_content(content: str, default_category: str = "General", default_c
                     "logo": current_meta.get("tvg_logo") or "",
                     "category": category.strip(),
                     "country": country.strip(),
-                    "language": current_meta.get("language") or "",
+                    "language": current_meta.get("language") or ("fas" if default_category == "Farsi / Iranian" else ""),
                     "url": url,
                     "status": "untested"
                 }

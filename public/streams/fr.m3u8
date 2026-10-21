@@ -17,3 +17,6 @@ http://194.163.157.137:8080/hls/radioalsace.m3u8
 #EXTINF:-1 tvg-id="TVMulhouse.fr" tvg-name="TV Mulhouse" tvg-logo="https://i.imgur.com/4esQG8H.png" group-title="General" tvg-country="FR" tvg-quality="720p HD",TV Mulhouse [720p HD]
 #EXTGRP:General
 http://194.163.157.137:8080/hls/radiomulhouse.m3u8
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-name="TV5 Monde Info" tvg-logo="https://i.imgur.com/NcysrWH.png" group-title="General" tvg-country="FR" tvg-quality="720p HD",TV5 Monde Info [720p HD]
+#EXTGRP:General
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8

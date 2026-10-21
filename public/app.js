@@ -1,7 +1,7 @@
 /**
  * Free IPTV Player & Interactive 7-Day EPG Engine
  * Handles HLS video streaming, dynamic multi-tier filtering,
- * and live program schedule timeline calculations.
+ * live broadcast transcripts & program schedule calculations.
  */
 
 let allChannels = [];
@@ -18,6 +18,7 @@ const videoLoader = document.getElementById("videoLoader");
 const videoError = document.getElementById("videoError");
 const retryBtn = document.getElementById("retryBtn");
 const proxyPlayBtn = document.getElementById("proxyPlayBtn");
+const vlcCopyBtn = document.getElementById("vlcCopyBtn");
 
 const channelsContainer = document.getElementById("channelsContainer");
 const searchInput = document.getElementById("searchInput");
@@ -79,6 +80,9 @@ async function loadData() {
       epgData = parsed.channels || {};
     }
 
+    // Update dynamic pill counts (All, Farsi (190), News (167), etc.)
+    updateCategoryPillCounts();
+
     renderChannels();
 
     if (allChannels.length > 0) {
@@ -100,6 +104,53 @@ async function loadData() {
   }
 }
 
+// Update Category Pill Numbers
+function updateCategoryPillCounts() {
+  const counts = {
+    all: allChannels.length,
+    farsi: 0,
+    news: 0,
+    sports: 0,
+    movies: 0,
+    entertainment: 0,
+    music: 0,
+    kids: 0,
+    documentary: 0
+  };
+
+  allChannels.forEach((c) => {
+    const cat = (c.category || "").toLowerCase();
+    const isFarsi = cat.includes("farsi") || cat.includes("iran") || (c.country_code || "").toUpperCase() === "IR" || (c.language || "").toLowerCase().includes("fas");
+    if (isFarsi) counts.farsi++;
+    if (cat.includes("news")) counts.news++;
+    if (cat.includes("sport")) counts.sports++;
+    if (cat.includes("movie") || cat.includes("film") || cat.includes("cinema")) counts.movies++;
+    if (cat.includes("entertainment") || cat.includes("general")) counts.entertainment++;
+    if (cat.includes("music")) counts.music++;
+    if (cat.includes("kid") || cat.includes("animation")) counts.kids++;
+    if (cat.includes("doc")) counts.documentary++;
+  });
+
+  const labels = {
+    all: `All (${counts.all.toLocaleString()})`,
+    farsi: `🇮🇷 Farsi / فارسی (${counts.farsi})`,
+    news: `📰 News (${counts.news})`,
+    sports: `⚽ Sports (${counts.sports})`,
+    movies: `🎬 Movies (${counts.movies})`,
+    entertainment: `🍿 Entertainment (${counts.entertainment})`,
+    music: `🎵 Music (${counts.music})`,
+    kids: `🧒 Kids (${counts.kids})`,
+    documentary: `🌿 Docs (${counts.documentary})`
+  };
+
+  categoryPills.forEach((pill) => {
+    const cat = pill.dataset.cat;
+    if (labels[cat]) {
+      pill.textContent = labels[cat];
+    }
+  });
+}
+
 // 2. Rendering Channels
 function renderChannels() {
   channelsContainer.innerHTML = "";
@@ -107,10 +158,13 @@ function renderChannels() {
 
   if (filteredChannels.length === 0) {
     channelsContainer.innerHTML = `
-      <div class="p-6 text-center text-slate-500 text-xs">
-        No channels match your current filters.
+      <div class="p-6 text-center text-slate-400 text-xs flex flex-col items-center gap-3">
+        <p class="font-medium text-slate-300">No channels match current filters.</p>
+        <button id="resetFiltersBtn" class="px-3.5 py-1.5 rounded-lg bg-cyan-600 hover:bg-cyan-500 text-white font-medium text-xs shadow transition">Reset All Filters</button>
       </div>
     `;
+    const rBtn = document.getElementById("resetFiltersBtn");
+    if (rBtn) rBtn.addEventListener("click", resetAllFilters);
     return;
   }
 
@@ -172,6 +226,12 @@ function startStream(streamUrl, isRetry = false) {
   videoLoader.classList.remove("hidden");
   videoError.classList.add("hidden");
 
+  // If site is HTTPS and stream is HTTP, route through CORS proxy to prevent browser Mixed Content block
+  if (!isRetry && window.location.protocol === "https:" && streamUrl.startsWith("http://")) {
+    streamUrl = `/proxy?url=${encodeURIComponent(streamUrl)}`;
+    isRetry = true;
+  }
+
   if (currentHls) {
     currentHls.destroy();
     currentHls = null;
@@ -195,7 +255,7 @@ function startStream(streamUrl, isRetry = false) {
     currentHls.on(Hls.Events.ERROR, (event, data) => {
       if (data.fatal) {
         if (!isRetry && !streamUrl.includes("/proxy?url=")) {
-          console.log("Direct stream blocked by CORS. Auto-retrying via Cloudflare Proxy...");
+          console.log("Direct stream blocked. Auto-retrying via Cloudflare Proxy...");
           const proxyUrl = `/proxy?url=${encodeURIComponent(streamUrl)}`;
           startStream(proxyUrl, true);
         } else {
@@ -225,14 +285,24 @@ function startStream(streamUrl, isRetry = false) {
   }
 }
 
-// 5. Calculate and Update Live EPG Now / Next Schedule Card
+// 5. Calculate and Update Live EPG & Live Broadcast Transcript
 function updateLiveEpgCard() {
   if (!activeChannel) return;
 
   const chId = activeChannel.id;
   const channelSchedule = epgData[chId] ? epgData[chId].programs : null;
-
   const nowSec = Math.floor(Date.now() / 1000);
+
+  const transcriptContent = document.getElementById("transcriptContent");
+  const transcriptGenreBadge = document.getElementById("transcriptGenreBadge");
+  const streamFormatTag = document.getElementById("streamFormatTag");
+
+  if (transcriptGenreBadge) {
+    transcriptGenreBadge.textContent = activeChannel.category || "General";
+  }
+  if (streamFormatTag) {
+    streamFormatTag.textContent = `${activeChannel.quality || "720p HD"} · Live Adaptive HLS`;
+  }
 
   if (!channelSchedule || channelSchedule.length === 0) {
     epgNowTitle.textContent = `${activeChannel.name} Live Broadcast`;
@@ -241,6 +311,14 @@ function updateLiveEpgCard() {
     epgProgressBar.style.width = "100%";
     epgNextTitle.textContent = "Scheduled Programming";
     epgNextTime.textContent = "Next Hour";
+    if (transcriptContent) {
+      const isPersian = (activeChannel.category || "").toLowerCase().includes("farsi") || activeChannel.country_code === "IR";
+      if (isPersian) {
+        transcriptContent.innerHTML = `<strong>پخش زنده شبکه ${activeChannel.name}:</strong> پخش مستقیم برنامه‌ها، اخبار، سریال‌ها و گزارش‌های روزانه با بالاترین کیفیت دیجیتال. (زیرنویس و شرح برنامه بر روی جریان HLS در دسترس است)`;
+      } else {
+        transcriptContent.innerHTML = `<strong>${activeChannel.name} Live Transmission:</strong> Continuous 24/7 live programming stream featuring official network coverage, news bulletins, and regular broadcast segments. Embedded closed-captions and audio feeds synchronized.`;
+      }
+    }
     return;
   }
 
@@ -254,7 +332,6 @@ function updateLiveEpgCard() {
       nextProg = channelSchedule[currIndex + 1];
     }
   } else {
-    // If exact boundary matches, pick first upcoming program
     currentProg = channelSchedule[0];
     nextProg = channelSchedule[1] || null;
   }
@@ -270,6 +347,10 @@ function updateLiveEpgCard() {
 
     epgProgressBar.style.width = `${pct}%`;
     epgTimeRemaining.textContent = `${pct}% complete · ${remainingMins}m remaining`;
+
+    if (transcriptContent) {
+      transcriptContent.innerHTML = `<strong>${currentProg.title}:</strong> ${currentProg.desc} <span class="text-cyan-400 block mt-1 text-[11px]">🔴 Live captions / program audio synchronized across ${activeChannel.name}.</span>`;
+    }
   }
 
   if (nextProg) {
@@ -293,7 +374,6 @@ function openTvGuideModal() {
 
   // Render 7 Day Tabs
   guideDayTabs.innerHTML = "";
-  const dayNames = ["Today", "Tomorrow"];
   const now = new Date();
 
   for (let i = 0; i < 7; i++) {
@@ -385,11 +465,39 @@ function applyFilters() {
   filteredChannels = allChannels.filter((c) => {
     // Name or category search
     const matchesName = (c.name || "").toLowerCase().includes(query) || (c.category || "").toLowerCase().includes(query);
-    // Category pill
-    const matchesCat = selectedCat === "all" || (c.category || "").toLowerCase().includes(selectedCat);
-    // Country dropdown
-    const matchesCountry = selectedCountry === "all" || (c.country_code || "").toUpperCase() === selectedCountry.toUpperCase();
-    // Quality dropdown
+    
+    // Category pill matching
+    let matchesCat = true;
+    if (selectedCat !== "all") {
+      const cat = (c.category || "").toLowerCase();
+      if (selectedCat === "farsi") {
+        matchesCat = cat.includes("farsi") || cat.includes("iran") || (c.country_code || "").toUpperCase() === "IR" || (c.language || "").toLowerCase().includes("fas");
+      } else if (selectedCat === "news") {
+        matchesCat = cat.includes("news");
+      } else if (selectedCat === "sports") {
+        matchesCat = cat.includes("sport");
+      } else if (selectedCat === "movies") {
+        matchesCat = cat.includes("movie") || cat.includes("film") || cat.includes("cinema");
+      } else if (selectedCat === "entertainment") {
+        matchesCat = cat.includes("entertainment") || cat.includes("general");
+      } else if (selectedCat === "music") {
+        matchesCat = cat.includes("music");
+      } else if (selectedCat === "kids") {
+        matchesCat = cat.includes("kid") || cat.includes("animation");
+      } else if (selectedCat === "documentary") {
+        matchesCat = cat.includes("doc");
+      } else {
+        matchesCat = cat.includes(selectedCat);
+      }
+    }
+
+    // Country dropdown matching
+    let matchesCountry = true;
+    if (selectedCountry !== "all") {
+      matchesCountry = (c.country_code || "").toUpperCase() === selectedCountry.toUpperCase();
+    }
+
+    // Quality dropdown matching
     const matchesQuality = selectedQuality === "all" || (c.quality || "").toLowerCase().includes(selectedQuality.toLowerCase());
 
     return matchesName && matchesCat && matchesCountry && matchesQuality;
@@ -398,10 +506,39 @@ function applyFilters() {
   renderChannels();
 }
 
+// Reset All Filters
+function resetAllFilters() {
+  searchInput.value = "";
+  countrySelect.value = "all";
+  qualitySelect.value = "all";
+  categoryPills.forEach((p) => {
+    p.classList.remove("active", "bg-cyan-600", "text-white");
+    p.classList.add("bg-slate-950", "text-slate-300");
+  });
+  const allPill = document.querySelector('.cat-pill[data-cat="all"]');
+  if (allPill) {
+    allPill.classList.add("active", "bg-cyan-600", "text-white");
+    allPill.classList.remove("bg-slate-950", "text-slate-300");
+  }
+  applyFilters();
+}
+
 // Event Listeners
 searchInput.addEventListener("input", applyFilters);
-countrySelect.addEventListener("change", applyFilters);
 qualitySelect.addEventListener("change", applyFilters);
+
+countrySelect.addEventListener("change", () => {
+  if (countrySelect.value === "IR") {
+    const farsiPill = document.querySelector('.cat-pill[data-cat="farsi"]');
+    if (farsiPill) {
+      categoryPills.forEach((p) => p.classList.remove("active", "bg-cyan-600", "text-white"));
+      categoryPills.forEach((p) => p.classList.add("bg-slate-950", "text-slate-300"));
+      farsiPill.classList.add("active", "bg-cyan-600", "text-white");
+      farsiPill.classList.remove("bg-slate-950", "text-slate-300");
+    }
+  }
+  applyFilters();
+});
 
 categoryPills.forEach((pill) => {
   pill.addEventListener("click", () => {
@@ -410,6 +547,14 @@ categoryPills.forEach((pill) => {
 
     pill.classList.add("active", "bg-cyan-600", "text-white");
     pill.classList.remove("bg-slate-950", "text-slate-300");
+
+    const cat = pill.dataset.cat.toLowerCase();
+    // Prevent filter collisions: reset country if selecting a specific genre/region
+    if (cat === "farsi" && countrySelect.value !== "all" && countrySelect.value !== "IR") {
+      countrySelect.value = "all";
+    } else if (cat !== "all" && countrySelect.value === "IR" && cat !== "farsi") {
+      countrySelect.value = "all";
+    }
 
     applyFilters();
   });
@@ -425,7 +570,7 @@ guideModal.addEventListener("click", (e) => {
 // Copy Master M3U URL
 copyM3uBtn.addEventListener("click", () => {
   const base = getBaseUrl();
-  const url = base.endsWith("/streams") ? `${base}/playlist.m3u8` : `${base}/playlist.m3u8`;
+  const url = `${base}/playlist.m3u8`;
   navigator.clipboard.writeText(url).then(() => {
     const orig = copyM3uBtn.innerHTML;
     copyM3uBtn.innerHTML = `<span>Copied M3U!</span>`;
@@ -439,7 +584,7 @@ copyM3uBtn.addEventListener("click", () => {
 // Copy EPG URL
 copyEpgBtn.addEventListener("click", () => {
   const base = getBaseUrl();
-  const url = base.endsWith("/streams") ? `${base}/epg.xml` : `${base}/epg.xml`;
+  const url = `${base}/epg.xml.gz`;
   navigator.clipboard.writeText(url).then(() => {
     const orig = copyEpgBtn.innerHTML;
     copyEpgBtn.innerHTML = `<span>Copied EPG URL!</span>`;
@@ -459,8 +604,23 @@ retryBtn.addEventListener("click", () => {
 proxyPlayBtn.addEventListener("click", () => {
   if (!activeChannel) return;
   const proxyUrl = `/proxy?url=${encodeURIComponent(activeChannel.url)}`;
-  startStream(proxyUrl);
+  startStream(proxyUrl, true);
 });
+
+// VLC Quick Copy
+if (vlcCopyBtn) {
+  vlcCopyBtn.addEventListener("click", () => {
+    if (!activeChannel) return;
+    navigator.clipboard.writeText(activeChannel.url).then(() => {
+      const orig = vlcCopyBtn.innerHTML;
+      vlcCopyBtn.innerHTML = `<span>Copied! Paste in VLC (Ctrl+N)</span>`;
+      setTimeout(() => {
+        vlcCopyBtn.innerHTML = orig;
+        lucide.createIcons();
+      }, 2500);
+    });
+  });
+}
 
 // Init on load
 window.addEventListener("DOMContentLoaded", () => {

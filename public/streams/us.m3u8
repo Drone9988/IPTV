@@ -17,21 +17,36 @@ https://livestream.telvue.com/billerica2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/pl
 #EXTINF:-1 tvg-id="BUTV10.us@SD" tvg-name="BUTV10 (1080p)" tvg-logo="https://i.imgur.com/Iv1Fe67.png" group-title="Education" tvg-country="US" tvg-quality="1080p FHD",BUTV10 (1080p) [1080p FHD]
 #EXTGRP:Education
 https://cdnapisec.kaltura.com/p/2184561/sp/218456100/playManifest/entryId/1_68qxw4eu/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-id="BXArts.us@SD" tvg-name="BX Arts (720p)" tvg-logo="https://i.imgur.com/PF71rdZ.png" group-title="Education" tvg-country="US" tvg-quality="720p HD",BX Arts (720p) [720p HD]
+#EXTGRP:Education
+https://reflect-stream-bronxnet.cablecast.tv/live-19/live/stream-2/live.m3u8
+#EXTINF:-1 tvg-id="BXCulture.us@SD" tvg-name="BX Culture (720p)" tvg-logo="https://i.imgur.com/PF71rdZ.png" group-title="Education" tvg-country="US" tvg-quality="720p HD",BX Culture (720p) [720p HD]
+#EXTGRP:Education
+https://reflect-stream-bronxnet.cablecast.tv/live-7/live/stream-3/live.m3u8
 #EXTINF:-1 tvg-id="CloudflareTV.us@SD" tvg-name="Cloudflare TV (720p)" tvg-logo="https://i.imgur.com/l4m0is8.jpeg" group-title="Education" tvg-country="US" tvg-quality="720p HD",Cloudflare TV (720p) [720p HD]
 #EXTGRP:Education
 https://cloudflare.tv/hls/live.m3u8
+#EXTINF:-1 tvg-id="CMAC2.us@SD" tvg-name="CMAC 2 (720p)" tvg-logo="https://i.imgur.com/O0sYOED.png" group-title="Education" tvg-country="US" tvg-quality="720p HD",CMAC 2 (720p) [720p HD]
+#EXTGRP:Education
+https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/live.m3u8
 #EXTINF:-1 tvg-id="Create.us@SD" tvg-name="Create (1080p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Create_TV_2006.svg/revision/latest/smart/width/386/height/259?cb=20240205233457" group-title="Education" tvg-country="US" tvg-quality="1080p FHD",Create (1080p) [1080p FHD]
 #EXTGRP:Education
 https://create.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-id="Create.us@WMPT" tvg-name="Create WMPT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Create_TV_2006.svg/revision/latest/smart/width/386/height/259?cb=20240205233457" group-title="Education" tvg-country="US" tvg-quality="720p HD",Create WMPT [720p HD]
 #EXTGRP:Education
 https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
+#EXTINF:-1 tvg-id="CreaTVChannel28.us@SD" tvg-name="CreaTV Channel 28 (720p)" tvg-logo="https://i.imgur.com/rvQdzL1.png" group-title="Education" tvg-country="US" tvg-quality="720p HD",CreaTV Channel 28 (720p) [720p HD]
+#EXTGRP:Education
+https://reflect-creatv.cablecast.tv/live-14/live/live.m3u8
 #EXTINF:-1 tvg-id="CVCEducation.us@SD" tvg-name="CVC Education (480p)" tvg-logo="https://i.imgur.com/tUgEAUJ.png" group-title="Education" tvg-country="US" tvg-quality="SD",CVC Education (480p) [SD]
 #EXTGRP:Education
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch2/video.m3u8
 #EXTINF:-1 tvg-id="DerryTV23.us@SD" tvg-name="DerryTV 23 (720p)" tvg-logo="https://i.imgur.com/MRR6UL3.png" group-title="Education" tvg-country="US" tvg-quality="720p HD",DerryTV 23 (720p) [720p HD]
 #EXTGRP:Education
 https://livestream.telvue.com/derrynh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="DetroitChannel22.us@SD" tvg-name="Detroit Channel 22" tvg-logo="https://i.imgur.com/zAdcg9m.png" group-title="Education" tvg-country="US" tvg-quality="720p HD",Detroit Channel 22 [720p HD]
+#EXTGRP:Education
+https://reflect-detroit-vod.cablecast.tv/live-3/live/stream-3/live.m3u8
 #EXTINF:-1 tvg-id="DKN.us@SD" tvg-name="DKN (1080p)" tvg-logo="https://i.imgur.com/DIau0GB.png" group-title="Education" tvg-country="US" tvg-quality="1080p FHD",DKN (1080p) [1080p FHD]
 #EXTGRP:Education
 https://video.oct.dc.gov/out/u/DKN.m3u8
@@ -50,6 +65,9 @@ https://foxsoul-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="GillettePublicAccessTelevisionChannel189.us@SD" tvg-name="Gillette Public Access Television Channel 189" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMoPQ32FU8R2lR71LXhYrC3tCHfjJEXcm6E9PEO=s176-c-k-c0x00ffffff-no-rj" group-title="Education" tvg-country="US" tvg-quality="720p HD",Gillette Public Access Television Channel 189 [720p HD]
 #EXTGRP:Education
 https://securestream11.champds.com/LIVE/GilletteWYLIVE3/GilletteWYLIVE3.m3u8
+#EXTINF:-1 tvg-id="HCTVEducationalAccessChannel.us@SD" tvg-name="HCTV Educational Access Channel" tvg-logo="https://i.imgur.com/bVbpgiD.png" group-title="Education" tvg-country="US" tvg-quality="720p HD",HCTV Educational Access Channel [720p HD]
+#EXTGRP:Education
+https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="HmongStarTV.us@SD" tvg-name="Hmong Star TV (720p)" tvg-logo="https://i.imgur.com/dRsacao.png" group-title="Education" tvg-country="US" tvg-quality="720p HD",Hmong Star TV (720p) [720p HD]
 #EXTGRP:Education
 https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
@@ -68,12 +86,12 @@ http://livestream.usatv.com/hls/master-iUSATVLIVENET.m3u8
 #EXTINF:-1 tvg-id="KOCTChannel19.us@SD" tvg-name="KOCT Channel 19 (720p)" tvg-logo="https://i.imgur.com/6C71KwP.png" group-title="Education" tvg-country="US" tvg-quality="720p HD",KOCT Channel 19 (720p) [720p HD]
 #EXTGRP:Education
 https://securestream10.champds.com/LIVE/KOCTCALIVE2/KOCTCALIVE2.m3u8
+#EXTINF:-1 tvg-id="LA36.us@SD" tvg-name="LA36 (1080p)" tvg-logo="https://i.imgur.com/JxTzUEq.png" group-title="Education" tvg-country="US" tvg-quality="1080p FHD",LA36 (1080p) [1080p FHD]
+#EXTGRP:Education
+https://reflect-channel36-la.cablecast.tv/live-3/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="LeominsterTVEducational.us@SD" tvg-name="Leominster TV Educational (720p)" tvg-logo="https://i.imgur.com/Cy94oLl.png" group-title="Education" tvg-country="US" tvg-quality="720p HD",Leominster TV Educational (720p) [720p HD]
 #EXTGRP:Education
 https://livestream.telvue.com/leominster2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="MCN6ArtsChannel.us@SD" tvg-name="MCN6 Arts Channel (1080p)" tvg-logo="https://i.imgur.com/j6IiysJ.png" group-title="Education" tvg-country="US" tvg-quality="1080p FHD",MCN6 Arts Channel (1080p) [1080p FHD]
-#EXTGRP:Education
-https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
 #EXTINF:-1 tvg-id="MCPSSTV.us@SD" tvg-name="MCPSS TV" tvg-logo="https://i.imgur.com/qo5sk1g.png" group-title="Education" tvg-country="US" tvg-quality="720p HD",MCPSS TV [720p HD]
 #EXTGRP:Education
 https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8
@@ -86,6 +104,9 @@ https://5c2974786200d.streamlock.net/live-chan30/ngrp:ch30_all/playlist.m3u8
 #EXTINF:-1 tvg-id="MidpenMediaCenterChannel75.us@SD" tvg-name="Midpen Media Center Channel 75 (720p)" tvg-logo="https://i.imgur.com/RPJiolQ.png" group-title="Education" tvg-country="US" tvg-quality="720p HD",Midpen Media Center Channel 75 (720p) [720p HD]
 #EXTGRP:Education
 https://5c2974786200d.streamlock.net/live-chan75/ngrp:ch75_all/playlist.m3u8
+#EXTINF:-1 tvg-id="MonroeCommunityMediaEducationChannel.us@SD" tvg-name="Monroe Community Media Education Channel" tvg-logo="https://i.imgur.com/gS4x0uX.png" group-title="Education" tvg-country="US" tvg-quality="720p HD",Monroe Community Media Education Channel [720p HD]
+#EXTGRP:Education
+https://reflect-monroe-public-access.cablecast.tv/live-4/live/live.m3u8
 #EXTINF:-1 tvg-id="NashuaETV.us@SD" tvg-name="Nashua ETV (720p)" tvg-logo="https://i.imgur.com/iv9Vfcb.png" group-title="Education" tvg-country="US" tvg-quality="720p HD",Nashua ETV (720p) [720p HD]
 #EXTGRP:Education
 https://livestream.telvue.com/nashuanh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
@@ -95,12 +116,6 @@ https://livestream.telvue.com/natickpegasus1/f7b44cfafd5c52223d5498196c8a2e7b.sd
 #EXTINF:-1 tvg-id="Olelo53.us@SD" tvg-name="Olelo 53 (720p)" tvg-logo="https://i.imgur.com/xDuUrj9.png" group-title="Education" tvg-country="US" tvg-quality="720p HD",Olelo 53 (720p) [720p HD]
 #EXTGRP:Education
 https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_011/playlist.m3u8
-#EXTINF:-1 tvg-id="PBS.us@East" tvg-name="PBS (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/8c8isLj.png" group-title="Education" tvg-country="US" tvg-quality="1080p FHD",PBS (1080p) [Geo-blocked] [1080p FHD]
-#EXTGRP:Education
-https://pbs.lls.cdn.pbs.org/est/index.m3u8
-#EXTINF:-1 tvg-id="PBS.us@KMOSTV" tvg-name="PBS KMOS-TV (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/8c8isLj.png" group-title="Education" tvg-country="US" tvg-quality="1080p FHD",PBS KMOS-TV (1080p) [Geo-blocked] [1080p FHD]
-#EXTGRP:Education
-https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8
 #EXTINF:-1 tvg-id="PBS.us@KQED" tvg-name="PBS KQED (1080p)" tvg-logo="https://i.imgur.com/8c8isLj.png" group-title="Education" tvg-country="US" tvg-quality="1080p FHD",PBS KQED (1080p) [1080p FHD]
 #EXTGRP:Education
 https://kqeddt2.lls.pbs.org/kqeddt2-hls.m3u8
@@ -112,13 +127,16 @@ https://kviedt2.lls.pbs.org/kviedt2-hls.m3u8
 https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8
 #EXTINF:-1 tvg-id="PBS.us@WJXT" tvg-name="PBS WJXT (720p)" tvg-logo="https://i.imgur.com/8c8isLj.png" group-title="Education" tvg-country="US" tvg-quality="720p HD",PBS WJXT (720p) [720p HD]
 #EXTGRP:Education
-https://dai.google.com/linear/hls/pa/event/RDmbn03GRCOLNG1eetEKhg/stream/dd023cdf-0c18-45fb-accd-4aa3f0450322:CHS/master.m3u8
+https://dai.google.com/linear/hls/pa/event/RDmbn03GRCOLNG1eetEKhg/stream/d1428f2e-b410-47b3-856e-08e2b5e60ae6:CHS/master.m3u8
 #EXTINF:-1 tvg-id="RedApple21.us@SD" tvg-name="Red Apple 21 (480p)" tvg-logo="https://i.imgur.com/ICcQUCH.png" group-title="Education" tvg-country="US" tvg-quality="SD",Red Apple 21 (480p) [SD]
 #EXTGRP:Education
 https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
 #EXTINF:-1 tvg-id="SMCTVChannel24.us@SD" tvg-name="SMCTV Channel 24 (720p)" tvg-logo="https://i.imgur.com/4Autljp.png" group-title="Education" tvg-country="US" tvg-quality="720p HD",SMCTV Channel 24 (720p) [720p HD]
 #EXTGRP:Education
 https://livestream.telvue.com/santamariactv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="StLuciePublicSchools.us@SD" tvg-name="St Lucie Public Schools" tvg-logo="https://i.imgur.com/wnB0fWG.png" group-title="Education" tvg-country="US" tvg-quality="720p HD",St Lucie Public Schools [720p HD]
+#EXTGRP:Education
+https://reflect-stlucie-ps-fl.cablecast.tv/live-1/live/stream-1/WIFI-1896k-720p.m3u8
 #EXTINF:-1 tvg-id="TUTV.us@SD" tvg-name="TUTV (1080p)" tvg-logo="https://i.imgur.com/At0BPeA.png" group-title="Education" tvg-country="US" tvg-quality="1080p FHD",TUTV (1080p) [1080p FHD]
 #EXTGRP:Education
 https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
@@ -139,7 +157,7 @@ https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8
 https://30a-tv.com/feeds/720p/63.m3u8
 #EXTINF:-1 tvg-id="48Hours.us@US" tvg-name="48 Hours (1080p)" tvg-logo="https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png" group-title="Entertainment" tvg-country="US" tvg-quality="1080p FHD",48 Hours (1080p) [1080p FHD]
 #EXTGRP:Entertainment
-https://dai.google.com/linear/hls/pa/event/JUr94WL2QAiVpGNHY5n5dA/stream/d7d968e7-6e03-46ba-934a-995d1740d257:CHS/master.m3u8
+https://dai.google.com/linear/hls/pa/event/JUr94WL2QAiVpGNHY5n5dA/stream/c09178af-78ab-4cbb-874d-c84d1bb80dc2:ATL/master.m3u8
 #EXTINF:-1 tvg-id="AcapulcoShore.us@US" tvg-name="Acapulco Shore US" tvg-logo="https://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG_1756972226445.png" group-title="Entertainment" tvg-country="US" tvg-quality="720p HD",Acapulco Shore US [720p HD]
 #EXTGRP:Entertainment
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/64dab1f835425100080e1e7b/master.m3u8?advertisingId=&appName=web&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&app_name=web&clientDeviceType=0&clientID=1dae5b8e-b80e-45f3-a3da-f9d18f04386c&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=1dae5b8e-b80e-45f3-a3da-f9d18f04386c&deviceLat=34.0100&deviceLon=-118.2600&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=122.0.0&marketingRegion=US&serverSideAds=false&sessionID=05431cff-cd52-11f1-9273-524777c6f2ed&sid=05431cff-cd52-11f1-9273-524777c6f2ed&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjUzOTU1NWYyLTIzYjEtNGM3MC04NmJmLTM1M2UxMjRhMTEyZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIwNTQzMWNmZi1jZDUyLTExZjEtOTI3My01MjQ3NzdjNmYyZWQiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiIxZGFlNWI4ZS1iODBlLTQ1ZjMtYTNkYS1mOWQxOGYwNDM4NmMiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Mb3NfQW5nZWxlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IiJ9LCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7InF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCJ9LCJzdGl0Y2hlckFkU2Vzc2lvbkV2ZW50Ijp7ImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJqaXRQYWNrIjoicmVwYWNrSml0LGRlY3J5cHQifSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiMWRhZTViOGUtYjgwZS00NWYzLWEzZGEtZjlkMThmMDQzODZjIiwiZndWY0lEMkNvcHBhIjoiMWRhZTViOGUtYjgwZS00NWYzLWEzZGEtZjlkMThmMDQzODZjIiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiIxZGFlNWI4ZS1iODBlLTQ1ZjMtYTNkYS1mOWQxOGYwNDM4NmMiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDAwLDEwMDA5In19LCJzZXNzaW9uU3RhcnRUaW1lIjoxNzkyNTg4NzU4NDQ5LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VVM6TVdSaFpUVmlPR1V0WWpnd1pTMDBOV1l6TFdFelpHRXRaamxrTVRobU1EUXpPRFpqIiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc5MjY3NTE1OCwiaWF0IjoxNzkyNTg4NzU4LCJqdGkiOiI2OGRjOTIxYS1jZmUwLTRiY2UtYjBmZC1lZTJmZjZiOTZiZTMifQ.YoKnVedBF6WrJDCge9K1q-B1RbJdh7ovixvfPezm3Pk&masterJWTPassthrough=true&includeExtendedEvents=true
@@ -188,9 +206,6 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 #EXTINF:-1 tvg-id="CameraSmileTV.us@SD" tvg-name="Camera Smile TV (480p)" tvg-logo="https://i.imgur.com/V5h4R83.png" group-title="Entertainment" tvg-country="US" tvg-quality="SD",Camera Smile TV (480p) [SD]
 #EXTGRP:Entertainment
 https://rpn.bozztv.com/gusa/gusa-camerasmile/index.m3u8
-#EXTINF:-1 tvg-id="CelebrityNameGame.us@SD" tvg-name="Celebrity Name Game (1080p) [Geo-blocked]" tvg-logo="https://provider-static.plex.tv/epg/cms/production/773232e1-5c36-490b-922e-e5be8ec12eb2/celebrityd5796a3e14bf45513f7b3071b90d030.png" group-title="Entertainment" tvg-country="US" tvg-quality="1080p FHD",Celebrity Name Game (1080p) [Geo-blocked] [1080p FHD]
-#EXTGRP:Entertainment
-https://amg00353-amg00353c19-xumo-us-2608.playouts.now.amagi.tv/lionsgate-clbng/playlist.m3u8
 #EXTINF:-1 tvg-id="CheersPlusFrasier.us@SD" tvg-name="Cheers + Frasier" tvg-logo="https://images.pluto.tv/channels/66ba495ffe11e5000881f049/colorLogoPNG.png" group-title="Entertainment" tvg-country="US" tvg-quality="720p HD",Cheers + Frasier [720p HD]
 #EXTGRP:Entertainment
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/66ba495ffe11e5000881f049/master.m3u8?advertisingId=&appName=web&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&app_name=web&clientDeviceType=0&clientID=4b79926a-e207-4d1b-bec8-7291371442fa&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=4b79926a-e207-4d1b-bec8-7291371442fa&deviceLat=34.0100&deviceLon=-118.2600&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=122.0.0&marketingRegion=US&serverSideAds=false&sessionID=3038dab2-cd6b-11f1-8773-a28f3ca96a85&sid=3038dab2-cd6b-11f1-8773-a28f3ca96a85&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjUzOTU1NWYyLTIzYjEtNGM3MC04NmJmLTM1M2UxMjRhMTEyZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIzMDM4ZGFiMi1jZDZiLTExZjEtODc3My1hMjhmM2NhOTZhODUiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiI0Yjc5OTI2YS1lMjA3LTRkMWItYmVjOC03MjkxMzcxNDQyZmEiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Mb3NfQW5nZWxlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IiJ9LCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7InF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCJ9LCJzdGl0Y2hlckFkU2Vzc2lvbkV2ZW50Ijp7ImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJqaXRQYWNrIjoicmVwYWNrSml0LGRlY3J5cHQifSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiNGI3OTkyNmEtZTIwNy00ZDFiLWJlYzgtNzI5MTM3MTQ0MmZhIiwiZndWY0lEMkNvcHBhIjoiNGI3OTkyNmEtZTIwNy00ZDFiLWJlYzgtNzI5MTM3MTQ0MmZhIiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiI0Yjc5OTI2YS1lMjA3LTRkMWItYmVjOC03MjkxMzcxNDQyZmEiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDAwLDEwMDA5In19LCJzZXNzaW9uU3RhcnRUaW1lIjoxNzkyNTk5NTY3OTQyLCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VVM6TkdJM09Ua3lObUV0WlRJd055MDBaREZpTFdKbFl6Z3ROekk1TVRNM01UUTBNbVpoIiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc5MjY4NTk2NywiaWF0IjoxNzkyNTk5NTY3LCJqdGkiOiJjYTgxNmEwOS0xMmY1LTQ0YTYtYTA2Ni0zOGJkMTI1MGE1ODcifQ.km-vAAKYPOqe9nqkB3WA06uLH-ca9gPO1FQc4WQbP3o&masterJWTPassthrough=true&includeExtendedEvents=true
@@ -227,9 +242,6 @@ https://amg00627-banijaygroup-dealornodeal-samsungau-si7xg.amagi.tv/playlist/amg
 #EXTINF:-1 tvg-id="Degrassi.us@US" tvg-name="Degrassi (720p)" tvg-logo="https://i.imgur.com/vhSzfDC.png" group-title="Entertainment" tvg-country="US" tvg-quality="720p HD",Degrassi (720p) [720p HD]
 #EXTGRP:Entertainment
 https://d3537vnymvfque.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="DesignatedSurvivor.us@SD" tvg-name="Designated Survivor (1080p) [Geo-blocked]" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6f31f52b-2b65-49eb-91e5-52e07edd1927/DesignatedSurvivor_Plex_1500x1000_Logo_Dark.png" group-title="Entertainment" tvg-country="US" tvg-quality="1080p FHD",Designated Survivor (1080p) [Geo-blocked] [1080p FHD]
-#EXTGRP:Entertainment
-https://amg00353-amg00353c40-xumo-us-4839.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DoctorWhoClassic.us@US" tvg-name="Doctor Who Classic (1080p)" tvg-logo="https://i.imgur.com/JIqJQQM.png" group-title="Entertainment" tvg-country="US" tvg-quality="1080p FHD",Doctor Who Classic (1080p) [1080p FHD]
 #EXTGRP:Entertainment
 https://bbc-classicdrwho-1-us.roku.wurl.tv/playlist.m3u8
@@ -410,9 +422,6 @@ http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 #EXTINF:-1 tvg-id="SupernaturalDrama.us@SD" tvg-name="Supernatural Drama" tvg-logo="https://images.pluto.tv/channels/5f24662bebe0f0000767de32/colorLogoPNG.png" group-title="Entertainment" tvg-country="US" tvg-quality="720p HD",Supernatural Drama [720p HD]
 #EXTGRP:Entertainment
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5f24662bebe0f0000767de32/master.m3u8?advertisingId=&appName=web&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&app_name=web&clientDeviceType=0&clientID=a8248d3b-070b-4589-b218-4e153173a2f0&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=a8248d3b-070b-4589-b218-4e153173a2f0&deviceLat=34.0100&deviceLon=-118.2600&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=122.0.0&marketingRegion=US&serverSideAds=false&sessionID=33a1b22f-cd20-11f1-a70c-4a8f8fb8ea09&sid=33a1b22f-cd20-11f1-a70c-4a8f8fb8ea09&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImQ0MzUxMmMwLTkyODEtNDgyNi05MTJhLWY1YTk5YjZjMjQ3ZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIzM2ExYjIyZi1jZDIwLTExZjEtYTcwYy00YThmOGZiOGVhMDkiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiJhODI0OGQzYi0wNzBiLTQ1ODktYjIxOC00ZTE1MzE3M2EyZjAiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Mb3NfQW5nZWxlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IiJ9LCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7InF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCJ9LCJzdGl0Y2hlckRhc2hOZyI6eyJqaXRQYWNrIjoicmVwYWNrSml0LGRlY3J5cHQifSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiYTgyNDhkM2ItMDcwYi00NTg5LWIyMTgtNGUxNTMxNzNhMmYwIiwiZndWY0lEMkNvcHBhIjoiYTgyNDhkM2ItMDcwYi00NTg5LWIyMTgtNGUxNTMxNzNhMmYwIiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiJhODI0OGQzYi0wNzBiLTQ1ODktYjIxOC00ZTE1MzE3M2EyZjAiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDAwLDEwMDA5In19LCJzZXNzaW9uU3RhcnRUaW1lIjoxNzkyNTY3MzYxNDA3LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VVM6WVRneU5EaGtNMkl0TURjd1lpMDBOVGc1TFdJeU1UZ3ROR1V4TlRNeE56TmhNbVl3IiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc5MjY1Mzc2MSwiaWF0IjoxNzkyNTY3MzYxLCJqdGkiOiI2NjJiNjJhNy00MDFjLTRkMTUtOWE2Yy01OTY4MjI0MTliYzEifQ.2JCyzA9Qz-Dg1CXaS8oltRS6h6CQ5tn59f-yqVcXqs4&masterJWTPassthrough=true&includeExtendedEvents=true
-#EXTINF:-1 tvg-id="Survivor.us@SD" tvg-name="Survivor (1080p)" tvg-logo="https://i.imgur.com/Zz9SgY8.png" group-title="Entertainment" tvg-country="US" tvg-quality="1080p FHD",Survivor (1080p) [1080p FHD]
-#EXTGRP:Entertainment
-https://amg00627-amg00627c16-samsung-nz-2811.playouts.now.amagi.tv/playlist/amg00627-banijayfast-survivor-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="TelemundoTelenovelasClasicas.us@SD" tvg-name="Telemundo Telenovelas Clasicas" tvg-logo="https://i.imgur.com/9bPcYIN.png" group-title="Entertainment" tvg-country="US" tvg-quality="720p HD",Telemundo Telenovelas Clasicas [720p HD]
 #EXTGRP:Entertainment
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&app_name=web&clientDeviceType=0&clientID=82ba9681-bb18-486e-baf2-ebde53f26440&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=82ba9681-bb18-486e-baf2-ebde53f26440&deviceLat=34.0100&deviceLon=-118.2600&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=122.0.0&marketingRegion=US&serverSideAds=false&sessionID=360879fa-cd20-11f1-8bba-baf7d4c1b52c&sid=360879fa-cd20-11f1-8bba-baf7d4c1b52c&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImQ0MzUxMmMwLTkyODEtNDgyNi05MTJhLWY1YTk5YjZjMjQ3ZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIzNjA4NzlmYS1jZDIwLTExZjEtOGJiYS1iYWY3ZDRjMWI1MmMiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiI4MmJhOTY4MS1iYjE4LTQ4NmUtYmFmMi1lYmRlNTNmMjY0NDAiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Mb3NfQW5nZWxlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IiJ9LCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7InF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCJ9LCJzdGl0Y2hlckRhc2hOZyI6eyJqaXRQYWNrIjoicmVwYWNrSml0LGRlY3J5cHQifSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiODJiYTk2ODEtYmIxOC00ODZlLWJhZjItZWJkZTUzZjI2NDQwIiwiZndWY0lEMkNvcHBhIjoiODJiYTk2ODEtYmIxOC00ODZlLWJhZjItZWJkZTUzZjI2NDQwIiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiI4MmJhOTY4MS1iYjE4LTQ4NmUtYmFmMi1lYmRlNTNmMjY0NDAiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDAwLDEwMDA5In19LCJzZXNzaW9uU3RhcnRUaW1lIjoxNzkyNTY3MzY1NDM2LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VVM6T0RKaVlUazJPREV0WW1JeE9DMDBPRFpsTFdKaFpqSXRaV0prWlRVelpqSTJORFF3IiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc5MjY1Mzc2NSwiaWF0IjoxNzkyNTY3MzY1LCJqdGkiOiIxN2E1YjVjMC0xNjQzLTRiNmUtOTFiNy03NjZiNDFhMzQyMzEifQ.S9KNmllgh5LHuLJrbXPIBf8c_zlP_jG4GWFInLfNlzE&masterJWTPassthrough=true&includeExtendedEvents=true
@@ -434,9 +443,6 @@ https://amg00426-littledotstudio-thechatshow-samsungnz-uqmtt.amagi.tv/playlist/a
 #EXTINF:-1 tvg-id="TheConners.us@SD" tvg-name="The Conners" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3acd803e-a5e3-430c-a34e-508123d2bd95/TheConners_1500x1000_Logo_Dark.png" group-title="Entertainment" tvg-country="US" tvg-quality="720p HD",The Conners [720p HD]
 #EXTGRP:Entertainment
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/66e2a94d167a8b000813485d/master.m3u8?advertisingId=&appName=web&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&app_name=web&clientDeviceType=0&clientID=777ece8d-f585-4796-a35e-0708060f0011&clientModelNumber=1.0.0&country=CA&deviceDNT=false&deviceId=777ece8d-f585-4796-a35e-0708060f0011&deviceLat=43.6800&deviceLon=-79.4300&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=122.0.0&marketingRegion=CA&serverSideAds=false&sessionID=32031515-cd20-11f1-b761-06a2e2760b76&sid=32031515-cd20-11f1-b761-06a2e2760b76&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImQ0MzUxMmMwLTkyODEtNDgyNi05MTJhLWY1YTk5YjZjMjQ3ZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIzMjAzMTUxNS1jZDIwLTExZjEtYjc2MS0wNmEyZTI3NjBiNzYiLCJjbGllbnRJUCI6IjE5Mi4yMDYuMTUxLjEzMSIsImNpdHkiOiJUb3JvbnRvIiwicG9zdGFsQ29kZSI6Im02YyAxYzciLCJjb3VudHJ5IjoiQ0EiLCJkbWEiOjEyNDUzNSwiYWN0aXZlUmVnaW9uIjoiQ0EiLCJkZXZpY2VMYXQiOjQzLjY4MDAwMDMwNTE3NTc4LCJkZXZpY2VMb24iOi03OS40MzAwMDAzMDUxNzU3OCwicHJlZmVycmVkTGFuZ3VhZ2UiOiJlbiIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTIyLjAuMCIsImRldmljZU1ha2UiOiJjaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiOC4wLjAtMTExYjJiOWRjMDBiZDBiZWE5MDMwYjMwNjYyMTU5ZWQ5ZTdjOGJjNiIsImNsaWVudElEIjoiNzc3ZWNlOGQtZjU4NS00Nzk2LWEzNWUtMDcwODA2MGYwMDExIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvVG9yb250byIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsibXVsdGlQb2RBZHMiOnsiY29ob3J0IjoiIiwiZW5hYmxlZCI6dHJ1ZX0sInNlYXJjaEFQSSI6eyJxdWVyeVZlcnNpb24iOiJoeWJyaWQifSwic3RpdGNoZXJBZFNlc3Npb25FdmVudCI6eyJlbmFibGVkIjp0cnVlfSwic3RpdGNoZXJEYXNoTmciOnsiaml0UGFjayI6InJlcGFja0ppdCxkZWNyeXB0In0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6Ijc3N2VjZThkLWY1ODUtNDc5Ni1hMzVlLTA3MDgwNjBmMDAxMSIsImZ3VmNJRDJDb3BwYSI6Ijc3N2VjZThkLWY1ODUtNDc5Ni1hMzVlLTA3MDgwNjBmMDAxMSIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiNzc3ZWNlOGQtZjU4NS00Nzk2LWEzNWUtMDcwODA2MGYwMDExIiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiMTA0NSwxMDM1LDEwMTUsMTA3NSwxMDg1IiwiX2Z3XzNQX1VJRCI6IklETDpBaERvckdyeG93OUk1clFCNElJUHNJMjlPLXQzZEFRLVpkQkN6U0NhOWtZdmV6dW5VWHZtNnJxWUpkM3p2VXpVNDRfc1drU2RqS3FwRmhoUTFGY2NQVWdlQmVvUVJRSm5yc1l0R3VSLTdybFdKV25TZXdQdEpqMWx3dmpSN3VGVVRJVFRhTnF4djMxVG1US3djaDRCM0R2a1JIdnZ1eXZicmtGajR3NFZmWmpLUmI0MS05TnR1NDg5VjBvcVlGNG9icmtJQlVGV3JMSWRIOHNFMW40NU1WWG9PdWkwZUZtSkNLXzFQNEM5WnUwR0pNOGZOdmpwR1FrZ2gybmFRVHZwcG9mMDZacEMzSXlRdUlGc0FDeW8waDd1dlNZNFRsVHJidlYzZmI1YWFNMktUNUtzSTZNMWFkUzVNUGk3LTBCc0NyRmFoQWtXSnlHQjRkMU5nVWk4TEc0dXBQTzBmWHR1TU1QazZrRTgwQSxVSUQyOkE0QUFBRXAzSkNvYjlpc3k4ZXpHZXVUeXo1S0NfRWpsTG5nUU9sTE1odGNrQnJXckt6aUViWWJTR3hFTnBhcHV6LUtZS3daLUV0Tm9vTGRKWDlvMU4zLTVMd1dUSE5jZm9VQXZqNXpCTEFkRHpqOGZwRHI4eS1wZHFvM2htNUtaNU41MU1KNGZSLWZjX3RjZGhjck1fMW5acEtIaC1uRk9LNUFxTXB5WUMydmRLTENFM2FQeHV3RW05dzFzakdOUTBwOW5EVTJQSmE4VmNNaWJkTW1Lc1lpWWRnLFZJQU5UUDozMzhlYzYxOWMxM2JkMDRmYjM0YzEwM2RjOGY3OWI5N2I1OGQ0ZTc1ZTYyODk3OGNlZTNmMzI0ZDNmZTZiM2Y4LFRJTlVJVEk6Mzc4MWUyMTI0ZGQzZjY3ZjZlMmUwZWUyZWIxNzMzMTdmZTEyMjQ4MmQwODEzZTZjYWE0YzFhOTFiMjYzNGQ1NiIsImZtc19ydWxlaWQiOiIxMDAwMCwxMDAwOSJ9fSwic2Vzc2lvblN0YXJ0VGltZSI6MTc5MjU2NzM1ODY5MCwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkNBOk56YzNaV05sT0dRdFpqVTROUzAwTnprMkxXRXpOV1V0TURjd09EQTJNR1l3TURFeCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3OTI2NTM3NTgsImlhdCI6MTc5MjU2NzM1OCwianRpIjoiMTM1NTA4MGUtYWExMC00YjQ5LTgyZjQtMDczZGYwNmYwMDk2In0.-5TN0mDJrgiEI3toI7H3I1UoVnaLK7YKbXwxLPnSwCQ&masterJWTPassthrough=true&includeExtendedEvents=true
-#EXTINF:-1 tvg-id="TheDoctors.us@HD" tvg-name="The Doctors (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/2sAz8dZ.png" group-title="Entertainment" tvg-country="US" tvg-quality="720p HD",The Doctors (720p) [Geo-blocked] [720p HD]
-#EXTGRP:Entertainment
-https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Doctors/index.m3u8
 #EXTINF:-1 tvg-id="TheJudgeJudyChannel.us@SD" tvg-name="The Judge Judy Channel (720p)" tvg-logo="https://images.pluto.tv/channels/62e92e536f28870007fa9b3a/colorLogoPNG.png" group-title="Entertainment" tvg-country="US" tvg-quality="720p HD",The Judge Judy Channel (720p) [720p HD]
 #EXTGRP:Entertainment
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/6283d51144ad8f0007fa382d/master.m3u8?advertisingId=&appName=web&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&app_name=web&clientDeviceType=0&clientID=f8c4a92e-1a57-471b-bf7b-7a98ef29c7a0&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=f8c4a92e-1a57-471b-bf7b-7a98ef29c7a0&deviceLat=34.0100&deviceLon=-118.2600&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=122.0.0&marketingRegion=US&serverSideAds=false&sessionID=1926a136-cd39-11f1-b5e3-5a224a446b32&sid=1926a136-cd39-11f1-b5e3-5a224a446b32&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImQ0MzUxMmMwLTkyODEtNDgyNi05MTJhLWY1YTk5YjZjMjQ3ZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIxOTI2YTEzNi1jZDM5LTExZjEtYjVlMy01YTIyNGE0NDZiMzIiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiJmOGM0YTkyZS0xYTU3LTQ3MWItYmY3Yi03YTk4ZWYyOWM3YTAiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Mb3NfQW5nZWxlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IiJ9LCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7InF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCJ9LCJzdGl0Y2hlckFkU2Vzc2lvbkV2ZW50Ijp7ImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJqaXRQYWNrIjoicmVwYWNrSml0LGRlY3J5cHQifSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiZjhjNGE5MmUtMWE1Ny00NzFiLWJmN2ItN2E5OGVmMjljN2EwIiwiZndWY0lEMkNvcHBhIjoiZjhjNGE5MmUtMWE1Ny00NzFiLWJmN2ItN2E5OGVmMjljN2EwIiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiJmOGM0YTkyZS0xYTU3LTQ3MWItYmY3Yi03YTk4ZWYyOWM3YTAiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDAwLDEwMDA5In19LCJzZXNzaW9uU3RhcnRUaW1lIjoxNzkyNTc4MDU0Mzk4LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VVM6Wmpoak5HRTVNbVV0TVdFMU55MDBOekZpTFdKbU4ySXROMkU1T0dWbU1qbGpOMkV3IiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc5MjY2NDQ1NCwiaWF0IjoxNzkyNTc4MDU0LCJqdGkiOiJhMGE2MWI0OS1hZjAxLTRlMzgtOWNkNi1jZWY4ZGRhM2ZjZTkifQ.Oa9KeNDb3TMAOcxONvgQ-iDCnAGjy1wpY3wK-QsONv4&masterJWTPassthrough=true&includeExtendedEvents=true
@@ -461,9 +467,6 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 #EXTINF:-1 tvg-id="Tosh0.us@SD" tvg-name="Tosh.0 (United States)" tvg-logo="https://i.imgur.com/sXkluxg.png" group-title="Entertainment" tvg-country="US" tvg-quality="720p HD",Tosh.0 (United States) [720p HD]
 #EXTGRP:Entertainment
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5dae084727c8af0009fe40a4/master.m3u8?advertisingId=&appName=web&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&app_name=web&clientDeviceType=0&clientID=214a8dcd-224b-4220-b2cf-f7de5d7efa54&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=214a8dcd-224b-4220-b2cf-f7de5d7efa54&deviceLat=34.0100&deviceLon=-118.2600&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=122.0.0&marketingRegion=US&serverSideAds=false&sessionID=16b8d7f2-cd39-11f1-96be-8e86b4706564&sid=16b8d7f2-cd39-11f1-96be-8e86b4706564&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImQ0MzUxMmMwLTkyODEtNDgyNi05MTJhLWY1YTk5YjZjMjQ3ZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIxNmI4ZDdmMi1jZDM5LTExZjEtOTZiZS04ZTg2YjQ3MDY1NjQiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiIyMTRhOGRjZC0yMjRiLTQyMjAtYjJjZi1mN2RlNWQ3ZWZhNTQiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Mb3NfQW5nZWxlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IiJ9LCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7InF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCJ9LCJzdGl0Y2hlckFkU2Vzc2lvbkV2ZW50Ijp7ImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJqaXRQYWNrIjoicmVwYWNrSml0LGRlY3J5cHQifSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiMjE0YThkY2QtMjI0Yi00MjIwLWIyY2YtZjdkZTVkN2VmYTU0IiwiZndWY0lEMkNvcHBhIjoiMjE0YThkY2QtMjI0Yi00MjIwLWIyY2YtZjdkZTVkN2VmYTU0IiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiIyMTRhOGRjZC0yMjRiLTQyMjAtYjJjZi1mN2RlNWQ3ZWZhNTQiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDAwLDEwMDA5In19LCJzZXNzaW9uU3RhcnRUaW1lIjoxNzkyNTc4MDUwMzIzLCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VVM6TWpFMFlUaGtZMlF0TWpJMFlpMDBNakl3TFdJeVkyWXRaamRrWlRWa04yVm1ZVFUwIiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc5MjY2NDQ1MCwiaWF0IjoxNzkyNTc4MDUwLCJqdGkiOiI3YjI3ZTE1My03ZWIxLTQzZDktYjc0YS1mNTkzYmNmNDNjZDUifQ.Ty6qtrd1TggZr4p_-mCkaDx4a4Z3iNtnfLJ0Qae6hXI&masterJWTPassthrough=true&includeExtendedEvents=true
-#EXTINF:-1 tvg-id="TrueCrimeNetwork.us@SD" tvg-name="True Crime Network (1080p) [Geo-blocked]" tvg-logo="https://www.truecrimenetworktv.com/sites/all/themes/jntheme/images/tcnetwork-logo-main.png" group-title="Entertainment" tvg-country="US" tvg-quality="1080p FHD",True Crime Network (1080p) [Geo-blocked] [1080p FHD]
-#EXTGRP:Entertainment
-https://amg00979-amg00979c1-firetv-us-3622.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TrueCrimeNetwork.us@WCVBTV" tvg-name="True Crime Network WCVB-TV (720p)" tvg-logo="https://www.truecrimenetworktv.com/sites/all/themes/jntheme/images/tcnetwork-logo-main.png" group-title="Entertainment" tvg-country="US" tvg-quality="720p HD",True Crime Network WCVB-TV (720p) [720p HD]
 #EXTGRP:Entertainment
 https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist.m3u8
@@ -500,9 +503,6 @@ https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="3ABNFrench.us@SD" tvg-name="3ABN French" tvg-logo="https://i.imgur.com/B5gsM7m.png" group-title="General" tvg-country="US" tvg-quality="720p HD",3ABN French [720p HD]
 #EXTGRP:General
 https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="3ABNLatino.us@SD" tvg-name="3ABN Latino (1080p)" tvg-logo="https://i.imgur.com/Ugb4AFo.png" group-title="General" tvg-country="US" tvg-quality="1080p FHD",3ABN Latino (1080p) [1080p FHD]
-#EXTGRP:General
-http://138.59.177.78:9999/play/a0a3/index.m3u8
 #EXTINF:-1 tvg-id="3ABNProclaimNetwork.us@SD" tvg-name="3ABN Proclaim! Network" tvg-logo="https://i.imgur.com/zUMUNhe.png" group-title="General" tvg-country="US" tvg-quality="720p HD",3ABN Proclaim! Network [720p HD]
 #EXTGRP:General
 https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/playlist.m3u8
@@ -527,9 +527,6 @@ https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
 #EXTINF:-1 tvg-id="ABC.us@KOATTV" tvg-name="ABC KOAT-TV (720p)" tvg-logo="https://i.imgur.com/pvXZ8DX.png" group-title="General" tvg-country="US" tvg-quality="720p HD",ABC KOAT-TV (720p) [720p HD]
 #EXTGRP:General
 https://aegis-cloudfront-1.tubi.video/2dba5dd9-4097-45e3-b169-56735cc48476/playlist.m3u8
-#EXTINF:-1 tvg-id="ABC.us@KRGVTV" tvg-name="ABC KRGV-TV" tvg-logo="https://i.imgur.com/pvXZ8DX.png" group-title="General" tvg-country="US" tvg-quality="720p HD",ABC KRGV-TV [720p HD]
-#EXTGRP:General
-https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ABC.us@KSTPTV" tvg-name="ABC KSTP-TV (1080p)" tvg-logo="https://i.imgur.com/pvXZ8DX.png" group-title="General" tvg-country="US" tvg-quality="1080p FHD",ABC KSTP-TV (1080p) [1080p FHD]
 #EXTGRP:General
 https://amg01942-amg01942c2-stirr-us-10173.playouts.now.amagi.tv/playlist.m3u8
@@ -538,7 +535,7 @@ https://amg01942-amg01942c2-stirr-us-10173.playouts.now.amagi.tv/playlist.m3u8
 https://content.uplynk.com/channel/9d4e02c9c3544c269d32e6b316792c8f.m3u8
 #EXTINF:-1 tvg-id="ABC.us@WBBJTV" tvg-name="ABC WBBJ-TV (432p)" tvg-logo="https://i.imgur.com/pvXZ8DX.png" group-title="General" tvg-country="US" tvg-quality="720p HD",ABC WBBJ-TV (432p) [720p HD]
 #EXTGRP:General
-https://dai.google.com/linear/hls/pa/event/HZ3JdLVcQ463l3b1BLXmmQ/stream/c8bc0e91-36e3-4b56-aa2d-9e1e1079d9df:DLS/master.m3u8
+https://dai.google.com/linear/hls/pa/event/HZ3JdLVcQ463l3b1BLXmmQ/stream/e686481c-b949-4022-8b5d-432740c962b1:DLS/master.m3u8
 #EXTINF:-1 tvg-id="ABC.us@WBRZTV" tvg-name="ABC WBRZ-TV (480p)" tvg-logo="https://i.imgur.com/n057TgX.png" group-title="General" tvg-country="US" tvg-quality="SD",ABC WBRZ-TV (480p) [SD]
 #EXTGRP:General
 https://d2a6g6zgxepbwi.cloudfront.net/wbrz-edge/weather.stream_360p/playlist.m3u8
@@ -587,12 +584,21 @@ https://mediaserver.abnvideos.com/streams/abntvindia.m3u8
 #EXTINF:-1 tvg-id="ABNUrdu.us@SD" tvg-name="ABN Urdu (540p)" tvg-logo="https://i.imgur.com/Y9ScPIl.png" group-title="General" tvg-country="US" tvg-quality="720p HD",ABN Urdu (540p) [720p HD]
 #EXTGRP:General
 https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
+#EXTINF:-1 tvg-id="Access19.us@SD" tvg-name="Access 19" tvg-logo="https://i.imgur.com/7F4LJMT.png" group-title="General" tvg-country="US" tvg-quality="720p HD",Access 19 [720p HD]
+#EXTGRP:General
+https://reflect-montgomerycommunitymedia.cablecast.tv/live-8/live/stream-3/live.m3u8
+#EXTINF:-1 tvg-id="Access4PAC.us@SD" tvg-name="Access 4 PAC" tvg-logo="https://i.imgur.com/DQu3gES.png" group-title="General" tvg-country="US" tvg-quality="720p HD",Access 4 PAC [720p HD]
+#EXTGRP:General
+https://reflect-channel18vod-springfield-il-us.cablecast.tv/live-16/live/stream-4/live.m3u8
 #EXTINF:-1 tvg-id="AccessHumboldt.us@SD" tvg-name="Access Humboldt (1080p)" tvg-logo="https://i.imgur.com/tJl43uM.png" group-title="General" tvg-country="US" tvg-quality="1080p FHD",Access Humboldt (1080p) [1080p FHD]
 #EXTGRP:General
 https://rtmp-live-ingest-ap-northeast-2-universe-dacast-com.akamaized.net/transmuxv1/streams/f08fcd45-1d04-9a8c-39ca-f56091820e5c.m3u8
 #EXTINF:-1 tvg-id="AccessNashua.us@SD" tvg-name="Access Nashua (720p)" tvg-logo="https://i.imgur.com/iv9Vfcb.png" group-title="General" tvg-country="US" tvg-quality="720p HD",Access Nashua (720p) [720p HD]
 #EXTGRP:General
 https://livestream.telvue.com/nashuanh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="AccessTuolumne.us@SD" tvg-name="Access Tuolumne (720p)" tvg-logo="https://i.imgur.com/sYtDaQ1.png" group-title="General" tvg-country="US" tvg-quality="720p HD",Access Tuolumne (720p) [720p HD]
+#EXTGRP:General
+https://reflect-tuolumne.cablecast.tv/live-3/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="AccessVisionChannel16.us@SD" tvg-name="AccessVision Channel 16 (720p)" tvg-logo="https://i.imgur.com/vi4TCdb.png" group-title="General" tvg-country="US" tvg-quality="720p HD",AccessVision Channel 16 (720p) [720p HD]
 #EXTGRP:General
 https://livestream.telvue.com/accvision1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
@@ -677,9 +683,6 @@ https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch1/video.m3u8
 #EXTINF:-1 tvg-id="Armenia1.am@America" tvg-name="Armenia 1 America (1080p)" tvg-logo="https://i.imgur.com/HIwJ4lc.png" group-title="General" tvg-country="US" tvg-quality="1080p FHD",Armenia 1 America (1080p) [1080p FHD]
 #EXTGRP:General
 https://amtvusdvr.tulix.tv/am4abr/index.m3u8
-#EXTINF:-1 tvg-id="AsianCultureTV.us@HD" tvg-name="Asian Culture TV (1080p)" tvg-logo="https://i.imgur.com/o1icKZu.png" group-title="General" tvg-country="US" tvg-quality="1080p FHD",Asian Culture TV (1080p) [1080p FHD]
-#EXTGRP:General
-https://cdn.vegasplus.us/vegas/actv/playlist.m3u8
 #EXTINF:-1 tvg-id="ATL26.us@SD" tvg-name="ATL 26" tvg-logo="https://i.imgur.com/s4fqNMt.png" group-title="General" tvg-country="US" tvg-quality="720p HD",ATL 26 [720p HD]
 #EXTGRP:General
 https://securestream11.champds.com/LIVE/AtlantaGALIVE/AtlantaGALIVE.m3u8
@@ -737,6 +740,12 @@ https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/beverlyhills/G0072_006/playlist.m3u8
 #EXTINF:-1 tvg-id="BHTV35.us@SD" tvg-name="BHTV35 (720p)" tvg-logo="https://i.imgur.com/3Gqc5f2.png" group-title="General" tvg-country="US" tvg-quality="720p HD",BHTV35 (720p) [720p HD]
 #EXTGRP:General
 https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/beverlyhills/G0072_007/playlist.m3u8
+#EXTINF:-1 tvg-id="BIGCivicChannel.us@SD" tvg-name="BIG Civic Channel" tvg-logo="https://i.imgur.com/6HDMVBB.png" group-title="General" tvg-country="US" tvg-quality="720p HD",BIG Civic Channel [720p HD]
+#EXTGRP:General
+https://reflect-brookline-interactive-group.cablecast.tv/live-5/live/stream-2/live.m3u8
+#EXTINF:-1 tvg-id="BIGCommunityChannel.us@SD" tvg-name="BIG Community Channel" tvg-logo="https://i.imgur.com/6HDMVBB.png" group-title="General" tvg-country="US" tvg-quality="720p HD",BIG Community Channel [720p HD]
+#EXTGRP:General
+https://reflect-brookline-interactive-group.cablecast.tv/live-4/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="BigTenNetwork.us@SD" tvg-name="Big Ten Network (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/960px-Big_Ten_Network_Logo.svg.png" group-title="General" tvg-country="US" tvg-quality="720p HD",Big Ten Network (720p) [720p HD]
 #EXTGRP:General
 http://23.237.104.106:8080/USA_BTN/index.m3u8
@@ -752,12 +761,21 @@ https://livestream.telvue.com/belmontmedia4/f7b44cfafd5c52223d5498196c8a2e7b.sdp
 #EXTINF:-1 tvg-id="Bounce.us@SD" tvg-name="Bounce (720p)" tvg-logo="https://m.media-amazon.com/images/I/718bHckb8eL.png" group-title="General" tvg-country="US" tvg-quality="720p HD",Bounce (720p) [720p HD]
 #EXTGRP:General
 http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
+#EXTINF:-1 tvg-id="BPTV.us@SD" tvg-name="BPTV (360p)" tvg-logo="https://i.imgur.com/ObNBL7L.png" group-title="General" tvg-country="US" tvg-quality="720p HD",BPTV (360p) [720p HD]
+#EXTGRP:General
+https://buenapark.cablecast.tv/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="Bravo.us@East" tvg-name="Bravo (720p)" tvg-logo="https://i.imgur.com/JmTIRLF.png" group-title="General" tvg-country="US" tvg-quality="720p HD",Bravo (720p) [720p HD]
 #EXTGRP:General
 http://41.205.93.154/BRAVO/index.m3u8
 #EXTINF:-1 tvg-id="BrevardGovernmentAccessTV.us@SD" tvg-name="Brevard Government Access TV (720p)" tvg-logo="https://i.imgur.com/eUTDIQ2.png" group-title="General" tvg-country="US" tvg-quality="720p HD",Brevard Government Access TV (720p) [720p HD]
 #EXTGRP:General
 https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/brevardfl/G2111_002/playlist.m3u8
+#EXTINF:-1 tvg-id="BXInspire.us@SD" tvg-name="BX Inspire (720p)" tvg-logo="https://i.imgur.com/PF71rdZ.png" group-title="General" tvg-country="US" tvg-quality="720p HD",BX Inspire (720p) [720p HD]
+#EXTGRP:General
+https://reflect-stream-bronxnet.cablecast.tv/live-18/live/stream-7/live.m3u8
+#EXTINF:-1 tvg-id="BXOmni.us@SD" tvg-name="BX Omni (720p)" tvg-logo="https://i.imgur.com/PF71rdZ.png" group-title="General" tvg-country="US" tvg-quality="720p HD",BX Omni (720p) [720p HD]
+#EXTGRP:General
+https://reflect-stream-bronxnet.cablecast.tv/live-16/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="BYUTV.us@SD" tvg-name="BYU TV (1080p)" tvg-logo="https://i.imgur.com/mruGyuu.png" group-title="General" tvg-country="US" tvg-quality="1080p FHD",BYU TV (1080p) [1080p FHD]
 #EXTGRP:General
 https://d13j8jpstr8iqz.cloudfront.net/BYUtv.m3u8
@@ -776,6 +794,9 @@ https://cantv.streamguys1.com/cantv/cantv36hls/playlist.m3u8
 #EXTINF:-1 tvg-id="CanaldelaFe.us@SD" tvg-name="Canal de la Fe (720p)" tvg-logo="https://i.imgur.com/n3FffgF.png" group-title="General" tvg-country="US" tvg-quality="720p HD",Canal de la Fe (720p) [720p HD]
 #EXTGRP:General
 https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/dad6a736-9efb-40ce-89b6-81d1d54f92bd/master.m3u8
+#EXTINF:-1 tvg-id="CapitalCityConnectionMontgomery.us@SD" tvg-name="Capital City Connection Montgomery" tvg-logo="https://image.roku.com/developer_channels/prod/a2cb55884ff88035ebbbb32ef9c60a228314d0a2ac4c86722aff5ea1cb9abcd8.png" group-title="General" tvg-country="US" tvg-quality="720p HD",Capital City Connection Montgomery [720p HD]
+#EXTGRP:General
+https://capitalcityconnection.cablecast.tv/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="CatholicFaithNetwork.us@SD" tvg-name="Catholic Faith Network (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Catholic_Faith_Network_2018.png" group-title="General" tvg-country="US" tvg-quality="720p HD",Catholic Faith Network (720p) [720p HD]
 #EXTGRP:General
 https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
@@ -827,6 +848,9 @@ https://aegis-cloudfront-1.tubi.video/d8fc1d6c-fd55-45c8-973b-b7327ee1a6e0/playl
 #EXTINF:-1 tvg-id="CCTV.us@SD" tvg-name="CC-TV (720p)" tvg-logo="" group-title="General" tvg-country="US" tvg-quality="720p HD",CC-TV (720p) [720p HD]
 #EXTGRP:General
 https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/charlotte/G0055_009/playlist.m3u8
+#EXTINF:-1 tvg-id="CCX1.us@SD" tvg-name="CCX1 (1080p)" tvg-logo="https://i.imgur.com/1hHW3IK.png" group-title="General" tvg-country="US" tvg-quality="1080p FHD",CCX1 (1080p) [1080p FHD]
+#EXTGRP:General
+http://reflect-ccx.cablecast.tv/live-9/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="CelebritySceneTV.us@SD" tvg-name="Celebrity Scene TV (720p)" tvg-logo="https://i.imgur.com/n36jriB.png" group-title="General" tvg-country="US" tvg-quality="720p HD",Celebrity Scene TV (720p) [720p HD]
 #EXTGRP:General
 https://rpn.bozztv.com/gusa/gusa-celebrityscene/index.m3u8
@@ -836,9 +860,15 @@ https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/cerritos/G0010_002/playlist.m3u8
 #EXTINF:-1 tvg-id="CFMTVChannel98.us@SD" tvg-name="CFM TV Channel 98 (360p)" tvg-logo="https://i.imgur.com/LGs524I.png" group-title="General" tvg-country="US" tvg-quality="720p HD",CFM TV Channel 98 (360p) [720p HD]
 #EXTGRP:General
 https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/cityftmyers/G2083_002/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTV.us@SD" tvg-name="CGTV (720p)" tvg-logo="https://champaignil.gov/wp-content/uploads/2011/06/cgtv-page-logo.jpg" group-title="General" tvg-country="US" tvg-quality="720p HD",CGTV (720p) [720p HD]
+#EXTGRP:General
+https://champaign-cablecast.cablecast.tv/live/stream-2/live.m3u8
 #EXTINF:-1 tvg-id="Channel10.us@SD" tvg-name="Channel 10 (United States) (720p)" tvg-logo="https://spcity.org/ImageRepository/Document?documentID=4246" group-title="General" tvg-country="US" tvg-quality="720p HD",Channel 10 (United States) (720p) [720p HD]
 #EXTGRP:General
 https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/santa-paula/G0930_002/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel18GAC.us@SD" tvg-name="Channel 18 GAC" tvg-logo="https://i.imgur.com/au07aLr.png" group-title="General" tvg-country="US" tvg-quality="720p HD",Channel 18 GAC [720p HD]
+#EXTGRP:General
+https://reflect-channel18vod-springfield-il-us.cablecast.tv/live-13/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="Choppertown.us@SD" tvg-name="Choppertown (720p)" tvg-logo="https://i.imgur.com/U6cu5Ms.png" group-title="General" tvg-country="US" tvg-quality="720p HD",Choppertown (720p) [720p HD]
 #EXTGRP:General
 https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
@@ -848,6 +878,9 @@ https://gsn-cinevault-westerns-2-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CityofFortPierce.us@SD" tvg-name="City of Fort Pierce (720p)" tvg-logo="https://i.imgur.com/2ChoSsi.png" group-title="General" tvg-country="US" tvg-quality="720p HD",City of Fort Pierce (720p) [720p HD]
 #EXTGRP:General
 https://edge-f.swagit.com/live/fortpiercefl/live-1-a/playlist.m3u8
+#EXTINF:-1 tvg-id="CityofMonroeGovernmentChannel.us@SD" tvg-name="City of Monroe Government Channel" tvg-logo="https://i.imgur.com/U5fZkCN.jpeg" group-title="General" tvg-country="US" tvg-quality="720p HD",City of Monroe Government Channel [720p HD]
+#EXTGRP:General
+https://reflect-monroe-mi-ci.cablecast.tv/live-1/live/live.m3u8
 #EXTINF:-1 tvg-id="CityofPompanoBeach.us@SD" tvg-name="City of Pompano Beach (720p)" tvg-logo="https://i.imgur.com/Bv9OGrH.png" group-title="General" tvg-country="US" tvg-quality="720p HD",City of Pompano Beach (720p) [720p HD]
 #EXTGRP:General
 https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/pompano/G0765_005/playlist.m3u8
@@ -866,9 +899,9 @@ https://dlttx48mxf9m3.cloudfront.net/vod_clients/lakewood/live/ch1/video.m3u8
 #EXTINF:-1 tvg-id="CityTVSanDiego.us@SD" tvg-name="CityTV San Diego (360p)" tvg-logo="https://i.imgur.com/OfNV6I7.png" group-title="General" tvg-country="US" tvg-quality="720p HD",CityTV San Diego (360p) [720p HD]
 #EXTGRP:General
 https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/sandiego/G1826_005/playlist.m3u8
-#EXTINF:-1 tvg-id="Clarity4K.us@SD" tvg-name="Clarity 4K (2160p) [Geo-blocked]" tvg-logo="https://i.imgur.com/M87kbVk.png" group-title="General" tvg-country="US" tvg-quality="4K UHD",Clarity 4K (2160p) [Geo-blocked] [4K UHD]
+#EXTINF:-1 tvg-id="CityTVWhittier.us@SD" tvg-name="CityTV Whittier (720p)" tvg-logo="https://i.imgur.com/68n7ifH.png" group-title="General" tvg-country="US" tvg-quality="720p HD",CityTV Whittier (720p) [720p HD]
 #EXTGRP:General
-https://pb-qyrvophnifz47.akamaized.net/Clarity_4K.m3u8
+https://whittier.cablecast.tv/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="ClassicTVCrimeDrama.us@SD" tvg-name="Classic TV Crime Drama" tvg-logo="https://images.pluto.tv/channels/61325c4f982acd000723287e/colorLogoPNG.png" group-title="General" tvg-country="US" tvg-quality="720p HD",Classic TV Crime Drama [720p HD]
 #EXTGRP:General
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/61325c4f982acd000723287e/master.m3u8?advertisingId=&appName=web&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&app_name=web&clientDeviceType=0&clientID=e80f23c3-4640-4979-bcc7-37b564486bb5&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=e80f23c3-4640-4979-bcc7-37b564486bb5&deviceLat=34.0100&deviceLon=-118.2600&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=122.0.0&marketingRegion=US&serverSideAds=false&sessionID=306b266a-cd6b-11f1-86af-eec2a13d41a7&sid=306b266a-cd6b-11f1-86af-eec2a13d41a7&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjUzOTU1NWYyLTIzYjEtNGM3MC04NmJmLTM1M2UxMjRhMTEyZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIzMDZiMjY2YS1jZDZiLTExZjEtODZhZi1lZWMyYTEzZDQxYTciLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiJlODBmMjNjMy00NjQwLTQ5NzktYmNjNy0zN2I1NjQ0ODZiYjUiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Mb3NfQW5nZWxlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IiJ9LCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7InF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCJ9LCJzdGl0Y2hlckFkU2Vzc2lvbkV2ZW50Ijp7ImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJqaXRQYWNrIjoicmVwYWNrSml0LGRlY3J5cHQifSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiZTgwZjIzYzMtNDY0MC00OTc5LWJjYzctMzdiNTY0NDg2YmI1IiwiZndWY0lEMkNvcHBhIjoiZTgwZjIzYzMtNDY0MC00OTc5LWJjYzctMzdiNTY0NDg2YmI1IiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiJlODBmMjNjMy00NjQwLTQ5NzktYmNjNy0zN2I1NjQ0ODZiYjUiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDA5LDEwMDAwIn19LCJzZXNzaW9uU3RhcnRUaW1lIjoxNzkyNTk5NTY4MjcxLCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VVM6WlRnd1pqSXpZek10TkRZME1DMDBPVGM1TFdKall6Y3RNemRpTlRZME5EZzJZbUkxIiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc5MjY4NTk2OCwiaWF0IjoxNzkyNTk5NTY4LCJqdGkiOiI2MTM1NGQxMi00YjYwLTQ2YmItOTM0Zi04NDgxZmU1ZmNlNGIifQ.hFZYowJ6fXnn7Bbx0e1oDB5ZbW5PsQ7nAKunKvE77OY&masterJWTPassthrough=true&includeExtendedEvents=true
@@ -878,6 +911,12 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 #EXTINF:-1 tvg-id="ClassicTVFamilies.us@US" tvg-name="Classic TV: Families" tvg-logo="https://images.pluto.tv/channels/62e91af00c43540007f2bb43/colorLogoPNG.png" group-title="General" tvg-country="US" tvg-quality="720p HD",Classic TV: Families [720p HD]
 #EXTGRP:General
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/61325d18f5166c00081b84e0/master.m3u8?advertisingId=&appName=web&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&app_name=web&clientDeviceType=0&clientID=c7dbd3e8-23e6-43ff-9d6e-1ede088720d9&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=c7dbd3e8-23e6-43ff-9d6e-1ede088720d9&deviceLat=34.0100&deviceLon=-118.2600&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=122.0.0&marketingRegion=US&serverSideAds=false&sessionID=32d7c13b-cd20-11f1-804e-ca3b850c9035&sid=32d7c13b-cd20-11f1-804e-ca3b850c9035&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImQ0MzUxMmMwLTkyODEtNDgyNi05MTJhLWY1YTk5YjZjMjQ3ZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIzMmQ3YzEzYi1jZDIwLTExZjEtODA0ZS1jYTNiODUwYzkwMzUiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiJjN2RiZDNlOC0yM2U2LTQzZmYtOWQ2ZS0xZWRlMDg4NzIwZDkiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Mb3NfQW5nZWxlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IiJ9LCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7InF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCJ9LCJzdGl0Y2hlckFkU2Vzc2lvbkV2ZW50Ijp7ImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJqaXRQYWNrIjoicmVwYWNrSml0LGRlY3J5cHQifSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiYzdkYmQzZTgtMjNlNi00M2ZmLTlkNmUtMWVkZTA4ODcyMGQ5IiwiZndWY0lEMkNvcHBhIjoiYzdkYmQzZTgtMjNlNi00M2ZmLTlkNmUtMWVkZTA4ODcyMGQ5IiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiJjN2RiZDNlOC0yM2U2LTQzZmYtOWQ2ZS0xZWRlMDg4NzIwZDkiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDA5LDEwMDAwIn19LCJzZXNzaW9uU3RhcnRUaW1lIjoxNzkyNTY3MzYwMDg0LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VVM6WXpka1ltUXpaVGd0TWpObE5pMDBNMlptTFRsa05tVXRNV1ZrWlRBNE9EY3lNR1E1IiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc5MjY1Mzc2MCwiaWF0IjoxNzkyNTY3MzYwLCJqdGkiOiJiYWY1Yjg4My1lNDY5LTRlYTgtODhlOS1hY2Q2YzgyZmZmMGQifQ.nb-6vGKPlrNVmnQlFNuey1IvDZ64Hp_SYGkt_OhWfyc&masterJWTPassthrough=true&includeExtendedEvents=true
+#EXTINF:-1 tvg-id="CMAC1.us@SD" tvg-name="CMAC 1 (720p)" tvg-logo="https://i.imgur.com/PYhdQy9.png" group-title="General" tvg-country="US" tvg-quality="720p HD",CMAC 1 (720p) [720p HD]
+#EXTGRP:General
+https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-1/live.m3u8
+#EXTINF:-1 tvg-id="CMAC3.us@SD" tvg-name="CMAC 3 (720p)" tvg-logo="https://i.imgur.com/ToZzguz.png" group-title="General" tvg-country="US" tvg-quality="720p HD",CMAC 3 (720p) [720p HD]
+#EXTGRP:General
+https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-3/live.m3u8
 #EXTINF:-1 tvg-id="CMAPChannel17.us@SD" tvg-name="CMAP Channel 17 (720p)" tvg-logo="https://i.imgur.com/wlYUEYc.png" group-title="General" tvg-country="US" tvg-quality="720p HD",CMAP Channel 17 (720p) [720p HD]
 #EXTGRP:General
 https://livestream.telvue.com/cmap1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
@@ -899,12 +938,30 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:-1 tvg-id="ComercioTV.us@SD" tvg-name="Comercio TV (1080p)" tvg-logo="https://www.amagi.com/hubfs/Group%202-3.png" group-title="General" tvg-country="US" tvg-quality="1080p FHD",Comercio TV (1080p) [1080p FHD]
 #EXTGRP:General
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=16960
+#EXTINF:-1 tvg-id="CommunityTVChannel189.us@SD" tvg-name="CommunityTV Channel 189 (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/jmkLR6L.png" group-title="General" tvg-country="US" tvg-quality="1080p FHD",CommunityTV Channel 189 (1080p) [Geo-blocked] [1080p FHD]
+#EXTGRP:General
+https://reflect-tacm.cablecast.tv/live-3/live/live.m3u8
+#EXTINF:-1 tvg-id="ConcordTV.us@SD" tvg-name="Concord TV (720p)" tvg-logo="https://i.imgur.com/1vh2a3H.png" group-title="General" tvg-country="US" tvg-quality="720p HD",Concord TV (720p) [720p HD]
+#EXTGRP:General
+https://concordca.cablecast.tv/live/stream-2/live.m3u8
 #EXTINF:-1 tvg-id="CornerstoneTV.us@SD" tvg-name="Cornerstone TV (720p)" tvg-logo="https://i.imgur.com/gqEDwPn.png" group-title="General" tvg-country="US" tvg-quality="720p HD",Cornerstone TV (720p) [720p HD]
 #EXTGRP:General
 https://2-fss-1.themediacdn.com/pl_122/206280-3059514-1/playlist.m3u8
+#EXTINF:-1 tvg-id="COStv.us@SD" tvg-name="COStv" tvg-logo="https://i.imgur.com/IVqjCRE.png" group-title="General" tvg-country="US" tvg-quality="720p HD",COStv [720p HD]
+#EXTGRP:General
+https://irctv.cablecast.tv/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="CourtTV.us" tvg-name="Court TV" tvg-logo="https://graph.facebook.com/courttv/picture?width=200&height=200" group-title="General" tvg-country="US" tvg-quality="720p HD",Court TV [720p HD]
 #EXTGRP:General
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
+#EXTINF:-1 tvg-id="CreaTVChannel15.us@SD" tvg-name="CreaTV Channel 15 (720p)" tvg-logo="https://i.imgur.com/Lwzio0H.png" group-title="General" tvg-country="US" tvg-quality="720p HD",CreaTV Channel 15 (720p) [720p HD]
+#EXTGRP:General
+https://reflect-creatv.cablecast.tv/live-13/live/live.m3u8
+#EXTINF:-1 tvg-id="CreaTVChannel27.us@SD" tvg-name="CreaTV Channel 27 (720p)" tvg-logo="https://i.imgur.com/IYuv0RF.png" group-title="General" tvg-country="US" tvg-quality="720p HD",CreaTV Channel 27 (720p) [720p HD]
+#EXTGRP:General
+https://reflect-creatv.cablecast.tv/live-19/live/live.m3u8
+#EXTINF:-1 tvg-id="CreaTVChannel30.us@SD" tvg-name="CreaTV Channel 30 (720p)" tvg-logo="https://i.imgur.com/O5GXlmE.png" group-title="General" tvg-country="US" tvg-quality="720p HD",CreaTV Channel 30 (720p) [720p HD]
+#EXTGRP:General
+https://reflect-creatv.cablecast.tv/live-16/live/live.m3u8
 #EXTINF:-1 tvg-id="CrimenesImperfectos.us@SD" tvg-name="Crimenes Imperfectos" tvg-logo="https://i.imgur.com/kzUrWR5.png" group-title="General" tvg-country="US" tvg-quality="720p HD",Crimenes Imperfectos [720p HD]
 #EXTGRP:General
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5e94cd036cc69d0007e8a1ba/master.m3u8?advertisingId=&appName=web&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&app_name=web&clientDeviceType=0&clientID=654560c1-a6cd-4477-ac94-1b4211e1f0e4&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=654560c1-a6cd-4477-ac94-1b4211e1f0e4&deviceLat=34.0100&deviceLon=-118.2600&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=122.0.0&marketingRegion=US&serverSideAds=false&sessionID=1ac66ebc-cd39-11f1-9e7f-2af1ca94ebdb&sid=1ac66ebc-cd39-11f1-9e7f-2af1ca94ebdb&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImQ0MzUxMmMwLTkyODEtNDgyNi05MTJhLWY1YTk5YjZjMjQ3ZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIxYWM2NmViYy1jZDM5LTExZjEtOWU3Zi0yYWYxY2E5NGViZGIiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiI2NTQ1NjBjMS1hNmNkLTQ0NzctYWM5NC0xYjQyMTFlMWYwZTQiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Mb3NfQW5nZWxlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IiJ9LCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7InF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCJ9LCJzdGl0Y2hlckRhc2hOZyI6eyJqaXRQYWNrIjoicmVwYWNrSml0LGRlY3J5cHQifSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiNjU0NTYwYzEtYTZjZC00NDc3LWFjOTQtMWI0MjExZTFmMGU0IiwiZndWY0lEMkNvcHBhIjoiNjU0NTYwYzEtYTZjZC00NDc3LWFjOTQtMWI0MjExZTFmMGU0IiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiI2NTQ1NjBjMS1hNmNkLTQ0NzctYWM5NC0xYjQyMTFlMWYwZTQiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDAwLDEwMDA5In19LCJzZXNzaW9uU3RhcnRUaW1lIjoxNzkyNTc4MDU3MTIzLCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VVM6TmpVME5UWXdZekV0WVRaalpDMDBORGMzTFdGak9UUXRNV0kwTWpFeFpURm1NR1UwIiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc5MjY2NDQ1NywiaWF0IjoxNzkyNTc4MDU3LCJqdGkiOiI1ODFjYjMyNC00ZTFhLTRjNjQtODQwOC1mNzlkYzdlZTVhYzQifQ.OxteU9kfb-WEAiEvfScdjfJTyZUuNW4PJqilh9Iw9co&masterJWTPassthrough=true&includeExtendedEvents=true
@@ -953,9 +1010,6 @@ https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DaystarTV.us@SD" tvg-name="Daystar TV (1080p)" tvg-logo="https://i.imgur.com/uVdKHMG.png" group-title="General" tvg-country="US" tvg-quality="1080p FHD",Daystar TV (1080p) [1080p FHD]
 #EXTGRP:General
 https://hls-live-media-gc.cdn01.net/mpegts/232076_2222904/3m0q_sBrGyjUYGPbVe6Q3Q/1796428800/master_mpegts.m3u8?via=direct&source=smarttv
-#EXTINF:-1 tvg-id="DaystarTVEspanol.us@SD" tvg-name="Daystar TV Espanol (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Daystar_(2008%E2%80%93present)_unmodified_logo.svg/960px-Daystar_(2008%E2%80%93present)_unmodified_logo.svg.png" group-title="General" tvg-country="US" tvg-quality="1080p FHD",Daystar TV Espanol (1080p) [1080p FHD]
-#EXTGRP:General
-http://167.249.23.102:8000/play/a0ev/index.m3u8
 #EXTINF:-1 tvg-id="DaystarTV.us@WSLFLD" tvg-name="Daystar TV WSLF-LD (720p)" tvg-logo="https://i.imgur.com/uVdKHMG.png" group-title="General" tvg-country="US" tvg-quality="720p HD",Daystar TV WSLF-LD (720p) [720p HD]
 #EXTGRP:General
 https://content.uplynk.com/channel/1992858a34c3423dbdad491d07ae6f75.m3u8
@@ -971,6 +1025,15 @@ https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/denver/G0080_002/playlist.m3u8
 #EXTINF:-1 tvg-id="DerryTV17.us@SD" tvg-name="DerryTV 17 (720p)" tvg-logo="https://i.imgur.com/MRR6UL3.png" group-title="General" tvg-country="US" tvg-quality="720p HD",DerryTV 17 (720p) [720p HD]
 #EXTGRP:General
 https://livestream.telvue.com/derrynh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="DetroitChannel10.us@SD" tvg-name="Detroit Channel 10" tvg-logo="https://i.imgur.com/zAdcg9m.png" group-title="General" tvg-country="US" tvg-quality="720p HD",Detroit Channel 10 [720p HD]
+#EXTGRP:General
+https://reflect-detroit-vod.cablecast.tv/live-2/live/stream-6/live.m3u8
+#EXTINF:-1 tvg-id="DetroitChannel21.us@SD" tvg-name="Detroit Channel 21" tvg-logo="https://i.imgur.com/yXXEGKg.png" group-title="General" tvg-country="US" tvg-quality="720p HD",Detroit Channel 21 [720p HD]
+#EXTGRP:General
+https://reflect-detroit-vod.cablecast.tv/live-9/live/stream-4/live.m3u8
+#EXTINF:-1 tvg-id="DetroitChannel68.us@SD" tvg-name="Detroit Channel 68" tvg-logo="https://i.imgur.com/zAdcg9m.png" group-title="General" tvg-country="US" tvg-quality="720p HD",Detroit Channel 68 [720p HD]
+#EXTGRP:General
+https://reflect-detroit-vod.cablecast.tv/live-10/live/stream-5/live.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTurbo.us@SD" tvg-name="Discovery Turbo (United States) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Discovery_Turbo_2025.svg/1920px-Discovery_Turbo_2025.svg.png" group-title="General" tvg-country="US" tvg-quality="720p HD",Discovery Turbo (United States) (720p) [720p HD]
 #EXTGRP:General
 http://41.205.93.154/ESPNNEWS/index.m3u8
@@ -998,21 +1061,21 @@ http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ElevationChurchNetwork.us@HD" tvg-name="Elevation Church Network (1080p)" tvg-logo="https://i.imgur.com/VosP75g.png" group-title="General" tvg-country="US" tvg-quality="1080p FHD",Elevation Church Network (1080p) [1080p FHD]
 #EXTGRP:General
 https://linear-1066.frequency.stream/dist/stirr/1066/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="EWTN.us@English" tvg-name="EWTN (United States) (720p) [Geo-blocked]" tvg-logo="https://play-lh.googleusercontent.com/3716tvZCgzpIt-X1giV8jKwCdC8zwOI4eMUfO_ETWzNX6eGKIi2RiUK9a_fr6BCzjw" group-title="General" tvg-country="US" tvg-quality="720p HD",EWTN (United States) (720p) [Geo-blocked] [720p HD]
-#EXTGRP:General
-https://cdn3.wowza.com/1/QjRzVXJtVml5SUVx/WGJRSWxz/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="EWTN.us@Spanish" tvg-name="EWTN (United States) Spanish (720p) [Geo-blocked]" tvg-logo="https://play-lh.googleusercontent.com/3716tvZCgzpIt-X1giV8jKwCdC8zwOI4eMUfO_ETWzNX6eGKIi2RiUK9a_fr6BCzjw" group-title="General" tvg-country="US" tvg-quality="720p HD",EWTN (United States) Spanish (720p) [Geo-blocked] [720p HD]
-#EXTGRP:General
-https://cdn3.wowza.com/1/TUI5dU5ucnUxdGFD/ZFlVeGRl/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ExtremaTV.us@SD" tvg-name="Extrema TV (United States) (720p)" tvg-logo="https://i.imgur.com/Z1QVkqu.png" group-title="General" tvg-country="US" tvg-quality="720p HD",Extrema TV (United States) (720p) [720p HD]
 #EXTGRP:General
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="FaithTV.us@SD" tvg-name="Faith TV (1080p)" tvg-logo="https://i.imgur.com/lUBnKK1.png" group-title="General" tvg-country="US" tvg-quality="1080p FHD",Faith TV (1080p) [1080p FHD]
 #EXTGRP:General
-https://vse2-na-all48.secdn.net/faithnow-holland-channel/play/FaithTV.smil/playlist.m3u8
+https://vse2-na-us-ne58.secdn.net/faithnow-holland-channel/play/FaithTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FastTV.us@SD" tvg-name="Fast TV (720p)" tvg-logo="https://us1-prod-images.disco-api.com/2020/7/13/4f26aaf2-a993-480d-9675-0d501fb8d86f.png?bf=0&f=png&p=true&q=85&w=250" group-title="General" tvg-country="US" tvg-quality="720p HD",Fast TV (720p) [720p HD]
 #EXTGRP:General
-https://aegis.production-public.tubi.io/cdn/0a3b68e9-0ece-4ba6-9c07-c2aec433034c/playlist.m3u8?token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3OTI4NjAzMDgsImlzcyI6ImFlZ2lzIn0.mq17H1TXmxjHRdWSI_67QI8L82AKP0eogU14nPTquYmhv2ORmkXr-C7sR1RACKAWvDrs6iAkZt-hl8MKX5eC_Q
+https://aegis.production-public.tubi.io/cdn/77579d2b-ad51-4b76-b193-9c9dfda2a92e/playlist.m3u8?token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3OTI4NjMyNzYsImlzcyI6ImFlZ2lzIn0.l9CCX6VdzDTDby9T7WemH0wpXVkZi4Tt2O4_Zsg3dzq1SNiV3rXk4Wq_5pvXsoo9inFm3Jld1cCJ2SIS3RNo7g
+#EXTINF:-1 tvg-id="FCPublicMedia.us@SD" tvg-name="FC Public Media (1080p)" tvg-logo="https://i.imgur.com/naLbZuo.png" group-title="General" tvg-country="US" tvg-quality="1080p FHD",FC Public Media (1080p) [1080p FHD]
+#EXTGRP:General
+https://reflect-fcpublicmedia.cablecast.tv/live-5/live/stream-1/live.m3u8
+#EXTINF:-1 tvg-id="FCTV.us@SD" tvg-name="FCTV (1080p)" tvg-logo="https://i.imgur.com/N5Canf3.png" group-title="General" tvg-country="US" tvg-quality="1080p FHD",FCTV (1080p) [1080p FHD]
+#EXTGRP:General
+https://reflect-vod-fcgov.cablecast.tv/live-9/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="FernandinaBeachChannel.us@SD" tvg-name="Fernandina Beach Channel (720p)" tvg-logo="https://i.imgur.com/9UfyekJ.png" group-title="General" tvg-country="US" tvg-quality="720p HD",Fernandina Beach Channel (720p) [720p HD]
 #EXTGRP:General
 https://edge-f.swagit.com/live/fernandinabeachfl/live-1-a/playlist.m3u8
@@ -1022,9 +1085,6 @@ https://securestream11.champds.com/LIVE/FultonCoGALIVE/FultonCoGALIVE.m3u8
 #EXTINF:-1 tvg-id="FierroaFondoTV.us@SD" tvg-name="Fierro a Fondo TV (1080p)" tvg-logo="https://pbs.twimg.com/profile_images/1903618079696773120/maQJpd9__400x400.jpg" group-title="General" tvg-country="US" tvg-quality="1080p FHD",Fierro a Fondo TV (1080p) [1080p FHD]
 #EXTGRP:General
 http://45.70.201.81:8000/play/a00x/index.m3u8
-#EXTINF:-1 tvg-id="FilAmTVNetwork.us@HD" tvg-name="FilAmTV Network (1080p)" tvg-logo="https://i.imgur.com/nRiApdI.png" group-title="General" tvg-country="US" tvg-quality="1080p FHD",FilAmTV Network (1080p) [1080p FHD]
-#EXTGRP:General
-https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox.us@KBSI" tvg-name="Fox (United States) KBSI (720p)" tvg-logo="https://static.wikia.nocookie.net/tvstations/images/8/8e/KBSIO6.png" group-title="General" tvg-country="US" tvg-quality="720p HD",Fox (United States) KBSI (720p) [720p HD]
 #EXTGRP:General
 https://live.field59.com/kbsi/kbsi1/playlist.m3u8
@@ -1051,7 +1111,7 @@ https://amg00488-foxdigital-fox11losangeleskttv-vizious-a7b8z.amagi.tv/playlist/
 https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8
 #EXTINF:-1 tvg-id="Fox.us@WFXT" tvg-name="Fox (United States) WFXT (1080p) [Geo-blocked]" tvg-logo="https://imgx.fubo.tv/station_logos/fox_c.png" group-title="General" tvg-country="US" tvg-quality="1080p FHD",Fox (United States) WFXT (1080p) [Geo-blocked] [1080p FHD]
 #EXTGRP:General
-https://dai.google.com/linear/hls/pa/event/1kItNgwtQUe54NjjBiiTGg/stream/94e7a685-8b5c-43ef-ac4a-b0fa9b14c3f3:CHS/master.m3u8
+https://dai.google.com/linear/hls/pa/event/1kItNgwtQUe54NjjBiiTGg/stream/d4ac7a41-8279-4c34-8026-19601e4bdb44:DLS/master.m3u8
 #EXTINF:-1 tvg-id="Fox.us@WHBQTV" tvg-name="Fox (United States) WHBQ-TV (1080p)" tvg-logo="https://imgx.fubo.tv/station_logos/fox_c.png" group-title="General" tvg-country="US" tvg-quality="1080p FHD",Fox (United States) WHBQ-TV (1080p) [1080p FHD]
 #EXTGRP:General
 https://amg02104-imagicommcommun-whbqbreaking-ono-5aheb.amagi.tv/playlist/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8
@@ -1069,7 +1129,7 @@ https://amg00488-foxdigital-wnyw-lgus-qxl2g.amagi.tv/playlist/amg00488-foxdigita
 https://amg00488-foxdigital-fox5dcwttg-vizious-c0eh0.amagi.tv/playlist/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox.us@WTVT" tvg-name="Fox (United States) WTVT (1080p)" tvg-logo="https://imgx.fubo.tv/station_logos/fox_c.png" group-title="General" tvg-country="US" tvg-quality="1080p FHD",Fox (United States) WTVT (1080p) [1080p FHD]
 #EXTGRP:General
-https://amg00488-foxdigital-fox13tampabaywtvt-vizious-xr5q9.amagi.tv/ts-us-w2-n1/playlist/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8?route_version=v2
+https://amg00488-foxdigital-fox13tampabaywtvt-vizious-xr5q9.amagi.tv/playlist/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox.us@WTXFTV" tvg-name="Fox (United States) WTXF-TV (1080p)" tvg-logo="https://i.imgur.com/fRjmk5r.png" group-title="General" tvg-country="US" tvg-quality="1080p FHD",Fox (United States) WTXF-TV (1080p) [1080p FHD]
 #EXTGRP:General
 https://amg00488-foxdigital-fox29philadelphiawtx-vizious-x0v1b.amagi.tv/playlist/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8
@@ -1139,9 +1199,15 @@ https://tv.gunaz.tv/hls/live.m3u8
 #EXTINF:-1 tvg-id="HarvestUSA.in@SD" tvg-name="Harvest USA (576p)" tvg-logo="" group-title="General" tvg-country="US" tvg-quality="SD",Harvest USA (576p) [SD]
 #EXTGRP:General
 https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="HeartlandEastern.us" tvg-name="Heartland" tvg-logo="https://i.imgur.com/a67bbag.png" group-title="General" tvg-country="US" tvg-quality="720p HD",Heartland [720p HD]
+#EXTINF:-1 tvg-id="HBTV.us@SD" tvg-name="HBTV (720p)" tvg-logo="https://i.imgur.com/xADoSqE.png" group-title="General" tvg-country="US" tvg-quality="720p HD",HBTV (720p) [720p HD]
 #EXTGRP:General
-https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/heartland/index.m3u8
+https://reflect-huntingtonbeach.cablecast.tv/live-4/live/stream-1/live.m3u8
+#EXTINF:-1 tvg-id="HCTVGovernmentChannel.us@SD" tvg-name="HCTV Government Channel" tvg-logo="https://i.imgur.com/bVbpgiD.png" group-title="General" tvg-country="US" tvg-quality="720p HD",HCTV Government Channel [720p HD]
+#EXTGRP:General
+https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-2/live.m3u8
+#EXTINF:-1 tvg-id="HCTVPublicAccessChannel.us@SD" tvg-name="HCTV Public Access Channel" tvg-logo="https://i.imgur.com/bVbpgiD.png" group-title="General" tvg-country="US" tvg-quality="720p HD",HCTV Public Access Channel [720p HD]
+#EXTGRP:General
+https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-5/live.m3u8
 #EXTINF:-1 tvg-id="HillsboroughTV.us@SD" tvg-name="Hillsborough TV (360p)" tvg-logo="https://i.imgur.com/fUne7FX.png" group-title="General" tvg-country="US" tvg-quality="720p HD",Hillsborough TV (360p) [720p HD]
 #EXTGRP:General
 https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/hillsboroughcounty/G2155_002/playlist.m3u8
@@ -1244,12 +1310,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-208429/playlist.m3u8
 #EXTINF:-1 tvg-id="LakeHavasuCity4.us@SD" tvg-name="Lake Havasu City 4" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lQ_vy6By43AoSdSQbFUzQePU0NWWIM-uzsAqnbbQXAql4=s512" group-title="General" tvg-country="US" tvg-quality="720p HD",Lake Havasu City 4 [720p HD]
 #EXTGRP:General
 https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/lakehavasucity/G0643_003/playlist.m3u8
-#EXTINF:-1 tvg-id="LasVegasTonightwithDaleDavidson.us@HD" tvg-name="Las Vegas Tonight with Dale Davidson (1080p)" tvg-logo="https://i.imgur.com/05Xdqa6.png" group-title="General" tvg-country="US" tvg-quality="1080p FHD",Las Vegas Tonight with Dale Davidson (1080p) [1080p FHD]
-#EXTGRP:General
-https://cdn.vegasplus.us/vegas/lasvegastonight/playlist.m3u8
-#EXTINF:-1 tvg-id="LatinoChannelTV.us@HD" tvg-name="Latino Channel TV (1080p)" tvg-logo="https://i.imgur.com/FcLIOGp.png" group-title="General" tvg-country="US" tvg-quality="1080p FHD",Latino Channel TV (1080p) [1080p FHD]
-#EXTGRP:General
-https://cdn.vegasplus.us/vegas/latch/playlist.m3u8
 #EXTINF:-1 tvg-id="LBCInternational.lb@SD" tvg-name="LBC International (1080p)" tvg-logo="https://i.imgur.com/h26xtUv.png" group-title="General" tvg-country="US" tvg-quality="1080p FHD",LBC International (1080p) [1080p FHD]
 #EXTGRP:General
 http://185.9.2.18/chid_521/index.m3u8
@@ -1345,7 +1405,7 @@ https://5c2974786200d.streamlock.net/live-chan26/ngrp:ch26_all/playlist.m3u8
 https://5c2974786200d.streamlock.net/live-chan29/ngrp:ch29_all/playlist.m3u8
 #EXTINF:-1 tvg-id="MinisterioLaVozDeUnRemanenteTV.us@SD" tvg-name="Ministerio La Voz De Un Remanente TV" tvg-logo="https://new.opencaster.com/uploads/logos/logo_188_1754869413.png" group-title="General" tvg-country="US" tvg-quality="720p HD",Ministerio La Voz De Un Remanente TV [720p HD]
 #EXTGRP:General
-https://vs20.live.opencaster.com/remanente_5925b089/index.m3u8?token=TizcQ4Ao09Sds2ZYPUIFxPys7%2BpyiHtgIjzEbp7Xrgc%3D
+https://vs20.live.opencaster.com/remanente_5925b089/index.m3u8?token=PMKGWxC0CCGphKxRZRd1SUuA%2Bvh4v6ywrbstzPheo2s%3D
 #EXTINF:-1 tvg-id="MissionTV.us@SD" tvg-name="Mission TV (1080p)" tvg-logo="https://i.imgur.com/Hb38BNo.png" group-title="General" tvg-country="US" tvg-quality="1080p FHD",Mission TV (1080p) [1080p FHD]
 #EXTGRP:General
 https://6096a9cf11ae5.streamlock.net:1943/live/missiontv/playlist.m3u8
@@ -1388,18 +1448,12 @@ https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_009/playlist.m3u8
 #EXTINF:-1 tvg-id="Olelo54.us@SD" tvg-name="Olelo 54 (720p)" tvg-logo="https://i.imgur.com/8BG31QL.png" group-title="General" tvg-country="US" tvg-quality="720p HD",Olelo 54 (720p) [720p HD]
 #EXTGRP:General
 https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_012/playlist.m3u8
-#EXTINF:-1 tvg-id="OnTV4U.us@SD" tvg-name="OnTV4U (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/yaCK1Mh.png" group-title="General" tvg-country="US" tvg-quality="1080p FHD",OnTV4U (1080p) [Geo-blocked] [1080p FHD]
-#EXTGRP:General
-https://stirr.b-cdn.net/stirr/playlist.m3u8
 #EXTINF:-1 tvg-id="OrangeGovernmentAccessTV.us@SD" tvg-name="Orange Government Access TV (720p)" tvg-logo="https://i.imgur.com/hyPTfxA.png" group-title="General" tvg-country="US" tvg-quality="720p HD",Orange Government Access TV (720p) [720p HD]
 #EXTGRP:General
 https://livestream.telvue.com/ogat1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="OutdoorAmerica.us@SD" tvg-name="Outdoor America (1080p)" tvg-logo="https://i.imgur.com/UKfimFD.png" group-title="General" tvg-country="US" tvg-quality="1080p FHD",Outdoor America (1080p) [1080p FHD]
 #EXTGRP:General
 https://d1e354daam8g5r.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="OutdoorChannel.us@SD" tvg-name="Outdoor Channel (1080p)" tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="General" tvg-country="US" tvg-quality="1080p FHD",Outdoor Channel (1080p) [1080p FHD]
-#EXTGRP:General
-https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="OutdoorChannel.us@HD" tvg-name="Outdoor Channel HD (720p)" tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="General" tvg-country="US" tvg-quality="720p HD",Outdoor Channel HD (720p) [720p HD]
 #EXTGRP:General
 http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
@@ -1421,6 +1475,9 @@ https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_004/playlist.m3u8
 #EXTINF:-1 tvg-id="PHLgovTV.us@SD" tvg-name="PHLgovTV (720p)" tvg-logo="https://i.imgur.com/BmNc3hu.png" group-title="General" tvg-country="US" tvg-quality="720p HD",PHLgovTV (720p) [720p HD]
 #EXTGRP:General
 https://livestream.telvue.com/ctyphiladelphia1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="PHXTV.us@SD" tvg-name="PHXTV" tvg-logo="https://i.imgur.com/RkTKR6x.png" group-title="General" tvg-country="US" tvg-quality="720p HD",PHXTV [720p HD]
+#EXTGRP:General
+https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/phoenix/G1498_006/playlist.m3u8
 #EXTINF:-1 tvg-id="PixLTV.us@SD" tvg-name="PixL TV" tvg-logo="https://i.imgur.com/ysRh3Nl.png" group-title="General" tvg-country="US" tvg-quality="720p HD",PixL TV [720p HD]
 #EXTGRP:General
 https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
@@ -1484,24 +1541,12 @@ https://livestream.telvue.com/riflecmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/p
 #EXTINF:-1 tvg-id="RealAmericasVoice.us@KPVMLD" tvg-name="Real America's Voice KPVM-LD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_Real_America%27s_Voice.svg/960px-Logo_Real_America%27s_Voice.svg.png" group-title="General" tvg-country="US" tvg-quality="720p HD",Real America's Voice KPVM-LD [720p HD]
 #EXTGRP:General
 https://2-fss-2.streamhoster.com/pl_118/206858-4404454-1/playlist.m3u8
-#EXTINF:-1 tvg-id="RealWild.uk@SD" tvg-name="Real Wild (1080p)" tvg-logo="https://i.imgur.com/T9HHmAO.png" group-title="General" tvg-country="US" tvg-quality="1080p FHD",Real Wild (1080p) [1080p FHD]
-#EXTGRP:General
-https://lds-realwild-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RedADvenirTV.bo@KSCE" tvg-name="RedADvenir TV KSCE (360p)" tvg-logo="https://i.imgur.com/970zAEn.png" group-title="General" tvg-country="US" tvg-quality="720p HD",RedADvenir TV KSCE (360p) [720p HD]
 #EXTGRP:General
 https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8
-#EXTINF:-1 tvg-id="RetroTVEast.us" tvg-name="Retro TV" tvg-logo="https://i.imgur.com/PNTYOgg.png" group-title="General" tvg-country="US" tvg-quality="720p HD",Retro TV [720p HD]
-#EXTGRP:General
-https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/retro/index.m3u8
-#EXTINF:-1 tvg-id="RetroTV.us@East" tvg-name="Retro TV (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/iUTL0pm.png" group-title="General" tvg-country="US" tvg-quality="720p HD",Retro TV (720p) [Geo-blocked] [720p HD]
-#EXTGRP:General
-https://freecast-lukentvlive.vgcdn.net/out/v1/665e9f91614b43b0a0654e9317f1d9f3/index.m3u8
 #EXTINF:-1 tvg-id="RevandRoll.us@SD" tvg-name="Rev and Roll (720p)" tvg-logo="" group-title="General" tvg-country="US" tvg-quality="720p HD",Rev and Roll (720p) [720p HD]
 #EXTGRP:General
 https://d39nqr4d4h6cv6.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="RevnTV.us" tvg-name="Rev'n" tvg-logo="https://i.imgur.com/VUhqVgG.png" group-title="General" tvg-country="US" tvg-quality="720p HD",Rev'n [720p HD]
-#EXTGRP:General
-https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Revn/index.m3u8
 #EXTINF:-1 tvg-id="Revolt.us@SD" tvg-name="Revolt (720p)" tvg-logo="https://i.imgur.com/eaYnGpH.png" group-title="General" tvg-country="US" tvg-quality="720p HD",Revolt (720p) [720p HD]
 #EXTGRP:General
 http://23.237.104.106:8080/USA_REVOLT/index.m3u8
@@ -1514,9 +1559,6 @@ https://651c69fa2ff4e.streamlock.net/3707/live1/chunklist.m3u8
 #EXTINF:-1 tvg-id="RVTV.us@HD" tvg-name="RVTV (1080p)" tvg-logo="https://i.imgur.com/pBBb0wx.png" group-title="General" tvg-country="US" tvg-quality="1080p FHD",RVTV (1080p) [1080p FHD]
 #EXTGRP:General
 https://rvtv-on-freecast.b-cdn.net/RVTV-on-Freecast/index.m3u8
-#EXTINF:-1 tvg-id="SamsungWildlife.us@SD" tvg-name="Samsung Wildlife (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/x06npU2.png" group-title="General" tvg-country="US" tvg-quality="720p HD",Samsung Wildlife (720p) [Geo-blocked] [720p HD]
-#EXTGRP:General
-https://pb-olm46bexcljjf.akamaized.net/Samsung_Wild_Life.m3u8
 #EXTINF:-1 tvg-id="SanskarUSA.in@SD" tvg-name="Sanskar USA (1080p)" tvg-logo="https://i.imgur.com/5WBWruX.png" group-title="General" tvg-country="US" tvg-quality="1080p FHD",Sanskar USA (1080p) [1080p FHD]
 #EXTGRP:General
 https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8
@@ -1607,6 +1649,9 @@ https://livecdn.use1-0004.jwplive.com/live/sites/LXqYX6Kr/media/frRD2nUK/live.is
 #EXTINF:-1 tvg-id="TED.us@SD" tvg-name="TED (1080p)" tvg-logo="https://i.imgur.com/KeIhwNP.png" group-title="General" tvg-country="US" tvg-quality="1080p FHD",TED (1080p) [1080p FHD]
 #EXTGRP:General
 https://d1b16tvvxk3tnu.cloudfront.net/TED.m3u8
+#EXTINF:-1 tvg-id="TemeculaTV.us@SD" tvg-name="Temecula TV (1080p)" tvg-logo="https://i.imgur.com/El16S4C.png" group-title="General" tvg-country="US" tvg-quality="1080p FHD",Temecula TV (1080p) [1080p FHD]
+#EXTGRP:General
+https://reflect-temecula.cablecast.tv/live-2/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="Tempe11.us@SD" tvg-name="Tempe 11" tvg-logo="https://i.imgur.com/KMeHRV3.png" group-title="General" tvg-country="US" tvg-quality="720p HD",Tempe 11 [720p HD]
 #EXTGRP:General
 https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/tempe/G0355_003/chunklist.m3u8
@@ -1661,12 +1706,6 @@ https://streamingengineservice-prod01-v1.fuelmedia.io/play/cb165faa-41c9-42ad-83
 #EXTINF:-1 tvg-id="TLNMediaSanFrancisco.us@SD" tvg-name="TLN Media San Francisco (720p)" tvg-logo="" group-title="General" tvg-country="US" tvg-quality="720p HD",TLN Media San Francisco (720p) [720p HD]
 #EXTGRP:General
 https://streamingengineservice-prod01-v1.fuelmedia.io/play/b29d27bb-88af-42d1-937a-5bdf76b71c17.m3u8
-#EXTINF:-1 tvg-id="TribecaChannel.us@SD" tvg-name="Tribeca Channel (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/JCpFAll.png" group-title="General" tvg-country="US" tvg-quality="1080p FHD",Tribeca Channel (1080p) [Geo-blocked] [1080p FHD]
-#EXTGRP:General
-https://amg02507-giantpictures-tribeca-xumo-ey2b7.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TrueCrimeNow.us@SD" tvg-name="True Crime Now (1080p)" tvg-logo="https://i.imgur.com/Y6Hix17.png" group-title="General" tvg-country="US" tvg-quality="1080p FHD",True Crime Now (1080p) [1080p FHD]
-#EXTGRP:General
-https://amg00376-magellan-amg00376c12-samsung-au-1725.playouts.now.amagi.tv/playlist/amg00376-magellantv-truecrimenowaunzin-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="TrueHistory.us@SD" tvg-name="True History (720p)" tvg-logo="https://i.imgur.com/1BHDGXx.png" group-title="General" tvg-country="US" tvg-quality="720p HD",True History (720p) [720p HD]
 #EXTGRP:General
 https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
@@ -1808,9 +1847,6 @@ https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8
 #EXTINF:-1 tvg-id="WineWatchesWhiskey.us@HD" tvg-name="Wine Watches & Whiskey (1080p)" tvg-logo="https://i.imgur.com/MN89dfS.png" group-title="General" tvg-country="US" tvg-quality="1080p FHD",Wine Watches & Whiskey (1080p) [1080p FHD]
 #EXTGRP:General
 https://www-on-freecast.b-cdn.net/WWW-on-Freecast/index.m3u8
-#EXTINF:-1 tvg-id="Wired2FishTV.us@SD" tvg-name="Wired2FishTV (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/zAtt7oq.png" group-title="General" tvg-country="US" tvg-quality="720p HD",Wired2FishTV (720p) [Geo-blocked] [720p HD]
-#EXTGRP:General
-https://wire2fish-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WLMB.us@SD" tvg-name="WLMB (1080p)" tvg-logo="https://i.imgur.com/KeELZ1Y.png" group-title="General" tvg-country="US" tvg-quality="1080p FHD",WLMB (1080p) [1080p FHD]
 #EXTGRP:General
 https://rpn.bozztv.com/wlmb/wlmb/wlmb/index.m3u8
@@ -1847,9 +1883,6 @@ https://securestream10.champds.com/LIVE/YumaCoAZLIVE/YumaCoAZLIVE.m3u8
 #EXTINF:-1 tvg-id="AMGTV.us@SD" tvg-name="AMG TV (1080p)" tvg-logo="https://i.imgur.com/m5Anun9.png" group-title="Kids" tvg-country="US" tvg-quality="1080p FHD",AMG TV (1080p) [1080p FHD]
 #EXTGRP:Kids
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
-#EXTINF:-1 tvg-id="AnimationPlus.us@SD" tvg-name="Animation+ (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/OIFK6JB.png" group-title="Kids" tvg-country="US" tvg-quality="1080p FHD",Animation+ (1080p) [Geo-blocked] [1080p FHD]
-#EXTGRP:Kids
-https://pb-ioe9d0fpkd6pp.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-id="AnimexHIDIVE.us@SD" tvg-name="Anime x HIDIVE" tvg-logo="https://i.imgur.com/v0BlxCa.png" group-title="Kids" tvg-country="US" tvg-quality="720p HD",Anime x HIDIVE [720p HD]
 #EXTGRP:Kids
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/6793eaa4bc03978b9bc63db1/master.m3u8?advertisingId=&appName=web&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&app_name=web&clientDeviceType=0&clientID=90cd3b6e-d836-4961-a72c-fc05d054cf4e&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=90cd3b6e-d836-4961-a72c-fc05d054cf4e&deviceLat=34.0100&deviceLon=-118.2600&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=122.0.0&marketingRegion=US&serverSideAds=false&sessionID=362182f4-cd20-11f1-9f83-0ac361f03637&sid=362182f4-cd20-11f1-9f83-0ac361f03637&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImQ0MzUxMmMwLTkyODEtNDgyNi05MTJhLWY1YTk5YjZjMjQ3ZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIzNjIxODJmNC1jZDIwLTExZjEtOWY4My0wYWMzNjFmMDM2MzciLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiI5MGNkM2I2ZS1kODM2LTQ5NjEtYTcyYy1mYzA1ZDA1NGNmNGUiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Mb3NfQW5nZWxlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IiJ9LCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7InF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCJ9LCJzdGl0Y2hlckFkU2Vzc2lvbkV2ZW50Ijp7ImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJqaXRQYWNrIjoicmVwYWNrSml0LGRlY3J5cHQifSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiOTBjZDNiNmUtZDgzNi00OTYxLWE3MmMtZmMwNWQwNTRjZjRlIiwiZndWY0lEMkNvcHBhIjoiOTBjZDNiNmUtZDgzNi00OTYxLWE3MmMtZmMwNWQwNTRjZjRlIiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiI5MGNkM2I2ZS1kODM2LTQ5NjEtYTcyYy1mYzA1ZDA1NGNmNGUiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDAwLDEwMDA5In19LCJzZXNzaW9uU3RhcnRUaW1lIjoxNzkyNTY3MzY1NjAwLCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VVM6T1RCalpETmlObVV0WkRnek5pMDBPVFl4TFdFM01tTXRabU13TldRd05UUmpaalJsIiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc5MjY1Mzc2NSwiaWF0IjoxNzkyNTY3MzY1LCJqdGkiOiI5ZWViZjc0Yi0yZTVhLTQzOGUtOWY4ZC04MzBmNjJhMWNiMmEifQ.bDCxEGbUP4GoEABAAShj5iWi9BZZK2wZbN_Zv0uVX0s&masterJWTPassthrough=true&includeExtendedEvents=true
@@ -1910,9 +1943,6 @@ https://30a-tv.com/feeds/vidaa/luxelife.m3u8
 #EXTINF:-1 tvg-id="AmericasTestKitchen.us@SD" tvg-name="America's Test Kitchen (720p)" tvg-logo="https://i.imgur.com/prMkTsZ.png" group-title="Lifestyle" tvg-country="US" tvg-quality="720p HD",America's Test Kitchen (720p) [720p HD]
 #EXTGRP:Lifestyle
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5e84f54a82f05300080e6746/master.m3u8?advertisingId=&appName=web&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&app_name=web&clientDeviceType=0&clientID=1c715fd9-6a62-4fd7-973a-e70636aea553&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=1c715fd9-6a62-4fd7-973a-e70636aea553&deviceLat=34.0100&deviceLon=-118.2600&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=122.0.0&marketingRegion=US&serverSideAds=false&sessionID=33779221-cd6b-11f1-ace0-561decfb6cbc&sid=33779221-cd6b-11f1-ace0-561decfb6cbc&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjUzOTU1NWYyLTIzYjEtNGM3MC04NmJmLTM1M2UxMjRhMTEyZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIzMzc3OTIyMS1jZDZiLTExZjEtYWNlMC01NjFkZWNmYjZjYmMiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiIxYzcxNWZkOS02YTYyLTRmZDctOTczYS1lNzA2MzZhZWE1NTMiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Mb3NfQW5nZWxlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IiJ9LCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7InF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCJ9LCJzdGl0Y2hlckRhc2hOZyI6eyJqaXRQYWNrIjoicmVwYWNrSml0LGRlY3J5cHQifSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiMWM3MTVmZDktNmE2Mi00ZmQ3LTk3M2EtZTcwNjM2YWVhNTUzIiwiZndWY0lEMkNvcHBhIjoiMWM3MTVmZDktNmE2Mi00ZmQ3LTk3M2EtZTcwNjM2YWVhNTUzIiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiIxYzcxNWZkOS02YTYyLTRmZDctOTczYS1lNzA2MzZhZWE1NTMiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDAwLDEwMDA5In19LCJzZXNzaW9uU3RhcnRUaW1lIjoxNzkyNTk5NTczMzg2LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VVM6TVdNM01UVm1aRGt0Tm1FMk1pMDBabVEzTFRrM00yRXRaVGN3TmpNMllXVmhOVFV6IiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc5MjY4NTk3MywiaWF0IjoxNzkyNTk5NTczLCJqdGkiOiJhNWQzYTFhOC00MjMwLTQ1N2YtYTY1My1mYjJlNzI3ZmFlY2YifQ.5rlRaUWI6yZxZHFAiPSFYA4HcwuEy6J816mU4csvoQw&masterJWTPassthrough=true&includeExtendedEvents=true
-#EXTINF:-1 tvg-id="AntiquesRoadTrip.us@SD" tvg-name="Antiques Road Trip (1080p)" tvg-logo="https://i.imgur.com/kkm7VqV.png" group-title="Lifestyle" tvg-country="US" tvg-quality="1080p FHD",Antiques Road Trip (1080p) [1080p FHD]
-#EXTGRP:Lifestyle
-https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/PBSD-AntiquesRoadTripSF-samsung/playlist.m3u8
 #EXTINF:-1 tvg-id="AspireTVLife.us@SD" tvg-name="Aspire TV Life (1080p)" tvg-logo="https://press.upentertainment.com/wp-content/uploads/2022/03/aspire-tv-life-logo.jpg" group-title="Lifestyle" tvg-country="US" tvg-quality="1080p FHD",Aspire TV Life (1080p) [1080p FHD]
 #EXTGRP:Lifestyle
 https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8

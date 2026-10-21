@@ -8,12 +8,18 @@ https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-name="TRT Avaz" tvg-logo="https://i.imgur.com/VhTwXu5.png" group-title="General" tvg-country="TR" tvg-quality="720p HD",TRT Avaz [720p HD]
 #EXTGRP:General
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTEBAIlkokul.tr" tvg-name="TRT EBA Ilkokul" tvg-logo="https://i.imgur.com/wDvZfk8.png" group-title="General" tvg-country="TR" tvg-quality="720p HD",TRT EBA Ilkokul [720p HD]
+#EXTGRP:General
+https://tv-e-okul00.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTEBALise.tr" tvg-name="TRT EBA Lise" tvg-logo="https://i.imgur.com/IebUZx1.png" group-title="General" tvg-country="TR" tvg-quality="720p HD",TRT EBA Lise [720p HD]
 #EXTGRP:General
 https://tv-e-okul02.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTEBAOrtaokul.tr" tvg-name="TRT EBA Ortaokul" tvg-logo="https://i.imgur.com/yfPTvRx.png" group-title="General" tvg-country="TR" tvg-quality="720p HD",TRT EBA Ortaokul [720p HD]
 #EXTGRP:General
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTKurdi.tr" tvg-name="TRT Kurdî" tvg-logo="https://i.imgur.com/6BpymfB.png" group-title="General" tvg-country="TR" tvg-quality="720p HD",TRT Kurdî [720p HD]
+#EXTGRP:General
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="TRT Türk" tvg-logo="https://i.imgur.com/OSTOQNw.png" group-title="General" tvg-country="TR" tvg-quality="720p HD",TRT Türk [720p HD]
 #EXTGRP:General
 https://tv-trtturk.medya.trt.com.tr/master.m3u8

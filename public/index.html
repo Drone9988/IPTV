@@ -68,9 +68,13 @@
           <i data-lucide="alert-triangle" class="w-10 h-10 text-amber-400"></i>
           <p class="text-sm font-medium text-slate-200">Unable to load direct browser stream</p>
           <p class="text-xs text-slate-400 max-w-sm">This stream may enforce strict CORS. You can play it using our Cloudflare Proxy or directly inside VLC / TiviMate.</p>
-          <div class="flex gap-2 mt-2">
+          <div class="flex flex-wrap justify-center gap-2 mt-2">
             <button id="retryBtn" class="px-4 py-1.5 rounded-lg bg-slate-800 hover:bg-slate-700 text-xs font-medium transition">Retry Stream</button>
             <button id="proxyPlayBtn" class="px-4 py-1.5 rounded-lg bg-cyan-600 hover:bg-cyan-500 text-xs font-medium transition">Try via CORS Proxy</button>
+            <button id="vlcCopyBtn" class="px-4 py-1.5 rounded-lg bg-amber-600 hover:bg-amber-500 text-xs font-medium text-white transition flex items-center gap-1.5">
+              <i data-lucide="play-circle" class="w-3.5 h-3.5"></i>
+              <span>Copy for VLC (Ctrl+N)</span>
+            </button>
           </div>
         </div>
       </div>
@@ -132,6 +136,25 @@
               <span id="epgNextTitle" class="text-slate-300 font-medium truncate max-w-[280px]">Upcoming Broadcast</span>
             </div>
             <span id="epgNextTime" class="text-[11px] text-slate-500">In 35 mins</span>
+          </div>
+        </div>
+
+        <!-- Live Broadcast Transcript & Synopsis -->
+        <div class="p-3.5 rounded-xl bg-slate-950/70 border border-slate-800/80 flex flex-col gap-2">
+          <div class="flex items-center justify-between text-xs">
+            <span class="font-semibold text-slate-300 flex items-center gap-1.5">
+              <i data-lucide="file-text" class="w-3.5 h-3.5 text-cyan-400"></i>
+              <span>Live Broadcast Transcript & Synopsis</span>
+            </span>
+            <span id="transcriptGenreBadge" class="px-2 py-0.5 rounded text-[10px] bg-slate-800 text-slate-400">General</span>
+          </div>
+          <div class="p-3 rounded-lg bg-slate-900/80 border border-slate-800/50">
+            <p id="transcriptContent" class="text-xs text-slate-300 leading-relaxed font-sans">Live show transcript and synopsis details are loading...</p>
+          </div>
+          <div class="flex items-center justify-between text-[10px] text-slate-500 pt-1">
+            <span>Audio: Original Stereo / Multi-channel</span>
+            <span>Subtitles / Closed Captions: Embedded</span>
+            <span id="streamFormatTag">HLS Adaptive Bitrate</span>
           </div>
         </div>
 
