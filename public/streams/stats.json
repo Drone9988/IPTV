@@ -1,21 +1,24 @@
 {
-  "updated_at": "2026-10-21T14:50:45.665670+00:00",
+  "updated_at": "2026-10-21T15:15:44.408482+00:00",
   "total_tested": 2465,
   "online_channels": 1861,
   "working_rate_percent": 75.5,
   "categories": {
-    "News": 119,
+    "News": 150,
     "Sports": 87,
-    "Movies": 101,
-    "Entertainment": 100,
-    "Music": 121,
-    "Kids": 102,
-    "Documentary": 94,
-    "General": 118
+    "Movies": 164,
+    "Entertainment": 310,
+    "Music": 133,
+    "Kids": 197,
+    "Documentary": 116,
+    "General": 558
   },
   "countries": {
+    "INT": 1029,
     "US": 694,
     "UK": 76,
     "CA": 62
-  }
+  },
+  "epg_available": true,
+  "epg_days_coverage": 7
 }

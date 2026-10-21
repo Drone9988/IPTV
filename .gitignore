@@ -19,3 +19,6 @@ Thumbs.db
 .wrangler/
 dist/
 node_modules/
+
+# Ignore massive uncompressed XMLTV (use epg.xml.gz instead)
+public/streams/epg.xml
