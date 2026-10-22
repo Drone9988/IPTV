@@ -4,7 +4,7 @@
 
 #EXTINF:-1 tvg-id="13Festival.cl@SD" tvg-name="13 Festival (1080p)" tvg-logo="https://i.imgur.com/Ymk6j5o.png" group-title="Music" tvg-country="INT" tvg-quality="1080p FHD",13 Festival (1080p) [1080p FHD]
 #EXTGRP:Music
-https://dai.google.com/linear/hls/pa/event/Nftd0fM2SXasfDlRphvUsg/stream/92a6fbfb-f7b9-4d38-a4b4-2ab797109711:MRN2/master.m3u8
+https://dai.google.com/linear/hls/pa/event/Nftd0fM2SXasfDlRphvUsg/stream/25e655ce-71db-4e6a-94d8-186e42c23333:MRN2/master.m3u8
 #EXTINF:-1 tvg-id="1HDMusicTelevision.ru@HD" tvg-name="1HD Music Television (1080p)" tvg-logo="https://i.imgur.com/4Ww7CsR.png" group-title="Music" tvg-country="INT" tvg-quality="1080p FHD",1HD Music Television (1080p) [1080p FHD]
 #EXTGRP:Music
 http://176.118.197.101/1HD/index.m3u8
@@ -202,13 +202,13 @@ https://cmc-cmctv-cineverse.amagi.tv/playlist.m3u8
 https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8
 #EXTINF:-1 tvg-id="CCTV11.cn@SD" tvg-name="CCTV-11 (720p)" tvg-logo="https://i.imgur.com/CjOWx7L.png" group-title="Music" tvg-country="INT" tvg-quality="720p HD",CCTV-11 (720p) [720p HD]
 #EXTGRP:Music
-http://63.141.239.226:81/live/cctv11md.m3u8?tm=1792687466&key=c26c506d6a74de1f048417e0dc624348
+http://63.141.239.226:81/live/cctv11md.m3u8?tm=1792703748&key=e626599d321ef5cd9377f941b5009587
 #EXTINF:-1 tvg-id="CCTV15.cn@SD" tvg-name="CCTV-15 (720p)" tvg-logo="https://i.imgur.com/CCV0eRG.png" group-title="Music" tvg-country="INT" tvg-quality="720p HD",CCTV-15 (720p) [720p HD]
 #EXTGRP:Music
-http://63.141.226.98:81/live/cctv15md.m3u8?tm=1792687466&key=b11a166d3b7e6fa7103cefda7de66381
+http://107.150.50.82:81/live/cctv15.m3u8?tm=1792703748&key=2e08171cd389adabf9c0baaa0db6bdba
 #EXTINF:-1 tvg-id="CCTVStormMusic.cn@HD" tvg-name="CCTV-Storm Music (1080p)" tvg-logo="https://i.imgur.com/IiiRmrf.png" group-title="Music" tvg-country="INT" tvg-quality="1080p FHD",CCTV-Storm Music (1080p) [1080p FHD]
 #EXTGRP:Music
-http://173.208.212.130:82/live/fyyy.m3u8?jsbt=1792687467&jsbk=8db51ffed6992fdcacdb3a804dc04377
+http://173.208.212.130:82/live/fyyy.m3u8?jsbt=1792703748&jsbk=6d4d42eae8463de61f7310f2d89d90ca
 #EXTINF:-1 tvg-id="ChamameTV.ar@SD" tvg-name="Chamame TV" tvg-logo="https://i.imgur.com/JigzJck.png" group-title="Music" tvg-country="INT" tvg-quality="720p HD",Chamame TV [720p HD]
 #EXTGRP:Music
 https://srv4.zcast.com.br/chamametv/chamametv/playlist.m3u8
@@ -241,7 +241,7 @@ http://45.171.64.30:6060/play/a010
 http://stream.mcquack.net/312/index.m3u8
 #EXTINF:-1 tvg-id="Classica.us@SD" tvg-name="Classica (720p)" tvg-logo="https://i.imgur.com/bLjmQTU.png" group-title="Music" tvg-country="INT" tvg-quality="720p HD",Classica (720p) [720p HD]
 #EXTGRP:Music
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5f779951372da90007fd45e8/master.m3u8?advertisingId=&appName=web&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&app_name=web&clientDeviceType=0&clientID=bd1e61ce-f78e-457e-ae1d-ee7eec970e03&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=bd1e61ce-f78e-457e-ae1d-ee7eec970e03&deviceLat=34.0100&deviceLon=-118.2600&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=122.0.0&marketingRegion=US&serverSideAds=false&sessionID=d4213e13-cdcf-11f1-b0a8-d6c5b60f64cb&sid=d4213e13-cdcf-11f1-b0a8-d6c5b60f64cb&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjUzOTU1NWYyLTIzYjEtNGM3MC04NmJmLTM1M2UxMjRhMTEyZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJkNDIxM2UxMy1jZGNmLTExZjEtYjBhOC1kNmM1YjYwZjY0Y2IiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiJiZDFlNjFjZS1mNzhlLTQ1N2UtYWUxZC1lZTdlZWM5NzBlMDMiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Mb3NfQW5nZWxlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IiJ9LCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7InF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCJ9LCJzdGl0Y2hlckRhc2hOZyI6eyJqaXRQYWNrIjoicmVwYWNrSml0LGRlY3J5cHQifSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiYmQxZTYxY2UtZjc4ZS00NTdlLWFlMWQtZWU3ZWVjOTcwZTAzIiwiZndWY0lEMkNvcHBhIjoiYmQxZTYxY2UtZjc4ZS00NTdlLWFlMWQtZWU3ZWVjOTcwZTAzIiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiJiZDFlNjFjZS1mNzhlLTQ1N2UtYWUxZC1lZTdlZWM5NzBlMDMiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDAwLDEwMDA5In19LCJzZXNzaW9uU3RhcnRUaW1lIjoxNzkyNjQyNzkyNjA2LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VVM6WW1ReFpUWXhZMlV0WmpjNFpTMDBOVGRsTFdGbE1XUXRaV1UzWldWak9UY3daVEF6IiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc5MjcyOTE5MiwiaWF0IjoxNzkyNjQyNzkyLCJqdGkiOiJmZjZkM2ExZC00Yzk0LTRiMzgtYjNmZC01MDMxYmI3MDEyYWEifQ.UMTClkupv-FqskxtDixu77yVtsX-o37hwGFQhGa191M&masterJWTPassthrough=true&includeExtendedEvents=true
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5f779951372da90007fd45e8/master.m3u8?advertisingId=&appName=web&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&app_name=web&clientDeviceType=0&clientID=d49c1a14-06c0-485a-8ec1-094ad7d3451f&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=d49c1a14-06c0-485a-8ec1-094ad7d3451f&deviceLat=34.0100&deviceLon=-118.2600&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=122.0.0&marketingRegion=US&serverSideAds=false&sessionID=a3cd14cf-ce34-11f1-a434-c2d12ff49885&sid=a3cd14cf-ce34-11f1-a434-c2d12ff49885&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjVhMjRhMjBmLTI5NTQtNDVhNi04NjRiLTE0ZTVlOTNlODI5OSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJhM2NkMTRjZi1jZTM0LTExZjEtYTQzNC1jMmQxMmZmNDk4ODUiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiJkNDljMWExNC0wNmMwLTQ4NWEtOGVjMS0wOTRhZDdkMzQ1MWYiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Mb3NfQW5nZWxlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IiJ9LCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7InF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCJ9LCJzdGl0Y2hlckRhc2hOZyI6eyJqaXRQYWNrIjoicmVwYWNrSml0LGRlY3J5cHQifSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiZDQ5YzFhMTQtMDZjMC00ODVhLThlYzEtMDk0YWQ3ZDM0NTFmIiwiZndWY0lEMkNvcHBhIjoiZDQ5YzFhMTQtMDZjMC00ODVhLThlYzEtMDk0YWQ3ZDM0NTFmIiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiJkNDljMWExNC0wNmMwLTQ4NWEtOGVjMS0wOTRhZDdkMzQ1MWYiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDAwLDEwMDA5In19LCJzZXNzaW9uU3RhcnRUaW1lIjoxNzkyNjg2MDkwNjk0LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VVM6WkRRNVl6RmhNVFF0TURaak1DMDBPRFZoTFRobFl6RXRNRGswWVdRM1pETTBOVEZtIiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc5Mjc3MjQ5MCwiaWF0IjoxNzkyNjg2MDkwLCJqdGkiOiI5ODcxZTQzMy03MjdiLTQ3ZmYtOGI0YS0yYzBjZjk1MjU0ZjcifQ.ELPekrVkGaf6z7j0aX_0rxOJuCciES83SbPi59_pI4k&masterJWTPassthrough=true&includeExtendedEvents=true
 #EXTINF:-1 tvg-id="ClubbingTV.us@UK" tvg-name="Clubbing TV UK (720p)" tvg-logo="https://i.imgur.com/MyiA92q.png" group-title="Music" tvg-country="INT" tvg-quality="720p HD",Clubbing TV UK (720p) [720p HD]
 #EXTGRP:Music
 https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8
@@ -271,7 +271,7 @@ https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8
 #EXTINF:-1 tvg-id="CorazonTV.pa@SD" tvg-name="Corazon TV" tvg-logo="https://i.imgur.com/HVdbXku.png" group-title="Music" tvg-country="INT" tvg-quality="720p HD",Corazon TV [720p HD]
 #EXTGRP:Music
-https://sistemastr.tropicalmoonmedia.com/auth/WXEqEWcEHiSrqGnKu7A8b2XiR2spdWxHW7_MRo--Bi2c_ymqMy5jfKpGgrvS0TYG7snAOP6q64CFFgGTvbOYobbc8GaZuf-AzA7aGtvoHmAv5TbaD9cDFXX0SZzM07xCETMXjzypb98yA2M8Wb4EcspWgVxQ0zYkTUWm3uLCCSX840FFzSbWECqje21dY7ysY47LwrU4sLXjYI0XTYydAGoqdSA5zJeSAMd6SF_He51vGQDyRzCdsfmPe2gSlzBXD3Sg1bKXiW9vbVU7EjonxuKfU7bhxd3ufWP_syCvHmlD2HoOAnpukJNi0vWuCKwnMNTWK8LhdRqw0UUQwiq4kSRQYxoqTSbMxvg62KLReoY-zJNXQ_rQUaK-p2IQiB3bGRRsT8SkPHdr_mZj2IVDyyNQ1f9LZPCZy1G74vlOjWDOIp4yFoUabX97nz496_0WwYskaeaQRxU_jeSCWv3oOX4jDbVhYj0-09uujaZ7aTFuknBUs3lzjlCdtsCWYbf-iF5QJmRVjTJNf2E759RTvcynHotKAkRQuoZF_s7rHbb_xsSpnXIlvnKBAgTxp_iTVdEv8QJaAiBPOtMUTECFg-niUzTAMcpiJe3xxFWHo6Zzk_rMOm1pfCxp52GhX1pM
+https://sistemastr.tropicalmoonmedia.com/auth/WXEqEWcEHiSrqGnKu7A8b2XiR2spdWxHW7_MRo--Bi2c_ymqMy5jfKpGgrvS0TYG7snAOP6q64CFFgGTvbOYobbc8GaZuf-AzA7aGtvoHmAdnPE9iqjq1IpmVoQWArmzRZuBMqKg1KdRtwlhkstC3DcY08jUeZgcD3fkjpoR7Kr8kKWi6NhUbPsrymk33HeH3UAQtypzvlxMsg3QVR2a9OoFrjQJGqzKNdDSRXvR_OYzm8fRasDIl6bUZWR6xPO0RJ8wB-UuJOy-v3ZukMHHMeLOkgoKUD-Z3tofrA_UYK6Rk_AVK40DquKRB8iBFnb6dKPpKzj_qoPic5dT8aUOHl8xvJ50WVlyIsLERLi-vuTQkTTh5LlTBu3XZixhkVwDdzRkbpHwkUPtkpU4Qooyy7D0SJ8QVkVOigTT_spHnnfRYo5A9mVuq2rCFHetssTqNequ8PUd8kXzgpxwz5V5b1xzB_Vnbet7XVZPUQc-hYF6iYA7WabOxfGLJWEbPVODGLBQHloIMQGGlMF8Y8sKio7nHJqqdfx3tp2crHXqIzkc6nrnae_3gVq4ijXt6q07uWqnIeGVMBokZZohSaItwSAnFdB1Cnzky3USFS_6DtU
 #EXTINF:-1 tvg-id="CumbiaMix.ar@HD" tvg-name="Cumbia Mix (720p)" tvg-logo="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6901dfd41a05195b77301d7b/b306e57e4_Logo-TV-C.png" group-title="Music" tvg-country="INT" tvg-quality="720p HD",Cumbia Mix (720p) [720p HD]
 #EXTGRP:Music
 https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
@@ -301,7 +301,7 @@ https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8
 https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
 #EXTINF:-1 tvg-id="DBMTV.fr@SD" tvg-name="DBM TV (1080p)" tvg-logo="https://i.imgur.com/ab6p2SW.png" group-title="Music" tvg-country="INT" tvg-quality="1080p FHD",DBM TV (1080p) [1080p FHD]
 #EXTGRP:Music
-https://edge16.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
+https://edge17.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
 #EXTINF:-1 tvg-id="DeepHouseDistrict.nl@SD" tvg-name="Deep House District (1080p)" tvg-logo="https://i.imgur.com/IV2Qvc0.png" group-title="Music" tvg-country="INT" tvg-quality="1080p FHD",Deep House District (1080p) [1080p FHD]
 #EXTGRP:Music
 https://m1b2.worldcast.tv/dancetelevisiontwo/2/dancetelevisiontwo.m3u8
@@ -313,7 +313,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:-1 tvg-id="DeluxeLounge.de@SD" tvg-name="Deluxe Lounge (720p)" tvg-logo="https://i.imgur.com/pgCA35z.png" group-title="Music" tvg-country="INT" tvg-quality="720p HD",Deluxe Lounge (720p) [720p HD]
 #EXTGRP:Music
-https://3b2e4bb903c844b19644082fd2c9c096.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/pegasus-prod/platforms/019fcd98-a710-7649-840b-7a5fac9dd2b3/platformChannels/01a13efc-8884-7d2c-a39a-ecdd52e6cd82/sessions/218c399b-6850-4cd6-b01e-03746aea445e/master.m3u8?aws.sessionId=b70925dd-afb3-4933-b9db-40a72996b974&country=ch&ads:ifa=%7BPSID%7D&ads:optout=%7BTARGETOPT%7D&ads:app_name=%7BAPP_NAME%7D&ads:app_domain=%7BAPP_DOMAIN%7D&ads:consent=%7BTC_STRING%7D&pegasus-channelId=01a0577d-32ff-75c3-9aef-ae144bb087f0&pegasus-liveEventsEnabled=true
+https://3b2e4bb903c844b19644082fd2c9c096.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/pegasus-prod/platforms/019fcd98-a710-7649-840b-7a5fac9dd2b3/platformChannels/01a13efc-8884-7d2c-a39a-ecdd52e6cd82/sessions/4a794698-e502-48f3-ac1f-117e04140ae6/master.m3u8?aws.sessionId=0147c94c-6d50-4d9f-919c-0ecb2071e5a7&country=ch&ads:ifa=%7BPSID%7D&ads:optout=%7BTARGETOPT%7D&ads:app_name=%7BAPP_NAME%7D&ads:app_domain=%7BAPP_DOMAIN%7D&ads:consent=%7BTC_STRING%7D&pegasus-channelId=01a0577d-32ff-75c3-9aef-ae144bb087f0&pegasus-liveEventsEnabled=true
 #EXTINF:-1 tvg-id="DeluxeMusic.de@SD" tvg-name="Deluxe Music (720p)" tvg-logo="https://i.imgur.com/HimuPPb.png" group-title="Music" tvg-country="INT" tvg-quality="720p HD",Deluxe Music (720p) [720p HD]
 #EXTGRP:Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
@@ -362,9 +362,6 @@ https://rtmp.win:3603/live/ellinikosfmlive.m3u8
 #EXTINF:-1 tvg-id="EMITV.ro@SD" tvg-name="EMI TV" tvg-logo="https://i.imgur.com/B5zssCz.png" group-title="Music" tvg-country="INT" tvg-quality="720p HD",EMI TV [720p HD]
 #EXTGRP:Music
 https://astra.emitv.ro/hls/emi/index.m3u8
-#EXTINF:-1 tvg-id="EnerGeekRadio.cl@SD" tvg-name="EnerGeek Radio (720p) [Geo-blocked]" tvg-logo="https://cdn.energeek.cl/logos/EG-Radio-2025_pfp.png" group-title="Music" tvg-country="INT" tvg-quality="720p HD",EnerGeek Radio (720p) [Geo-blocked] [720p HD]
-#EXTGRP:Music
-https://cl-2.backend.energeek.cl/bkp/egradio/mobile/index.m3u8?token=IPTVgh26
 #EXTINF:-1 tvg-id="EpicMusic.in@SD" tvg-name="Epic Music (576p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHOWBOX/images/LOGO_HD/image.png" group-title="Music" tvg-country="INT" tvg-quality="SD",Epic Music (576p) [SD]
 #EXTGRP:Music
 https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
@@ -394,7 +391,7 @@ https://cloudvideo.servers10.com:8081/8034/index.m3u8
 https://cloudvideo.servers10.com:8081/8116/index.m3u8
 #EXTINF:-1 tvg-id="RadioCapitalTiVu.it@HD" tvg-name="Radio Capital TiVu (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/38/Radio_Capital_logo_%282020%29.svg" group-title="Music" tvg-country="INT" tvg-quality="720p HD",Radio Capital TiVu (720p) [720p HD]
 #EXTGRP:Music
-https://streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
+https://streamcdng21-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
 #EXTINF:-1 tvg-id="SpiritTV.us@SD" tvg-name="Spirit TV (720p)" tvg-logo="https://i.imgur.com/yCp6vXz.png" group-title="Music" tvg-country="INT" tvg-quality="720p HD",Spirit TV (720p) [720p HD]
 #EXTGRP:Music
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
