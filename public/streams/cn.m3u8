@@ -4,28 +4,28 @@
 
 #EXTINF:-1 tvg-id="CCTV1.cn" tvg-name="CCTV-1 综合" tvg-logo="https://i.imgur.com/uHU6Vc0.png" group-title="General" tvg-country="CN" tvg-quality="720p HD",CCTV-1 综合 [720p HD]
 #EXTGRP:General
-http://192.187.123.50:81/live/cctv1.m3u8?tm=1792667831&key=7505b5664518db4f26c15db3f16b2d50
+http://69.197.146.178:88/applive/107.m3u8?u=52.165.62.180&t=1792687506&k=279e937a8033ac395558fa6d9b2f87aa&a=zjstream2
 #EXTINF:-1 tvg-id="CCTV10.cn" tvg-name="CCTV-10 科教" tvg-logo="https://i.imgur.com/W8JNs1s.png" group-title="General" tvg-country="CN" tvg-quality="720p HD",CCTV-10 科教 [720p HD]
 #EXTGRP:General
-http://63.141.239.226:81/live/cctv10md.m3u8?tm=1792667832&key=b7c81d086a0450db04cc792a507fc1c2
+http://63.141.239.226:81/live/cctv10md.m3u8?tm=1792687505&key=451e183b47b08e262990373b897877f6
 #EXTINF:-1 tvg-id="CCTV12.cn" tvg-name="CCTV-12 社会与法" tvg-logo="https://i.imgur.com/gZNwF1a.png" group-title="General" tvg-country="CN" tvg-quality="720p HD",CCTV-12 社会与法 [720p HD]
 #EXTGRP:General
-http://74.91.26.218:81/live/cctv12md.m3u8?tm=1792667832&key=3fb93522615418cd3d9fa41f52e4cacc
+http://74.91.26.218:81/live/cctv12md.m3u8?tm=1792687505&key=bc933db6ce928f7a80d208f9b235188c
 #EXTINF:-1 tvg-id="CCTV17.cn" tvg-name="CCTV-17 农业农村" tvg-logo="https://i.imgur.com/XMsoHut.png" group-title="General" tvg-country="CN" tvg-quality="720p HD",CCTV-17 农业农村 [720p HD]
 #EXTGRP:General
-http://107.150.50.82:81/live/cctv17.m3u8?tm=1792667832&key=83477989dac1f8060512c74f40255c00
+http://69.197.181.106:88/applive/102.m3u8?u=52.165.62.180&t=1792687506&k=605b693cb7f0736b7cb1d115241b7dac&a=zjstream2
 #EXTINF:-1 tvg-id="CCTV2.cn" tvg-name="CCTV-2 财经" tvg-logo="https://i.imgur.com/6C9JEYt.png" group-title="General" tvg-country="CN" tvg-quality="720p HD",CCTV-2 财经 [720p HD]
 #EXTGRP:General
-http://192.187.115.106:81/live/cctv2md.m3u8?tm=1792667832&key=c5a2c587a19523ff96df9ea2cb529407
+http://192.187.115.106:81/live/cctv2md.m3u8?tm=1792687505&key=69a873752205f0e659e9a2090ab651db
 #EXTINF:-1 tvg-id="CCTV7.cn" tvg-name="CCTV-7 国防军事" tvg-logo="https://i.imgur.com/GhXlUpM.png" group-title="General" tvg-country="CN" tvg-quality="720p HD",CCTV-7 国防军事 [720p HD]
 #EXTGRP:General
-http://192.187.115.106:81/live/cctv7md.m3u8?tm=1792667832&key=949b75f65ba7421ab3fee2fa63fc0b00
+http://192.187.115.106:81/live/cctv7md.m3u8?tm=1792687505&key=931e5afeb8a8cb5627a8b998986f6a8a
 #EXTINF:-1 tvg-id="CCTV8.cn" tvg-name="CCTV-8 电视剧" tvg-logo="https://i.imgur.com/Qg1opg9.png" group-title="General" tvg-country="CN" tvg-quality="720p HD",CCTV-8 电视剧 [720p HD]
 #EXTGRP:General
-http://192.187.115.106:81/live/cctv8md.m3u8?tm=1792667832&key=7cdc934754652574fe6e48f245c33a90
+http://192.187.115.106:81/live/cctv8md.m3u8?tm=1792687505&key=e598d86d5d181a3ea7330f77494c89ca
 #EXTINF:-1 tvg-id="CCTV9.cn" tvg-name="CCTV-9 纪录" tvg-logo="https://i.imgur.com/Ruyzhu5.png" group-title="General" tvg-country="CN" tvg-quality="720p HD",CCTV-9 纪录 [720p HD]
 #EXTGRP:General
-http://74.91.26.218:81/live/cctv9md.m3u8?tm=1792667832&key=b252b0478e6de0929cfe32dcdf127fca
+http://63.141.226.98:81/live/cctv9md.m3u8?tm=1792687505&key=e85ac0ef76c9391ebd753d8a21f6c220
 #EXTINF:-1 tvg-id="FZTV1.cn" tvg-name="FZTV-1 News 新闻综合频道" tvg-logo="https://i.imgur.com/QvBxGw3.png" group-title="General" tvg-country="CN" tvg-quality="720p HD",FZTV-1 News 新闻综合频道 [720p HD]
 #EXTGRP:General
 https://live.zohi.tv/video/s10001-fztv-1/index.m3u8
@@ -34,7 +34,7 @@ https://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 #EXTINF:-1 tvg-id="FZTVkids.cn" tvg-name="FZTV-4 Children 少儿频道" tvg-logo="https://i.imgur.com/J4WtNTX.png" group-title="General" tvg-country="CN" tvg-quality="720p HD",FZTV-4 Children 少儿频道 [720p HD]
 #EXTGRP:General
-https://live.zohi.tv/video/s10001-fztv-4/index.m3u8
+http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 #EXTINF:-1 tvg-id="TVBRICSChinese.cn" tvg-name="TV BRICS Chinese" tvg-logo="https://i.imgur.com/896132Z.png" group-title="General" tvg-country="CN" tvg-quality="720p HD",TV BRICS Chinese [720p HD]
 #EXTGRP:General
 https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8

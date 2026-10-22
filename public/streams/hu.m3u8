@@ -55,13 +55,16 @@ http://193.225.32.62:8890/live.m3u8
 https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="PannonRTV.hu" tvg-name="Pannon RTV" tvg-logo="https://i.imgur.com/iD5tCjX.png" group-title="General" tvg-country="HU" tvg-quality="720p HD",Pannon RTV [720p HD]
 #EXTGRP:General
-https://stream2.nmih.hu:4102/hls/604cb77d2560aedc5d32d1b65d7030f8/live.m3u8
+https://stream2.nmih.hu:4102/hls/aa33e77392d9ee80b6119d1bff3540bd/live.m3u8
 #EXTINF:-1 tvg-id="Parlamentikzvetts.hu" tvg-name="Parlamenti közvetítés" tvg-logo="" group-title="General" tvg-country="HU" tvg-quality="720p HD",Parlamenti közvetítés [720p HD]
 #EXTGRP:General
 https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ParlamentiTABkzvetts.hu" tvg-name="Parlamenti TAB közvetítés" tvg-logo="" group-title="General" tvg-country="HU" tvg-quality="720p HD",Parlamenti TAB közvetítés [720p HD]
 #EXTGRP:General
 https://tab.parlament.hu:446/edgelive/smil:mkogytab.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVEger.hu" tvg-name="TV Eger" tvg-logo="https://i.imgur.com/GUVW073.png" group-title="General" tvg-country="HU" tvg-quality="720p HD",TV Eger [720p HD]
+#EXTGRP:General
+http://stream.tveger.hu:8010/hls/bd9b5b63be3764744d09322dd754d528/live.m3u8
 #EXTINF:-1 tvg-id="TV7Bkscsaba.hu" tvg-name="TV7 Békéscsaba" tvg-logo="https://i.imgur.com/G9Ib5K3.png" group-title="General" tvg-country="HU" tvg-quality="720p HD",TV7 Békéscsaba [720p HD]
 #EXTGRP:General
 https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
@@ -71,3 +74,6 @@ https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8
 #EXTINF:-1 tvg-id="ZalaegerszegiTV.hu" tvg-name="Zalaegerszeg TV" tvg-logo="https://zegtv.hu/wp-content/themes/assembly/images/zegtv-logo.png" group-title="General" tvg-country="HU" tvg-quality="720p HD",Zalaegerszeg TV [720p HD]
 #EXTGRP:General
 https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="OzdiVarosiTV.hu" tvg-name="Ózdi Városi TV" tvg-logo="https://i.imgur.com/5cOpdRp.jpg" group-title="General" tvg-country="HU" tvg-quality="720p HD",Ózdi Városi TV [720p HD]
+#EXTGRP:General
+http://stream.nmih.hu:7980/hls/a891095235c28cdc85573449017671a8/live.m3u8
