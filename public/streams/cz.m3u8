@@ -2,27 +2,12 @@
 #PLAYLIST:Free IPTV - CZ
 #EXT-X-VERSION:3
 
-#EXTINF:-1 tvg-id="NovaCinema.cz" tvg-name="Nova Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cinema-cz.png" group-title="General" tvg-country="CZ" tvg-quality="720p HD",Nova Cinema [720p HD]
-#EXTGRP:General
-https://sktv.mxnticek.eu/new/stream.php?ch=NovaCinema
-#EXTINF:-1 tvg-id="NovaFun.cz" tvg-name="Nova Fun" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-fun-cz.png" group-title="General" tvg-country="CZ" tvg-quality="720p HD",Nova Fun [720p HD]
-#EXTGRP:General
-https://sktv.mxnticek.eu/new/stream.php?ch=NovaFun
-#EXTINF:-1 tvg-id="NovaLady.cz" tvg-name="Nova Lady" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-lady-cz.png" group-title="General" tvg-country="CZ" tvg-quality="720p HD",Nova Lady [720p HD]
-#EXTGRP:General
-https://sktv.mxnticek.eu/new/stream.php?ch=NovaLady
 #EXTINF:-1 tvg-id="PrahaTV.cz" tvg-name="Praha TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/praha-tv-cz.png" group-title="General" tvg-country="CZ" tvg-quality="720p HD",Praha TV [720p HD]
 #EXTGRP:General
 https://1977134029.rsc.cdn77.org/1977134029/index.m3u8
 #EXTINF:-1 tvg-id="RetroMusicTV.cz" tvg-name="Retro Music TV Ⓢ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/retro-cz.png" group-title="General" tvg-country="CZ" tvg-quality="720p HD",Retro Music TV Ⓢ [720p HD]
 #EXTGRP:General
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TNLive.cz" tvg-name="TN Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cz.png" group-title="General" tvg-country="CZ" tvg-quality="720p HD",TN Live [720p HD]
-#EXTGRP:General
-https://sktv.mxnticek.eu/new/stream.php?ch=Nova%20TN%20Live
-#EXTINF:-1 tvg-id="tvnova.cz" tvg-name="TV Nova Ⓢ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cz.png" group-title="General" tvg-country="CZ" tvg-quality="720p HD",TV Nova Ⓢ [720p HD]
-#EXTGRP:General
-https://sktv.mxnticek.eu/new/stream.php?ch=Nova
 #EXTINF:-1 tvg-id="utv.cz" tvg-name="UTV" tvg-logo="https://imgur.com/ulfeIwM.png" group-title="General" tvg-country="CZ" tvg-quality="720p HD",UTV [720p HD]
 #EXTGRP:General
 https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
@@ -32,9 +17,3 @@ https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
 #EXTINF:-1 tvg-id="Ocko.cz" tvg-name="Óčko Ⓢ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ocko-cz.png" group-title="General" tvg-country="CZ" tvg-quality="720p HD",Óčko Ⓢ [720p HD]
 #EXTGRP:General
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
-#EXTINF:-1 tvg-id="CTDecko.cz" tvg-name="ČT :D" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-d-cz.png" group-title="General" tvg-country="CZ" tvg-quality="720p HD",ČT :D [720p HD]
-#EXTGRP:General
-https://sktv.mxnticek.eu/new/stream.php?ch=CT_D
-#EXTINF:-1 tvg-id="TsportPlus.cz" tvg-name="ČT sport Plus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-sport-cz.png" group-title="General" tvg-country="CZ" tvg-quality="720p HD",ČT sport Plus [720p HD]
-#EXTGRP:General
-https://sktv.mxnticek.eu/new/stream.php?ch=%C4%8CT%20sport%20Plus

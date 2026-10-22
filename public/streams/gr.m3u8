@@ -23,9 +23,6 @@ http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 #EXTINF:-1 tvg-id="DeltaTV.gr" tvg-name="Delta Evros" tvg-logo="https://i.imgur.com/PDfSkRF.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",Delta Evros [720p HD]
 #EXTGRP:General
 http://81.171.10.42:1935/liveD/DStream.sdp/chunklist_w819085920.m3u8
-#EXTINF:-1 tvg-id="egnatiatv.gr" tvg-name="Egnatia" tvg-logo="https://i.imgur.com/zuyYIca.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",Egnatia [720p HD]
-#EXTGRP:General
-https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u
 #EXTINF:-1 tvg-id="epsilon.gr" tvg-name="Epsilon" tvg-logo="https://i.imgur.com/vUQSDvZ.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",Epsilon [720p HD]
 #EXTGRP:General
 https://neon.streams.gr:8081/epsilontv/index.m3u8
@@ -61,7 +58,7 @@ https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8
 https://thor.mental-media.gr:19360/imp/imp.m3u8
 #EXTINF:-1 tvg-id="MegaChannel.gr" tvg-name="Mega News" tvg-logo="https://i.imgur.com/Z3k7iA0.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",Mega News [720p HD]
 #EXTGRP:General
-https://streamcdne1-c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/playlist.m3u8
+https://streamcdne2-c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/playlist.m3u8
 #EXTINF:-1 tvg-id="NeaTV.gr" tvg-name="NEA" tvg-logo="https://i.imgur.com/nvNW8G7.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",NEA [720p HD]
 #EXTGRP:General
 https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
@@ -86,6 +83,9 @@ https://livestar.siliconweb.com/starvod/star4/star4.m3u8
 #EXTINF:-1 tvg-id="SyrosTV1.gr" tvg-name="Syros TV1" tvg-logo="https://i.imgur.com/duXHyvN.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",Syros TV1 [720p HD]
 #EXTGRP:General
 https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
+#EXTINF:-1 tvg-id="ThrakiNetTV.gr" tvg-name="Thraki Net TV" tvg-logo="https://i.imgur.com/DV0I0ed.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",Thraki Net TV [720p HD]
+#EXTGRP:General
+https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
 #EXTINF:-1 tvg-id="trttv.gr" tvg-name="TRT" tvg-logo="https://i.imgur.com/g0jPOcC.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",TRT [720p HD]
 #EXTGRP:General
 https://av.hellasnet.tv/rst/trt/index.m3u8
