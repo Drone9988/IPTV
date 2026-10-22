@@ -17,9 +17,6 @@ http://ares.mnet.mk/hls/mnet-info.m3u8
 #EXTINF:-1 tvg-id="Sitel.mk" tvg-name="Sitel Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/pdobwKt.png" group-title="General" tvg-country="MK" tvg-quality="720p HD",Sitel Ⓢ Ⓖ [720p HD]
 #EXTGRP:General
 https://teve.mk/tvstanici/s1/playlist.m3u8
-#EXTINF:-1 tvg-id="SkyFolkTV.mk" tvg-name="Sky Folk" tvg-logo="https://i.imgur.com/xRw4Hmu.png" group-title="General" tvg-country="MK" tvg-quality="720p HD",Sky Folk [720p HD]
-#EXTGRP:General
-https://skyfolk.mk/live.m3u8
 #EXTINF:-1 tvg-id="TV21.mk" tvg-name="TV 21 Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/IC1f4h3.png" group-title="General" tvg-country="MK" tvg-quality="720p HD",TV 21 Ⓢ Ⓖ [720p HD]
 #EXTGRP:General
 https://t2.tvmak.com/tv/TV21MK.m3u8?QScgsh2FfM
