@@ -29,6 +29,9 @@ https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u
 #EXTINF:-1 tvg-id="epsilon.gr" tvg-name="Epsilon" tvg-logo="https://i.imgur.com/vUQSDvZ.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",Epsilon [720p HD]
 #EXTGRP:General
 https://neon.streams.gr:8081/epsilontv/index.m3u8
+#EXTINF:-1 tvg-id="eurotv.gr" tvg-name="Euro" tvg-logo="https://i.imgur.com/mHCk05E.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",Euro [720p HD]
+#EXTGRP:General
+https://live20.bozztv.com/akamaissh101/ssh101/eurotvlive/playlist.m3u8
 #EXTINF:-1 tvg-id="gnomitv.gr" tvg-name="Gnomi" tvg-logo="https://i.imgur.com/mHCk05E.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",Gnomi [720p HD]
 #EXTGRP:General
 https://live.streams.ovh:8081/gnomitv/index.m3u8
@@ -83,9 +86,6 @@ https://livestar.siliconweb.com/starvod/star4/star4.m3u8
 #EXTINF:-1 tvg-id="SyrosTV1.gr" tvg-name="Syros TV1" tvg-logo="https://i.imgur.com/duXHyvN.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",Syros TV1 [720p HD]
 #EXTGRP:General
 https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
-#EXTINF:-1 tvg-id="ThrakiNetTV.gr" tvg-name="Thraki Net TV" tvg-logo="https://i.imgur.com/DV0I0ed.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",Thraki Net TV [720p HD]
-#EXTGRP:General
-https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
 #EXTINF:-1 tvg-id="trttv.gr" tvg-name="TRT" tvg-logo="https://i.imgur.com/g0jPOcC.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",TRT [720p HD]
 #EXTGRP:General
 https://av.hellasnet.tv/rst/trt/index.m3u8
