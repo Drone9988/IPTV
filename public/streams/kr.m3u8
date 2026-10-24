@@ -5,6 +5,9 @@
 #EXTINF:-1 tvg-id="ArirangTV.kr" tvg-name="Arirang" tvg-logo="https://i.imgur.com/RuHZ6Dx.png" group-title="General" tvg-country="KR" tvg-quality="720p HD",Arirang [720p HD]
 #EXTGRP:General
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CJBTV.kr" tvg-name="CJB TV" tvg-logo="https://i.imgur.com/MvxdZhX.png" group-title="General" tvg-country="KR" tvg-quality="720p HD",CJB TV [720p HD]
+#EXTGRP:General
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="EBS1TV.kr" tvg-name="EBS 1 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/500px-EBS_1TV_Logo.svg.png" group-title="General" tvg-country="KR" tvg-quality="720p HD",EBS 1 Ⓢ [720p HD]
 #EXTGRP:General
 https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
@@ -17,9 +20,6 @@ https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="JIBSTV.kr" tvg-name="JIBS TV" tvg-logo="https://i.imgur.com/RVWpBoz.png" group-title="General" tvg-country="KR" tvg-quality="720p HD",JIBS TV [720p HD]
 #EXTGRP:General
 http://123.140.197.22/stream/1/play.m3u8
-#EXTINF:-1 tvg-id="JTV.kr" tvg-name="JTV TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Jtv_logo.svg/500px-Jtv_logo.svg.png" group-title="General" tvg-country="KR" tvg-quality="720p HD",JTV TV [720p HD]
-#EXTGRP:General
-https://61ff3340258d2.streamlock.net/jtv_live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="KBCTV.kr" tvg-name="KBC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/KBC_Gwangju_Broadcasting_logo.svg/500px-KBC_Gwangju_Broadcasting_logo.svg.png" group-title="General" tvg-country="KR" tvg-quality="720p HD",KBC TV [720p HD]
 #EXTGRP:General
 https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
