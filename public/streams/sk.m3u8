@@ -11,12 +11,18 @@ https://cdnsk003.panaccess.com/local/Markiza/index.m3u8
 #EXTINF:-1 tvg-id="NRSR.sk" tvg-name="NR SR" tvg-logo="" group-title="General" tvg-country="SK" tvg-quality="720p HD",NR SR [720p HD]
 #EXTGRP:General
 https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVS24.sk" tvg-name="STVR :24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/rtvs-24-sk.png" group-title="General" tvg-country="SK" tvg-quality="720p HD",STVR :24 [720p HD]
+#EXTGRP:General
+https://sktv.mxnticek.eu/new/stream.php?ch=STVR%20:24
 #EXTINF:-1 tvg-id="STVRO.sk" tvg-name="STVR :O" tvg-logo=":" group-title="General" tvg-country="SK" tvg-quality="720p HD",STVR :O [720p HD]
 #EXTGRP:General
 https://sktv.mxnticek.eu/new/stream.php?ch=STVR%20:O
 #EXTINF:-1 tvg-id="STVRLive.sk" tvg-name="STVR Live" tvg-logo="Liv" group-title="General" tvg-country="SK" tvg-quality="720p HD",STVR Live [720p HD]
 #EXTGRP:General
 https://sktv.mxnticek.eu/new/stream.php?ch=STVR%20Live
+#EXTINF:-1 tvg-id="TA3.sk" tvg-name="TA3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/ta3-sk.png" group-title="General" tvg-country="SK" tvg-quality="720p HD",TA3 [720p HD]
+#EXTGRP:General
+https://sktv.mxnticek.eu/new/stream.php?ch=TA3
 #EXTINF:-1 tvg-id="RTVSSport.sk" tvg-name="Šport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/rtvs-sport-sk.png" group-title="General" tvg-country="SK" tvg-quality="720p HD",Šport [720p HD]
 #EXTGRP:General
 https://sktv.mxnticek.eu/new/stream.php?ch=%C5%A0port

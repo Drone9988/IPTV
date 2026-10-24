@@ -7,7 +7,7 @@
 http://stream.mcquack.net/48/index.m3u8
 #EXTINF:-1 tvg-id="Kan11.il" tvg-name="כאן 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/500px-Kan11Logo.svg.png" group-title="General" tvg-country="IL" tvg-quality="720p HD",כאן 11 [720p HD]
 #EXTGRP:General
-https://n-160-2.cdn.avcom-bezeq.tv/webcache/redge-il/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
+https://n-160-6.cdn.avcom-bezeq.tv/webcache/redge-il/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="KanEducational.il" tvg-name="כאן חינוכית" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/500px-KanHinuchit.svg.png" group-title="General" tvg-country="IL" tvg-quality="720p HD",כאן חינוכית [720p HD]
 #EXTGRP:General
 http://stream.mcquack.net/378/index.m3u8
@@ -16,4 +16,4 @@ http://stream.mcquack.net/378/index.m3u8
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
 #EXTINF:-1 tvg-id="Now14.il" tvg-name="ערוץ 14" tvg-logo="https://i.imgur.com/Iq2Kb69.png" group-title="General" tvg-country="IL" tvg-quality="720p HD",ערוץ 14 [720p HD]
 #EXTGRP:General
-https://n-121-12.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
+https://n-121-4.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
