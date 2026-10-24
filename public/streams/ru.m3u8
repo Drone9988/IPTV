@@ -23,21 +23,18 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 tvg-id="Karusel.ru" tvg-name="Карусель Ⓢ" tvg-logo="https://i.imgur.com/4fFMlVq.png" group-title="General" tvg-country="RU" tvg-quality="720p HD",Карусель Ⓢ [720p HD]
 #EXTGRP:General
 https://streaming.goodstream.icu/live/232.m3u8
+#EXTINF:-1 tvg-id="tv.minidey.ru" tvg-name="Министерство Идей" tvg-logo="https://minidey.ru/media/images/logo_minidey_tv.png" group-title="General" tvg-country="RU" tvg-quality="720p HD",Министерство Идей [720p HD]
+#EXTGRP:General
+https://live-minidey.cdnvideo.ru/minidey-srt/minidey/playlist.m3u8
 #EXTINF:-1 tvg-id="Mir.ru" tvg-name="Мир" tvg-logo="https://i.imgur.com/L2slsbG.png" group-title="General" tvg-country="RU" tvg-quality="720p HD",Мир [720p HD]
 #EXTGRP:General
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/int/playlist.m3u8
-#EXTINF:-1 tvg-id="MirBelogorya.ru" tvg-name="Мир Белогорья" tvg-logo="https://i.imgur.com/CCNAg7R.png" group-title="General" tvg-country="RU" tvg-quality="720p HD",Мир Белогорья [720p HD]
-#EXTGRP:General
-http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
 #EXTINF:-1 tvg-id="Moskva24.ru" tvg-name="Москва 24" tvg-logo="https://i.imgur.com/gXbUMVy.png" group-title="General" tvg-country="RU" tvg-quality="720p HD",Москва 24 [720p HD]
 #EXTGRP:General
 https://stream.smotrim.ru/hls/moscow_24/playlist.m3u8?entity=channel&id=76&sign=e8e1bc15ce94ee7718ef8948500e5d21
 #EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Муз-ТВ Ⓢ" tvg-logo="https://i.imgur.com/Ml3qqOF.png" group-title="General" tvg-country="RU" tvg-quality="720p HD",Муз-ТВ Ⓢ [720p HD]
 #EXTGRP:General
 https://streaming.goodstream.icu/live/618.m3u8
-#EXTINF:-1 tvg-id="NizhniyNovgorod24.ru" tvg-name="Нижний Новгород 24" tvg-logo="https://i.imgur.com/ZWgPVIC.png" group-title="General" tvg-country="RU" tvg-quality="720p HD",Нижний Новгород 24 [720p HD]
-#EXTGRP:General
-https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
 #EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Россия 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/960px-Russia-1.svg.png" group-title="General" tvg-country="RU" tvg-quality="720p HD",Россия 1 [720p HD]
 #EXTGRP:General
 https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
