@@ -4,7 +4,10 @@
 
 #EXTINF:-1 tvg-id="N1BosniaHerzegovina.ba" tvg-name="N1 Bosna i Hercegovina" tvg-logo="https://i.imgur.com/72oMSWz.png" group-title="General" tvg-country="BA" tvg-quality="720p HD",N1 Bosna i Hercegovina [720p HD]
 #EXTGRP:General
-https://n1-bg-ku-r1-1.umn.cdn.united.cloud/stream/?i=95DUZ17TecB0ZbFlCv9V2w&a=TSEDhxBHTJ9-iktbcW_fWKgAWIoij56nQeAtFj4QuI8bdCbGSd4Ee5Gou5TOUHgmzMQwdEBFI8tBi4s_MeW6yQ-6jtHbgHA-gkJl4fV5ztuEdBoEZDi4vM0V-uHpBzptAPeQzSshOSiVwbXMqYqTB_v4-0NTiMxhCbZw4dppajTT49xtOpQSVSb3Xlz0fkOaFCn0iwmvlxcSj32KNUbVbw&sp=n1info&u=n1info&player=http
+https://n1-bg-ku-r1-1.umn.cdn.united.cloud/stream/?i=Tu7LI26pGYhMW376OPvQJg&a=ZS997uORJam3DaTiuzxXTzosOZO2QNwMUtofF8KM73p4ZZWwf-D2fN598SNddSuGT1VIeKSW689nS6H_3OLMhWyKPjHtc17G2sp1n6QFUWOzebytxOkv7AoES4ZBL5tulUia4WIMd1nprIfvzitSrAU_6i9xDNlhJ8_PLS-zKjRUt5EzI-nfVfMTqGRjiVvaIsX4T7e2cIgeyy3O3cqQIQ&sp=n1info&u=n1info&player=http
+#EXTINF:-1 tvg-id="RTRSplus.ba" tvg-name="RTRS PLUS Ⓢ" tvg-logo="https://i.imgur.com/k06WvYl.png" group-title="General" tvg-country="BA" tvg-quality="720p HD",RTRS PLUS Ⓢ [720p HD]
+#EXTGRP:General
+https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
 #EXTINF:-1 tvg-id="BNTV.ba" tvg-name="RTV BN" tvg-logo="https://i.imgur.com/DUBvfWb.png" group-title="General" tvg-country="BA" tvg-quality="720p HD",RTV BN [720p HD]
 #EXTGRP:General
 https://stream2.rtvbn.tv:8080/live_1935/bnstream/index.m3u8
@@ -17,6 +20,3 @@ https://stream.rtvze.ba/live/123/123.m3u8
 #EXTINF:-1 tvg-id="Televizija5.ba" tvg-name="Televizija 5" tvg-logo="https://i.imgur.com/znpvJys.png" group-title="General" tvg-country="BA" tvg-quality="720p HD",Televizija 5 [720p HD]
 #EXTGRP:General
 https://balkanmedia.dynu.net/hls/tv5web.m3u8
-#EXTINF:-1 tvg-id="RTRSTV.ba" tvg-name="Televizija Republike Srpske (RTRS)" tvg-logo="https://i.imgur.com/2Sgs5gM.png" group-title="General" tvg-country="BA" tvg-quality="720p HD",Televizija Republike Srpske (RTRS) [720p HD]
-#EXTGRP:General
-https://parh.rtrs.tv/tv/live/playlist.m3u8
