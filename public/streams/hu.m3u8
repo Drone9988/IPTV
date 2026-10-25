@@ -14,9 +14,6 @@ http://141.94.193.53/AMC_HD/index.m3u8
 #EXTINF:-1 tvg-id="ApostolTV.hu" tvg-name="Apostol TV" tvg-logo="https://www.apostoltv.hu/images/header-logo.png" group-title="General" tvg-country="HU" tvg-quality="720p HD",Apostol TV [720p HD]
 #EXTGRP:General
 https://live.apostoltv.hu/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ATV.hu" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Atv_logo_2018.png/250px-Atv_logo_2018.png" group-title="General" tvg-country="HU" tvg-quality="720p HD",ATV [720p HD]
-#EXTGRP:General
-http://141.94.193.53/ATV_HD/index.m3u8
 #EXTINF:-1 tvg-id="BalatonTV.hu" tvg-name="Balaton TV" tvg-logo="https://i.imgur.com/ip8L5Vt.jpg" group-title="General" tvg-country="HU" tvg-quality="720p HD",Balaton TV [720p HD]
 #EXTGRP:General
 https://stream.iptvservice.eu/hls/balatontv.m3u8
@@ -47,9 +44,6 @@ https://hls.iptvservice.eu/hls/ewtn-hd.m3u8
 #EXTINF:-1 tvg-id="FehrvrTV.hu" tvg-name="FehérvárTV" tvg-logo="https://www.fehervartv.hu/css/img/icon-1-2.png" group-title="General" tvg-country="HU" tvg-quality="720p HD",FehérvárTV [720p HD]
 #EXTGRP:General
 https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE046.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Film+.hu" tvg-name="Film+" tvg-logo="" group-title="General" tvg-country="HU" tvg-quality="720p HD",Film+ [720p HD]
-#EXTGRP:General
-http://141.94.193.53/Film+_HD/index.m3u8
 #EXTINF:-1 tvg-id="Film4.hu" tvg-name="Film4 Ⓖ" tvg-logo="" group-title="General" tvg-country="HU" tvg-quality="720p HD",Film4 Ⓖ [720p HD]
 #EXTGRP:General
 http://141.94.193.53/Film4_HD/index.m3u8
@@ -134,27 +128,15 @@ https://budapest-cache-1.antik.sk/live/radio_1/index.m3u8
 #EXTINF:-1 tvg-id="SlgerFM.hu" tvg-name="Sláger FM" tvg-logo="" group-title="General" tvg-country="HU" tvg-quality="720p HD",Sláger FM [720p HD]
 #EXTGRP:General
 https://budapest-cache-1.antik.sk/live/slager/index.m3u8
-#EXTINF:-1 tvg-id="SpektrumHome.hu" tvg-name="Spektrum Home Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Spektrum-home.png" group-title="General" tvg-country="HU" tvg-quality="720p HD",Spektrum Home Ⓖ [720p HD]
-#EXTGRP:General
-http://141.94.193.53/Spektrum_Home_HD/index.m3u8
-#EXTINF:-1 tvg-id="Spektrum.hu" tvg-name="Spektrum Ⓖ" tvg-logo="" group-title="General" tvg-country="HU" tvg-quality="720p HD",Spektrum Ⓖ [720p HD]
-#EXTGRP:General
-http://141.94.193.53/Spektrum_HD/index.m3u8
 #EXTINF:-1 tvg-id="SpiritFM.hu" tvg-name="Spirit FM" tvg-logo="" group-title="General" tvg-country="HU" tvg-quality="720p HD",Spirit FM [720p HD]
 #EXTGRP:General
 https://budapest-cache-1.antik.sk/live/spirit_fm/index.m3u8
 #EXTINF:-1 tvg-id="Sport1.hu" tvg-name="Sport1 Ⓖ" tvg-logo="" group-title="General" tvg-country="HU" tvg-quality="720p HD",Sport1 Ⓖ [720p HD]
 #EXTGRP:General
 http://141.94.193.53/Sport_1_HD/index.m3u8
-#EXTINF:-1 tvg-id="Sport2.hu" tvg-name="Sport2 Ⓖ" tvg-logo="" group-title="General" tvg-country="HU" tvg-quality="720p HD",Sport2 Ⓖ [720p HD]
-#EXTGRP:General
-http://141.94.193.53/Sport_2_HD/index.m3u8
 #EXTINF:-1 tvg-id="TVEger.hu" tvg-name="TV Eger" tvg-logo="https://i.imgur.com/GUVW073.png" group-title="General" tvg-country="HU" tvg-quality="720p HD",TV Eger [720p HD]
 #EXTGRP:General
-http://stream.tveger.hu:8010/hls/0c60e8356a58ac21f9393de32fec3c99/live.m3u8
-#EXTINF:-1 tvg-id="TVPaprika.hu" tvg-name="TV Paprika Ⓖ" tvg-logo="" group-title="General" tvg-country="HU" tvg-quality="720p HD",TV Paprika Ⓖ [720p HD]
-#EXTGRP:General
-http://141.94.193.53/TV_Paprika_HD/index.m3u8
+http://stream.tveger.hu:8010/hls/40ada5e00a363cbb596c9b7adc428f8b/live.m3u8
 #EXTINF:-1 tvg-id="TV2.hu" tvg-name="TV2" tvg-logo="https://nlc.p3k.hu/uploads/2021/09/tv2-logo.jpg" group-title="General" tvg-country="HU" tvg-quality="720p HD",TV2 [720p HD]
 #EXTGRP:General
 http://141.94.193.53/TV2_HD/index.m3u8
@@ -172,4 +154,4 @@ https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8
 https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="OzdiVarosiTV.hu" tvg-name="Ózdi Városi TV" tvg-logo="https://i.imgur.com/5cOpdRp.jpg" group-title="General" tvg-country="HU" tvg-quality="720p HD",Ózdi Városi TV [720p HD]
 #EXTGRP:General
-http://stream.nmih.hu:7980/hls/47560562ec65004bfd700925a07cf00d/live.m3u8
+http://stream.nmih.hu:7980/hls/b882acca596a56a4ee744dc4bda96fd5/live.m3u8
