@@ -13,7 +13,7 @@ https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/CNN_Portugal.m3u8
 https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SIC.pt" tvg-name="SIC" tvg-logo="https://i.imgur.com/SPMqiDG.png" group-title="General" tvg-country="PT" tvg-quality="720p HD",SIC [720p HD]
 #EXTGRP:General
-https://production-fast-sic.content.okast.tv/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8?bpkio_sessionid=10f1f134e1-5807e0f4-a055-47ab-b439-53846ef5fba7&bpkio_serviceid=fa2e8c4385712f9aa54bbe52b1bd9b6b&category=all
+https://production-fast-sic.content.okast.tv/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8?bpkio_sessionid=10c1d225c241-21217529-9241-48df-900b-bbd2a84ae091&bpkio_serviceid=fa2e8c4385712f9aa54bbe52b1bd9b6b&category=all
 #EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/TVI_logo_2017.png" group-title="General" tvg-country="PT" tvg-quality="720p HD",TVI [720p HD]
 #EXTGRP:General
 https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8
