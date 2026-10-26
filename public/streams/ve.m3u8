@@ -2,9 +2,6 @@
 #PLAYLIST:Free IPTV - VE
 #EXT-X-VERSION:3
 
-#EXTINF:-1 tvg-id="AguacateTV.ve" tvg-name="Aguacate TV" tvg-logo="https://intervenhosting.net/imagenes/aguacatetv.jpg" group-title="General" tvg-country="VE" tvg-quality="720p HD",Aguacate TV [720p HD]
-#EXTGRP:General
-https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Globovision.ve" tvg-name="Globovisión" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/47/Globovisi%C3%B3n_logo_2013.png" group-title="General" tvg-country="VE" tvg-quality="720p HD",Globovisión [720p HD]
 #EXTGRP:General
 http://181.78.8.199:8000/play/a09k/index.m3u8

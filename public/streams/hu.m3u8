@@ -107,6 +107,9 @@ http://141.94.193.53/Mozi+_HD/index.m3u8
 #EXTINF:-1 tvg-id="OroszlanyiVarosiTelevizio.hu" tvg-name="Oroszlányi Városi Televízió" tvg-logo="https://i.imgur.com/P0fxUH5.png" group-title="General" tvg-country="HU" tvg-quality="720p HD",Oroszlányi Városi Televízió [720p HD]
 #EXTGRP:General
 https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="PannonRTV.hu" tvg-name="Pannon RTV" tvg-logo="https://i.imgur.com/iD5tCjX.png" group-title="General" tvg-country="HU" tvg-quality="720p HD",Pannon RTV [720p HD]
+#EXTGRP:General
+https://stream2.nmih.hu:4102/hls/94de4f010cb4a6bb15446862390e0afa/live.m3u8
 #EXTINF:-1 tvg-id="Parlamentikzvetts.hu" tvg-name="Parlamenti közvetítés" tvg-logo="" group-title="General" tvg-country="HU" tvg-quality="720p HD",Parlamenti közvetítés [720p HD]
 #EXTGRP:General
 https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8
@@ -119,9 +122,6 @@ https://budapest-cache-1.antik.sk/live/petofi_radio/index.m3u8
 #EXTINF:-1 tvg-id="RetrRdi.hu" tvg-name="Retró Rádió" tvg-logo="" group-title="General" tvg-country="HU" tvg-quality="720p HD",Retró Rádió [720p HD]
 #EXTGRP:General
 https://budapest-cache-1.antik.sk/live/retro/index.m3u8
-#EXTINF:-1 tvg-id="RTLKlub.hu" tvg-name="RTL Klub" tvg-logo="https://i.imgur.com/ruRshE1.png" group-title="General" tvg-country="HU" tvg-quality="720p HD",RTL Klub [720p HD]
-#EXTGRP:General
-http://141.94.193.53/RTL_HD/index.m3u8
 #EXTINF:-1 tvg-id="Rdi1.hu" tvg-name="Rádió1" tvg-logo="" group-title="General" tvg-country="HU" tvg-quality="720p HD",Rádió1 [720p HD]
 #EXTGRP:General
 https://budapest-cache-1.antik.sk/live/radio_1/index.m3u8
@@ -136,7 +136,7 @@ https://budapest-cache-1.antik.sk/live/spirit_fm/index.m3u8
 http://141.94.193.53/Sport_1_HD/index.m3u8
 #EXTINF:-1 tvg-id="TVEger.hu" tvg-name="TV Eger" tvg-logo="https://i.imgur.com/GUVW073.png" group-title="General" tvg-country="HU" tvg-quality="720p HD",TV Eger [720p HD]
 #EXTGRP:General
-http://stream.tveger.hu:8010/hls/40ada5e00a363cbb596c9b7adc428f8b/live.m3u8
+http://stream.tveger.hu:8010/hls/38a59a3437e5a3569f39763c4526571a/live.m3u8
 #EXTINF:-1 tvg-id="TV2.hu" tvg-name="TV2" tvg-logo="https://nlc.p3k.hu/uploads/2021/09/tv2-logo.jpg" group-title="General" tvg-country="HU" tvg-quality="720p HD",TV2 [720p HD]
 #EXTGRP:General
 http://141.94.193.53/TV2_HD/index.m3u8
@@ -154,4 +154,4 @@ https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8
 https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="OzdiVarosiTV.hu" tvg-name="Ózdi Városi TV" tvg-logo="https://i.imgur.com/5cOpdRp.jpg" group-title="General" tvg-country="HU" tvg-quality="720p HD",Ózdi Városi TV [720p HD]
 #EXTGRP:General
-http://stream.nmih.hu:7980/hls/b882acca596a56a4ee744dc4bda96fd5/live.m3u8
+http://stream.nmih.hu:7980/hls/5f85084dad5ad396c5ee25399cf899b0/live.m3u8
