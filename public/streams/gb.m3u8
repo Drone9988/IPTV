@@ -26,15 +26,3 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Now80s.uk" tvg-name="Now 80s" tvg-logo="https://i.imgur.com/8paz37m.png" group-title="General" tvg-country="GB" tvg-quality="720p HD",Now 80s [720p HD]
 #EXTGRP:General
 https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="QVCBeautyUK.uk" tvg-name="QVC Beauty Ⓢ" tvg-logo="https://i.imgur.com/ZBHtqk1.png" group-title="General" tvg-country="GB" tvg-quality="720p HD",QVC Beauty Ⓢ [720p HD]
-#EXTGRP:General
-https://qvcuk-live.akamaized.net/hls/live/2097112/qby/3/3.m3u8
-#EXTINF:-1 tvg-id="QVCExtraUK.uk" tvg-name="QVC Extra Ⓢ" tvg-logo="https://i.imgur.com/TIe5T9Z.png" group-title="General" tvg-country="GB" tvg-quality="720p HD",QVC Extra Ⓢ [720p HD]
-#EXTGRP:General
-https://qvcuk-live.akamaized.net/hls/live/2097112/qex/3/3.m3u8
-#EXTINF:-1 tvg-id="QVCStyleUK.uk" tvg-name="QVC Style Ⓢ" tvg-logo="https://i.imgur.com/6HZlLL3.png" group-title="General" tvg-country="GB" tvg-quality="720p HD",QVC Style Ⓢ [720p HD]
-#EXTGRP:General
-https://qvcuk-live.akamaized.net/hls/live/2097112/qst/3/3.m3u8
-#EXTINF:-1 tvg-id="QVCUK.uk" tvg-name="QVC UK Ⓢ" tvg-logo="https://i.imgur.com/6TWUVrh.png" group-title="General" tvg-country="GB" tvg-quality="720p HD",QVC UK Ⓢ [720p HD]
-#EXTGRP:General
-https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/3/3.m3u8

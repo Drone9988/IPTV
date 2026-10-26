@@ -17,9 +17,6 @@ https://lifetv.bitflip.ee/live/stream2.m3u8
 #EXTINF:-1 tvg-id="LifeTVEurope.ee" tvg-name="Life TV Europe" tvg-logo="https://i.imgur.com/JhrTB82.png" group-title="General" tvg-country="EE" tvg-quality="720p HD",Life TV Europe [720p HD]
 #EXTGRP:General
 https://lifetv.bitflip.ee/live/stream1.m3u8
-#EXTINF:-1 tvg-id="Riigikogu.ee" tvg-name="Riigikogu" tvg-logo="https://i.imgur.com/7uWaZLF.png" group-title="General" tvg-country="EE" tvg-quality="720p HD",Riigikogu [720p HD]
-#EXTGRP:General
-https://le304.euddn.net/409c2c8c8ddff6839c702d35116ff414835a46a1c5cb3511082872c2626fb6fd863d6b624f54f7d91c0d91a7edbef3b2644fb4a544dc1418eb947af2985fb574e5ed99aa0dd1c28e4724031a629439950a1b5001183e2948c22cee669d1df90b2f3292409f2d9c594428731d265cd7eb0c6f7a460d0a13e19bb13338b106cba75af0824d32e0264b140d78ec441c5ec81d35a2cae2dd1718a36a143b729eeed4e23992bd60950b2b1fc177267fe059d05c574368a620c9e2462999cbacc05069/smil:rk_live_1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TaevasTV7.fi" tvg-name="Taevas TV7" tvg-logo="https://i.imgur.com/usXedIj.png" group-title="General" tvg-country="EE" tvg-quality="720p HD",Taevas TV7 [720p HD]
 #EXTGRP:General
 https://vod.tv7.fi/tv7-ee/_definst_/smil:tv7-ee.smil/playlist.m3u8
