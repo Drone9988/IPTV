@@ -5,9 +5,6 @@
 #EXTINF:-1 tvg-id="ArirangTV.kr" tvg-name="Arirang" tvg-logo="https://i.imgur.com/RuHZ6Dx.png" group-title="General" tvg-country="KR" tvg-quality="720p HD",Arirang [720p HD]
 #EXTGRP:General
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CJBTV.kr" tvg-name="CJB TV" tvg-logo="https://i.imgur.com/MvxdZhX.png" group-title="General" tvg-country="KR" tvg-quality="720p HD",CJB TV [720p HD]
-#EXTGRP:General
-http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="EBS1TV.kr" tvg-name="EBS 1 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/500px-EBS_1TV_Logo.svg.png" group-title="General" tvg-country="KR" tvg-quality="720p HD",EBS 1 Ⓢ [720p HD]
 #EXTGRP:General
 https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
@@ -17,6 +14,9 @@ https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="EBSPlus1.kr" tvg-name="EBS Plus 1 Ⓢ" tvg-logo="https://i.imgur.com/ImUHRG2.png" group-title="General" tvg-country="KR" tvg-quality="720p HD",EBS Plus 1 Ⓢ [720p HD]
 #EXTGRP:General
 https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="G1TV.kr" tvg-name="G1 TV" tvg-logo="https://i.imgur.com/TYYffUe.png" group-title="General" tvg-country="KR" tvg-quality="720p HD",G1 TV [720p HD]
+#EXTGRP:General
+http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="JIBSTV.kr" tvg-name="JIBS TV" tvg-logo="https://i.imgur.com/RVWpBoz.png" group-title="General" tvg-country="KR" tvg-quality="720p HD",JIBS TV [720p HD]
 #EXTGRP:General
 http://123.140.197.22/stream/1/play.m3u8
