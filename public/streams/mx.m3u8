@@ -17,3 +17,6 @@ https://5ca9af4645e15.streamlock.net/mexicotravel/videomexicotravel/playlist.m3u
 #EXTINF:-1 tvg-id="QuieroTV.mx" tvg-name="Quiero TV" tvg-logo="https://graph.facebook.com/quierotvGDL/picture?width=200&height=200" group-title="General" tvg-country="MX" tvg-quality="720p HD",Quiero TV [720p HD]
 #EXTGRP:General
 https://stream.ontvmx.com/ontv/ghxTYEQmKkB2UJyVuW/playlist.m3u8
+#EXTINF:-1 tvg-id="Tele10Nayarit.mx" tvg-name="TELE 10 Nayarit" tvg-logo="https://graph.facebook.com/Tele10Nayarit/picture?width=200&height=200" group-title="General" tvg-country="MX" tvg-quality="720p HD",TELE 10 Nayarit [720p HD]
+#EXTGRP:General
+https://live.iplanay.gob.mx/hls/nayarittv.m3u8
