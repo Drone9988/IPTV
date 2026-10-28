@@ -2,12 +2,9 @@
 #PLAYLIST:Free IPTV - NL
 #EXT-X-VERSION:3
 
-#EXTINF:-1 tvg-id="L1TV.nl" tvg-name="L1 Ⓢ" tvg-logo="https://i.imgur.com/Jyhn1iP.png" group-title="General" tvg-country="NL" tvg-quality="720p HD",L1 Ⓢ [720p HD]
-#EXTGRP:General
-http://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
 #EXTINF:-1 tvg-id="NH.nl" tvg-name="NH Nieuws" tvg-logo="https://i.imgur.com/SQPVOwn.png" group-title="General" tvg-country="NL" tvg-quality="720p HD",NH Nieuws [720p HD]
 #EXTGRP:General
-https://n2.cdn.jetstre.am/session/80fd36a1f0f71a49a2ab28149e2fadf1/sz/nhnieuws/wowza4/live/live/playlist.m3u8?token=zoyP1PQyc35fZnmhRExtsA&time=1793161619
+https://n2.cdn.jetstre.am/session/ec3c765ce39c42934fefce3cbb0a8765/sz/nhnieuws/wowza4/live/live/playlist.m3u8?token=6kWJCMiih192zQFtHIGcvg&time=1793190070
 #EXTINF:-1 tvg-id="OmroepBrabantTV.nl" tvg-name="Omroep Brabant" tvg-logo="https://i.imgur.com/Jv7IjHJ.png" group-title="General" tvg-country="NL" tvg-quality="720p HD",Omroep Brabant [720p HD]
 #EXTGRP:General
 http://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
