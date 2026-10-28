@@ -2,6 +2,9 @@
 #PLAYLIST:Free IPTV - RO
 #EXT-X-VERSION:3
 
+#EXTINF:-1 tvg-id="ProTV.ro" tvg-name="Pro TV" tvg-logo="https://i.imgur.com/aKAfKtW.png" group-title="General" tvg-country="RO" tvg-quality="720p HD",Pro TV [720p HD]
+#EXTGRP:General
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-id="Telestar1.ro" tvg-name="Telestar1" tvg-logo="https://i.imgur.com/UZQjEsd.png" group-title="General" tvg-country="RO" tvg-quality="720p HD",Telestar1 [720p HD]
 #EXTGRP:General
 https://dvb.tennet.ro/mobile_tv/telestar.m3u8
