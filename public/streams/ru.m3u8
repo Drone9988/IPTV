@@ -5,9 +5,6 @@
 #EXTINF:-1 tvg-id="CGTNRussian.cn" tvg-name="CGTN Pусский" tvg-logo="https://i.imgur.com/fMsJYzl.png" group-title="General" tvg-country="RU" tvg-quality="720p HD",CGTN Pусский [720p HD]
 #EXTGRP:General
 https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
-#EXTINF:-1 tvg-id="RTD.ru" tvg-name="RT Д Русский Ⓖ" tvg-logo="https://i.imgur.com/v5fpEBo.png" group-title="General" tvg-country="RU" tvg-quality="720p HD",RT Д Русский Ⓖ [720p HD]
-#EXTGRP:General
-https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
 #EXTINF:-1 tvg-id="Arkhyz24.ru" tvg-name="Архыз 24" tvg-logo="https://i.imgur.com/mve0sSS.png" group-title="General" tvg-country="RU" tvg-quality="720p HD",Архыз 24 [720p HD]
 #EXTGRP:General
 https://live.mediacdn.ru/sr1/arhis24/playlist_hdhigh.m3u8

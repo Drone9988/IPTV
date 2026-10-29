@@ -17,6 +17,3 @@ https://qatartv.akamaized.net/hls/live/20000609/qtv1/master.m3u8
 #EXTINF:-1 tvg-id="QatarTelevision2.qa" tvg-name="Qatar Television 2" tvg-logo="https://i.imgur.com/iWJxDUm.png" group-title="General" tvg-country="QA" tvg-quality="720p HD",Qatar Television 2 [720p HD]
 #EXTGRP:General
 https://qatartv.akamaized.net/hls/live/20000611/qtv2/master.m3u8
-#EXTINF:-1 tvg-id="QatarTelevisionTheHolyQuran.qa" tvg-name="Qatar Television The Holy Quran" tvg-logo="https://i.imgur.com/N5RB4sp.png" group-title="General" tvg-country="QA" tvg-quality="720p HD",Qatar Television The Holy Quran [720p HD]
-#EXTGRP:General
-https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master1080p.m3u8
