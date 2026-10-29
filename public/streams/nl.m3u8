@@ -2,6 +2,9 @@
 #PLAYLIST:Free IPTV - NL
 #EXT-X-VERSION:3
 
+#EXTINF:-1 tvg-id="L1TV.nl" tvg-name="L1 Ⓢ" tvg-logo="https://i.imgur.com/Jyhn1iP.png" group-title="General" tvg-country="NL" tvg-quality="720p HD",L1 Ⓢ [720p HD]
+#EXTGRP:General
+http://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
 #EXTINF:-1 tvg-id="OmroepBrabantTV.nl" tvg-name="Omroep Brabant" tvg-logo="https://i.imgur.com/Jv7IjHJ.png" group-title="General" tvg-country="NL" tvg-quality="720p HD",Omroep Brabant [720p HD]
 #EXTGRP:General
 http://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
