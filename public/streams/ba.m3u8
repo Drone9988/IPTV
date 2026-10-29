@@ -4,7 +4,7 @@
 
 #EXTINF:-1 tvg-id="N1BosniaHerzegovina.ba" tvg-name="N1 Bosna i Hercegovina" tvg-logo="https://i.imgur.com/72oMSWz.png" group-title="General" tvg-country="BA" tvg-quality="720p HD",N1 Bosna i Hercegovina [720p HD]
 #EXTGRP:General
-https://n1-bg-ku-r1-2.umn.cdn.united.cloud/stream/?i=hlogb1Okg7LRM0MxpiYOzw&a=0FRkSDLbVpRCDfGwT-X3Iu9ROIZt7cUAuuGEcRRqVpWRx-Ctd-AHOHSRrrt9hjg4tkNOUDZbEE-kjmU07DW3D0SNS_4QRkZ1gAjCWPozimcHVjh1fGuKFRRaspb9Mh6_kM0NjPXMFWAlZAK6QGSX9Y_QXDrCOX9b-BskCdBiQB0ZfTFIWHbrdTVbzy7YCQS6kExm7E98mQdzCf48Cd88ZQ&sp=n1info&u=n1info&player=http
+https://n1-bg-ku-r1-1.umn.cdn.united.cloud/stream/?i=gcNADgnipvI28C8Zh_mt-Q&a=81m9JcRw1CZ4btKmRk4jJHX_aR8BnXTwR00_G4rU-rCq7Y1lN_hlSyBLcOOv6urnVDoh07EJjm8lAcAD79csxFd2yvlOkgc9e7ABWDeNO85WBMNwcIHI7-roWAcPelaztbyGtCDWxRkga-FfOwxKNJF4u644OVdqxRABoefgeeyIsVXKcwJyUToqbgPfNzxjYQI4TIR_UyGNo-EzlTQPxQ&sp=n1info&u=n1info&player=http
 #EXTINF:-1 tvg-id="BNTV.ba" tvg-name="RTV BN" tvg-logo="https://i.imgur.com/DUBvfWb.png" group-title="General" tvg-country="BA" tvg-quality="720p HD",RTV BN [720p HD]
 #EXTGRP:General
 https://stream2.rtvbn.tv:8080/live_1935/bnstream/index.m3u8

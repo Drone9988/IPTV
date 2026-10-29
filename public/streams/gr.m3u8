@@ -23,6 +23,9 @@ http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 #EXTINF:-1 tvg-id="DeltaTV.gr" tvg-name="Delta Evros" tvg-logo="https://i.imgur.com/PDfSkRF.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",Delta Evros [720p HD]
 #EXTGRP:General
 http://81.171.10.42:1935/liveD/DStream.sdp/chunklist_w819085920.m3u8
+#EXTINF:-1 tvg-id="egnatiatv.gr" tvg-name="Egnatia" tvg-logo="https://i.imgur.com/zuyYIca.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",Egnatia [720p HD]
+#EXTGRP:General
+https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u
 #EXTINF:-1 tvg-id="epsilon.gr" tvg-name="Epsilon" tvg-logo="https://i.imgur.com/vUQSDvZ.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",Epsilon [720p HD]
 #EXTGRP:General
 https://neon.streams.gr:8081/epsilontv/index.m3u8
