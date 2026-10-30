@@ -4,37 +4,37 @@
 
 #EXTINF:-1 tvg-id="CCTV1.cn" tvg-name="CCTV-1 综合" tvg-logo="https://i.imgur.com/uHU6Vc0.png" group-title="General" tvg-country="CN" tvg-quality="720p HD",CCTV-1 综合 [720p HD]
 #EXTGRP:General
-http://192.187.123.50:81/live/cctv1.m3u8?tm=1793313025&key=8876c44e190fb184da35c0c683287343
+http://192.187.123.50:81/live/cctv1.m3u8?tm=1793335273&key=5e4282f8030a1965a15d0990158d28f3
 #EXTINF:-1 tvg-id="CCTV10.cn" tvg-name="CCTV-10 科教" tvg-logo="https://i.imgur.com/W8JNs1s.png" group-title="General" tvg-country="CN" tvg-quality="720p HD",CCTV-10 科教 [720p HD]
 #EXTGRP:General
-http://63.141.239.226:81/live/cctv10md.m3u8?tm=1793313025&key=808f91a3bfb314dd30eeab6949c3ffc2
+http://63.141.239.226:81/live/cctv10md.m3u8?tm=1793335273&key=b9c8ac184baf1c30c026eafc4d5d3ede
 #EXTINF:-1 tvg-id="CCTV12.cn" tvg-name="CCTV-12 社会与法" tvg-logo="https://i.imgur.com/gZNwF1a.png" group-title="General" tvg-country="CN" tvg-quality="720p HD",CCTV-12 社会与法 [720p HD]
 #EXTGRP:General
-http://74.91.26.218:81/live/cctv12md.m3u8?tm=1793313025&key=8688fdec272c4d77dd9568e3db26bf81
+http://74.91.26.218:81/live/cctv12md.m3u8?tm=1793335273&key=29dfe057b0fe22c811d400e421d4cfcd
 #EXTINF:-1 tvg-id="CCTV17.cn" tvg-name="CCTV-17 农业农村" tvg-logo="https://i.imgur.com/XMsoHut.png" group-title="General" tvg-country="CN" tvg-quality="720p HD",CCTV-17 农业农村 [720p HD]
 #EXTGRP:General
-http://107.150.50.82:81/live/cctv17.m3u8?tm=1793313025&key=d3240156694a8bba35b46327c503f69e
+http://107.150.50.82:81/live/cctv17.m3u8?tm=1793335273&key=bf2be832aa3601a2f6685b6bcb43e10a
 #EXTINF:-1 tvg-id="CCTV2.cn" tvg-name="CCTV-2 财经" tvg-logo="https://i.imgur.com/6C9JEYt.png" group-title="General" tvg-country="CN" tvg-quality="720p HD",CCTV-2 财经 [720p HD]
 #EXTGRP:General
-http://107.150.50.82:81/live/cctv2.m3u8?tm=1793313025&key=8b5e5619d6a361209bb01e819e2276ae
+http://192.187.115.106:81/live/cctv2md.m3u8?tm=1793335273&key=7daba10f00ad9372480516a10d5a419a
 #EXTINF:-1 tvg-id="CCTV7.cn" tvg-name="CCTV-7 国防军事" tvg-logo="https://i.imgur.com/GhXlUpM.png" group-title="General" tvg-country="CN" tvg-quality="720p HD",CCTV-7 国防军事 [720p HD]
 #EXTGRP:General
-http://63.141.226.98:81/live/cctv7md.m3u8?tm=1793313025&key=98ee88df2f1f674e6849ebd7016dec75
+http://192.187.115.106:81/live/cctv7md.m3u8?tm=1793335273&key=9b1812a323cd8ba3405fdd1c50970924
 #EXTINF:-1 tvg-id="CCTV8.cn" tvg-name="CCTV-8 电视剧" tvg-logo="https://i.imgur.com/Qg1opg9.png" group-title="General" tvg-country="CN" tvg-quality="720p HD",CCTV-8 电视剧 [720p HD]
 #EXTGRP:General
-http://107.150.50.82:81/live/cctv8.m3u8?tm=1793313025&key=c4aa48da32ef2d4cecf11b2e15e11795
+http://192.187.115.106:81/live/cctv8md.m3u8?tm=1793335273&key=253fe20fb74bf66ec8abbb5bdd005873
 #EXTINF:-1 tvg-id="CCTV9.cn" tvg-name="CCTV-9 纪录" tvg-logo="https://i.imgur.com/Ruyzhu5.png" group-title="General" tvg-country="CN" tvg-quality="720p HD",CCTV-9 纪录 [720p HD]
 #EXTGRP:General
-http://63.141.226.98:81/live/cctv9md.m3u8?tm=1793313025&key=f2f8836c1b8e81adbf67eed904eabd44
+http://63.141.226.98:81/live/cctv9md.m3u8?tm=1793335273&key=ff94a84a16bf20be205213512412d3ac
 #EXTINF:-1 tvg-id="FZTV1.cn" tvg-name="FZTV-1 News 新闻综合频道" tvg-logo="https://i.imgur.com/QvBxGw3.png" group-title="General" tvg-country="CN" tvg-quality="720p HD",FZTV-1 News 新闻综合频道 [720p HD]
 #EXTGRP:General
-http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
+https://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 #EXTINF:-1 tvg-id="FZTV3.cn" tvg-name="FZTV-3 Lifestyle Channel 生活频道" tvg-logo="https://i.imgur.com/jt7CWDT.png" group-title="General" tvg-country="CN" tvg-quality="720p HD",FZTV-3 Lifestyle Channel 生活频道 [720p HD]
 #EXTGRP:General
-https://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 #EXTINF:-1 tvg-id="FZTVkids.cn" tvg-name="FZTV-4 Children 少儿频道" tvg-logo="https://i.imgur.com/J4WtNTX.png" group-title="General" tvg-country="CN" tvg-quality="720p HD",FZTV-4 Children 少儿频道 [720p HD]
 #EXTGRP:General
-http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
+https://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 #EXTINF:-1 tvg-id="TVBRICSChinese.cn" tvg-name="TV BRICS Chinese" tvg-logo="https://i.imgur.com/896132Z.png" group-title="General" tvg-country="CN" tvg-quality="720p HD",TV BRICS Chinese [720p HD]
 #EXTGRP:General
 https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8

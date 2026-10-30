@@ -4,7 +4,7 @@
 
 #EXTINF:-1 tvg-id="rch_108" tvg-name="FNNプライムオンライン" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/105_fnn.png" group-title="General" tvg-country="JP" tvg-quality="720p HD",FNNプライムオンライン [720p HD]
 #EXTGRP:General
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news4-cmaf-rakutenjp/playlist.m3u8
+https://amg01287-rakutentvjapan-news4-cmaf-rakutenjp-vtp1v.amagi.tv/ts-us-w2-n1/playlist/amg01287-rakutentvjapan-news4-cmaf-rakutenjp/playlist.m3u8
 #EXTINF:-1 tvg-id="rch_115" tvg-name="MBSニュース" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/106_mbs.png" group-title="General" tvg-country="JP" tvg-quality="720p HD",MBSニュース [720p HD]
 #EXTGRP:General
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news5-cmaf-rakutenjp/playlist.m3u8
@@ -20,6 +20,3 @@ https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1da
 #EXTINF:-1 tvg-id="ShopChannel.jp" tvg-name="ショップチャンネル" tvg-logo="https://i.imgur.com/CCMAF7W.png" group-title="General" tvg-country="JP" tvg-quality="720p HD",ショップチャンネル [720p HD]
 #EXTGRP:General
 https://stream3.shopch.jp/HLS/master.m3u8
-#EXTINF:-1 tvg-id="rch_47" tvg-name="日テレNEWS" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png" group-title="General" tvg-country="JP" tvg-quality="720p HD",日テレNEWS [720p HD]
-#EXTGRP:General
-https://amg01287-rakutentvjapan-news1hlscmaf-rakutenjp-inhae.amagi.tv/ts-us-w2-n1/playlist/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8

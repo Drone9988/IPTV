@@ -4,13 +4,13 @@
 
 #EXTINF:-1 tvg-id="AbadanTV.ir@SD" tvg-name="Abadan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/3/39/Abadan_tv.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Abadan TV [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1108.telewebion.ir/ek/abadan/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1101.telewebion.ir/ek/abadan/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="AflakTV.ir@SD" tvg-name="Aflak TV" tvg-logo="https://i.imgur.com/LkLCHpf.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Aflak TV [720p HD]
 #EXTGRP:Farsi / Iranian
 https://live-aburayhan1112.telewebion.ir/ek/aflak/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="AftabTV.ir@SD" tvg-name="Aftab TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/6/6e/Arak_AFTAB.svg/960px-Arak_AFTAB.svg.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Aftab TV [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1103.telewebion.ir/ek/aftab/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1108.telewebion.ir/ek/aftab/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="AlWilayah.ir@SD" tvg-name="Al Wilayah (720p)" tvg-logo="https://i.imgur.com/OI1HQv5.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Al Wilayah (720p) [720p HD]
 #EXTGRP:Farsi / Iranian
 https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8
@@ -19,13 +19,13 @@ https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8
 https://live2.alalam.ir/alalam.m3u8
 #EXTINF:-1 tvg-id="AlborzTV.ir@SD" tvg-name="Alborz TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Alborz_TV_logo.svg/960px-Alborz_TV_logo.svg.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Alborz TV [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1111.telewebion.ir/ek/alborz/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1110.telewebion.ir/ek/alborz/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="AmouzeshTV.ir@SD" tvg-name="Amouzesh TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Amouzesh_TV_logo_%282023%29.svg/500px-Amouzesh_TV_logo_%282023%29.svg.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Amouzesh TV [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1103.telewebion.ir/ek/amouzesh/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1109.telewebion.ir/ek/amouzesh/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="AraTV.ir@SD" tvg-name="Ara TV" tvg-logo="https://i.ibb.co/dwSHt2SG/Ara.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Ara TV [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1103.telewebion.ir/ek/ara/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1111.telewebion.ir/ek/ara/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="AraxTV.ir@SD" tvg-name="Arax TV" tvg-logo="" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Arax TV [720p HD]
 #EXTGRP:Farsi / Iranian
 https://araxhls.wns.live/hls/stream.m3u8
@@ -40,7 +40,7 @@ https://arvhls.wns.live/hls/stream.m3u8
 https://live.asil.tv/asiltv/index.m3u8
 #EXTINF:-1 tvg-id="AtrakTV.ir@SD" tvg-name="Atrak TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/2/28/Bojnourd_ATRAK_TV.svg/960px-Bojnourd_ATRAK_TV.svg.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Atrak TV [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1106.telewebion.ir/ek/atrak/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1108.telewebion.ir/ek/atrak/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="AtrinaTV.ir@SD" tvg-name="Atrina TV" tvg-logo="" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Atrina TV [720p HD]
 #EXTGRP:Farsi / Iranian
 https://atrihls.wns.live/hls/stream.m3u8
@@ -52,10 +52,10 @@ https://familyhls.avatv.live/hls/stream.m3u8
 https://avaserieshls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="BaranTV.ir@SD" tvg-name="Baran TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/b/b9/TV_Baran.svg/500px-TV_Baran.svg.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Baran TV [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1108.telewebion.ir/ek/baran/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1102.telewebion.ir/ek/baran/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="BoushehrTV.ir@SD" tvg-name="Boushehr TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/9/94/Bushehr_TV.svg/500px-Bushehr_TV.svg.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Boushehr TV [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1106.telewebion.ir/ek/bushehr/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1112.telewebion.ir/ek/bushehr/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="ClassicTV.ir@SD" tvg-name="Classic TV" tvg-logo="" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Classic TV [720p HD]
 #EXTGRP:Farsi / Iranian
 https://clshls.wns.live/hls/stream.m3u8
@@ -64,28 +64,28 @@ https://clshls.wns.live/hls/stream.m3u8
 https://ronhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="DenaTV.ir@SD" tvg-name="Dena TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/1/1c/Yasuj_DENA.svg/960px-Yasuj_DENA.svg.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Dena TV [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1104.telewebion.ir/ek/dena/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1103.telewebion.ir/ek/dena/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="Energy.ir@SD" tvg-name="Energy" tvg-logo="https://static.telewebion.com/channelsLogo/9c150d8a-c4ab-4f72-9fb6-4e3fb65fc5ee/default" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Energy [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1111.telewebion.ir/na/baenergy/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1108.telewebion.ir/na/baenergy/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="EshraghNetwork.ir@SD" tvg-name="Eshragh Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3AM7W8mE877olzjDXmTN_Sxn_cmR_WAlDKPmE62G8E3cJPJwKdRnIa42quYie9z71Lwo&usqp=CAU" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Eshragh Network [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1105.telewebion.ir/ek/eshragh/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1110.telewebion.ir/ek/eshragh/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="FarsTV.ir@SD" tvg-name="Fars TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/7/7b/Iribfars.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Fars TV [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1104.telewebion.ir/ek/fars/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1105.telewebion.ir/ek/fars/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="GolkhaneTv.ir@SD" tvg-name="Golkhane Tv" tvg-logo="https://static.telewebion.com/channelsLogo/686599d8-c1ee-4557-aa72-b1293a21906d/default" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Golkhane Tv [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1104.telewebion.ir/na/golkhane/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1102.telewebion.ir/na/golkhane/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="HabibTV.ir@SD" tvg-name="Habib TV" tvg-logo="https://i.ibb.co/spZRy7mg/habib.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Habib TV [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1102.telewebion.ir/na/habib/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1107.telewebion.ir/na/habib/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="HamedanTV.ir@SD" tvg-name="Hamedan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/IRIB_Hamadan_tv.svg/960px-IRIB_Hamadan_tv.svg.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Hamedan TV [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1113.telewebion.ir/ek/sina/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1105.telewebion.ir/ek/sina/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="HamoonTV.ir@SD" tvg-name="Hamoon TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/b/bc/Zahedan_Hamoon.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Hamoon TV [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1101.telewebion.ir/ek/hamoon/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1104.telewebion.ir/ek/hamoon/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="ICnet2.ca@SD" tvg-name="ICnet 2" tvg-logo="https://i.imgur.com/Ke5xn4E.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",ICnet 2 [720p HD]
 #EXTGRP:Farsi / Iranian
 https://icnet2hls.wns.live/hls/stream.m3u8
@@ -94,7 +94,7 @@ https://icnet2hls.wns.live/hls/stream.m3u8
 https://ic3hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="IlamTV.ir@SD" tvg-name="Ilam TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ilam_TV.png/960px-Ilam_TV.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Ilam TV [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1112.telewebion.ir/ek/ilam/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1102.telewebion.ir/ek/ilam/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="ImamHusseinTV1.iq@SD" tvg-name="Imam Hussein TV 1 (1080p)" tvg-logo="https://i.imgur.com/pDdUvz7.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="1080p FHD",Imam Hussein TV 1 (1080p) [1080p FHD]
 #EXTGRP:Farsi / Iranian
 https://fa.imamhossaintv.com/live/ih1.m3u8
@@ -112,58 +112,58 @@ https://iran613hls.wns.live/hls/stream.m3u8
 https://hls.irannrtv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="IRIB1.ir@SD" tvg-name="IRIB 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/960px-IRIBTV1.svg.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",IRIB 1 [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1107.telewebion.ir/ek/tv1/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1113.telewebion.ir/ek/tv1/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="IRIB2.ir@SD" tvg-name="IRIB 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/960px-IRIB_TV2_logo.svg.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",IRIB 2 [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1107.telewebion.ir/ek/tv2/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1109.telewebion.ir/ek/tv2/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="IRIB4.ir@SD" tvg-name="IRIB 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_TV4_logo.svg/960px-IRIB_TV4_logo.svg.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",IRIB 4 [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1103.telewebion.ir/ek/tv4/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1113.telewebion.ir/ek/tv4/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="IRIBMostanad.ir@SD" tvg-name="IRIB Mostanad" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/8/89/Mostanad-tv.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",IRIB Mostanad [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1111.telewebion.ir/ek/mostanad/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1106.telewebion.ir/ek/mostanad/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="PooyaTV.ir" tvg-name="IRIB Pooya & Nahal" tvg-logo="https://i.imgur.com/hjeQUtg.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",IRIB Pooya & Nahal [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1108.telewebion.ir/ek/pooya/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1102.telewebion.ir/ek/pooya/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="IRIBUHD.ir@4K" tvg-name="IRIB UHD (2160p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_FARATAR_UHD.png/960px-IRIB_FARATAR_UHD.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="4K UHD",IRIB UHD (2160p) [4K UHD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1111.telewebion.ir/ek/faratar/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1110.telewebion.ir/ek/faratar/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="IsfahanTV.ir@SD" tvg-name="Isfahan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/IsfahanTV.svg/960px-IsfahanTV.svg.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Isfahan TV [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1107.telewebion.ir/ek/esfahan/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1105.telewebion.ir/ek/esfahan/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="JahanbinTV.ir@SD" tvg-name="Jahanbin TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/4/4a/Shahrekord_Jahanbin.svg/960px-Shahrekord_Jahanbin.svg.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Jahanbin TV [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1112.telewebion.ir/ek/jahanbin/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1105.telewebion.ir/ek/jahanbin/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="KermanTV.ir@SD" tvg-name="Kerman TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kerman_irib_logo_%28blue_version%29.png/960px-Kerman_irib_logo_%28blue_version%29.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Kerman TV [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1104.telewebion.ir/ek/kerman/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1101.telewebion.ir/ek/kerman/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="KhalijeFarsTV.ir@SD" tvg-name="Khalij-e Fars TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/7/7c/Bandar_KHALI_J_e_FARS_TV.svg/960px-Bandar_KHALI_J_e_FARS_TV.svg.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Khalij-e Fars TV [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1110.telewebion.ir/ek/khalijefars/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1105.telewebion.ir/ek/khalijefars/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="KhavaranTV.ir@SD" tvg-name="Khavaran TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/8/86/KHAVARAN_tv.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Khavaran TV [720p HD]
 #EXTGRP:Farsi / Iranian
 https://live-aburayhan1103.telewebion.ir/ek/khavaran/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="KhorasanRazaviTV.ir@SD" tvg-name="Khorasan Razavi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/b/bd/%D9%84%D9%88%DA%AF%D9%88_%D8%B4%D8%A8%DA%A9%D9%87_%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86_%D8%B1%D8%B6%D9%88%DB%8C.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Khorasan Razavi TV [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1109.telewebion.ir/ek/khorasanrazavi/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1102.telewebion.ir/ek/khorasanrazavi/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="KhozestanTV.ir@SD" tvg-name="Khozestan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/9/9a/Ahwaz_TV.svg/960px-Ahwaz_TV.svg.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Khozestan TV [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1102.telewebion.ir/ek/khoozestan/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1112.telewebion.ir/ek/khoozestan/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="KishTV.ir@SD" tvg-name="Kish TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/1/14/Kish_tv.svg/960px-Kish_tv.svg.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Kish TV [720p HD]
 #EXTGRP:Farsi / Iranian
 https://live-aburayhan1101.telewebion.ir/ek/kish/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="KordestanTV.ir@SD" tvg-name="Kordestan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/2/2c/Sanandaj_KORDESTAN.svg/960px-Sanandaj_KORDESTAN.svg.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Kordestan TV [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1102.telewebion.ir/ek/kordestan/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1113.telewebion.ir/ek/kordestan/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="LabbaykTV.ir@SD" tvg-name="LabbaykTV" tvg-logo="https://static.telewebion.com/channelsLogo/ZDVlODRiYjI3NWUyOTFmOGJmYjIwOTQyMDAyMzRkMmUzYjVmOGUyMTBhNTE0MGI5ZDAyOTMzZDdmZDQyNDM5OA/default" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",LabbaykTV [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1109.telewebion.ir/na/labbayk/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1106.telewebion.ir/na/labbayk/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="LoveWorldPersia.ng@SD" tvg-name="LoveWorld Persia (720p)" tvg-logo="https://i.imgur.com/Vd2xPxh.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",LoveWorld Persia (720p) [720p HD]
 #EXTGRP:Farsi / Iranian
 https://cdn3.wowza.com/5/aVJETlF0UFdmYTFu/LWPP/ngrp:persia.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="MahabadTV.ir@SD" tvg-name="Mahabad TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/c/cb/Mahabad_tv.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Mahabad TV [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1111.telewebion.ir/ek/mahabad/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1112.telewebion.ir/ek/mahabad/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="MarjaeyatTVPersian.iq@SD" tvg-name="Marjaeyat TV Persian (240p)" tvg-logo="https://i.imgur.com/fCj05f0.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Marjaeyat TV Persian (240p) [720p HD]
 #EXTGRP:Farsi / Iranian
 https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8
@@ -172,16 +172,16 @@ https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8
 http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="NoorTV.ir@SD" tvg-name="Noor TV (Iran)" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/c/ce/Qum_Noor_TV.svg/960px-Qum_Noor_TV.svg.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Noor TV (Iran) [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1112.telewebion.ir/ek/noor/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1106.telewebion.ir/ek/noor/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="NourTV.ae@SD" tvg-name="Nour TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Nourtv_logo.jpg" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Nour TV [720p HD]
 #EXTGRP:Farsi / Iranian
 https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
 #EXTINF:-1 tvg-id="OfoghTV.ir@SD" tvg-name="Ofogh TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/fe/Ofogh_TV_logo.svg/960px-Ofogh_TV_logo.svg.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Ofogh TV [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1105.telewebion.ir/ek/ofogh/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1101.telewebion.ir/ek/ofogh/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="Palestinetv.ir@SD" tvg-name="Palestinetv" tvg-logo="https://i.ibb.co/svrZNZTX/Palestine.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Palestinetv [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1109.telewebion.ir/na/palestine/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1110.telewebion.ir/na/palestine/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="PayvandTV.ir@SD" tvg-name="Payvand TV (Iran) (720p)" tvg-logo="https://i.imgur.com/o2Ww77N.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Payvand TV (Iran) (720p) [720p HD]
 #EXTGRP:Farsi / Iranian
 https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8
@@ -196,70 +196,70 @@ https://phd2hls.persiana.live/hls/stream.m3u8
 https://onehls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="QazvinTV.ir@SD" tvg-name="Qazvin TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/QazvinTV.svg/960px-QazvinTV.svg.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Qazvin TV [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1104.telewebion.ir/ek/qazvin/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1106.telewebion.ir/ek/qazvin/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="QuranTV.ir@SD" tvg-name="Quran TV (Iran)" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/d/df/Quarntvlogo.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Quran TV (Iran) [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1109.telewebion.ir/ek/quran/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1113.telewebion.ir/ek/quran/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="RasoulallahTv.ir@HD" tvg-name="RasoulallahTv (1080p)" tvg-logo="https://i.imgur.com/Jh5ADee.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="1080p FHD",RasoulallahTv (1080p) [1080p FHD]
 #EXTGRP:Farsi / Iranian
 https://avr.host247.net/live/rasoulallahtv/playlist.m3u8
 #EXTINF:-1 tvg-id="RazaviTV.ir@SD" tvg-name="Razavi TV" tvg-logo="https://static.telewebion.com/channelsLogo/85f466a7-7d17-4ce8-bee6-13da4ff5deb1/default" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Razavi TV [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1101.telewebion.ir/ek/razavi/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1113.telewebion.ir/ek/razavi/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="RoyaTV.ir@SD" tvg-name="Roya TV (Iran)" tvg-logo="https://static.telewebion.com/channelsLogo/0e3d7425-1a1b-47c4-b020-2e09a5fc2598/default" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Roya TV (Iran) [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1105.telewebion.ir/na/iribu/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1112.telewebion.ir/na/iribu/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="SabalanTV.ir@SD" tvg-name="Sabalan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/f/f2/Ardabil_SABALAN.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Sabalan TV [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1102.telewebion.ir/ek/sabalan/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1113.telewebion.ir/ek/sabalan/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="SabzTV.ir@SD" tvg-name="Sabz TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_Golestan.png/960px-Logo_Golestan.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Sabz TV [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1103.telewebion.ir/ek/sabz/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1113.telewebion.ir/ek/sabz/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="SahandTV.ir@SD" tvg-name="Sahand TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/3/37/Tabriz_Sahand.svg/960px-Tabriz_Sahand.svg.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Sahand TV [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1109.telewebion.ir/ek/sahand/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1101.telewebion.ir/ek/sahand/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="SalamatTV.ir@SD" tvg-name="Salamat TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/f/f0/IRIB_Salamat_Logo.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Salamat TV [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1103.telewebion.ir/ek/salamat/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1104.telewebion.ir/ek/salamat/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="SarbedaranTV.ir@SD" tvg-name="Sarbedaran TV" tvg-logo="https://static.telewebion.com/channelsLogo/ad6e035d-4215-4d88-a25e-da6ff8e0526f/default" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Sarbedaran TV [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1101.telewebion.ir/ek/sarbedaran/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1105.telewebion.ir/ek/sarbedaran/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="Sat7Pars.cy@SD" tvg-name="Sat 7 Pars" tvg-logo="https://i.imgur.com/VTLQeul.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Sat 7 Pars [720p HD]
 #EXTGRP:Farsi / Iranian
 https://sat7phls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SemnanTV.ir@SD" tvg-name="Semnan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/3/35/Semnan_TV.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Semnan TV [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1105.telewebion.ir/ek/semnan/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1102.telewebion.ir/ek/semnan/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="SepehrTV.ir@SD" tvg-name="Sepehr TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sepehrtv.png/960px-Sepehrtv.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Sepehr TV [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1111.telewebion.ir/ek/sepehr/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1110.telewebion.ir/ek/sepehr/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="TabarestanTV.ir@SD" tvg-name="Tabarestan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/IRIB_Mazandaran_Last_Orange_Logo.png/960px-IRIB_Mazandaran_Last_Orange_Logo.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Tabarestan TV [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1106.telewebion.ir/ek/tabarestan/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1103.telewebion.ir/ek/tabarestan/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="TBNNejatTV.ir@SD" tvg-name="TBN Nejat TV" tvg-logo="https://i.imgur.com/e4WffQA.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",TBN Nejat TV [720p HD]
 #EXTGRP:Farsi / Iranian
 https://hls.nejat.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="TehranTV.ir@SD" tvg-name="Tehran TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/IRIBTV5.svg/500px-IRIBTV5.svg.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Tehran TV [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1113.telewebion.ir/ek/tehran/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1103.telewebion.ir/ek/tehran/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="TMTV.us@SD" tvg-name="TM TV (United States) (720p)" tvg-logo="https://tmlive.tv/wp-content/uploads/2018/07/immigration-consultants-network-en-.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",TM TV (United States) (720p) [720p HD]
 #EXTGRP:Farsi / Iranian
 https://hls.tmtv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="TVANava.ir@SD" tvg-name="TVA Nava" tvg-logo="https://i.imgur.com/JRxrsrw.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",TVA Nava [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1101.telewebion.ir/ek/nava/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1113.telewebion.ir/ek/nava/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="VelayatTV.ir@SD" tvg-name="Velayat TV" tvg-logo="https://static.telewebion.com/channelsLogo/ae05de5b-9fe4-4012-900a-4d0763d6fafc/default" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Velayat TV [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1104.telewebion.ir/ek/velayat/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1101.telewebion.ir/ek/velayat/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="WestAzerbaijanTV.ir@SD" tvg-name="West Azerbaijan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/2/21/Urmia_TV.svg/960px-Urmia_TV.svg.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",West Azerbaijan TV [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1109.telewebion.ir/ek/azarbayjangharbi/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1105.telewebion.ir/ek/azarbayjangharbi/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="WiseHumanTv.ir@HD" tvg-name="WiseHumanTv (1080p)" tvg-logo="https://i.imgur.com/BT7EtfB.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="1080p FHD",WiseHumanTv (1080p) [1080p FHD]
 #EXTGRP:Farsi / Iranian
 https://avr.host247.net/live/WiseHumanTv/playlist.m3u8
 #EXTINF:-1 tvg-id="YazdTV.ir@SD" tvg-name="Yazd TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Yazd_taban.svg/960px-Yazd_taban.svg.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Yazd TV [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1113.telewebion.ir/ek/taban/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1106.telewebion.ir/ek/taban/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 tvg-id="ZagrosTV.ir@SD" tvg-name="Zagros TV (Iran)" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/e/e4/Kermanshah_Zaghros.svg/960px-Kermanshah_Zaghros.svg.png" group-title="Farsi / Iranian" tvg-country="IR" tvg-quality="720p HD",Zagros TV (Iran) [720p HD]
 #EXTGRP:Farsi / Iranian
-https://live-aburayhan1103.telewebion.ir/ek/zagros/live/playlist.m3u8?isp=NA&city=NA
+https://live-aburayhan1102.telewebion.ir/ek/zagros/live/playlist.m3u8?isp=NA&city=NA
