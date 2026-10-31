@@ -23,6 +23,3 @@ https://sktv.mxnticek.eu/new/stream.php?ch=STVR%20Live
 #EXTINF:-1 tvg-id="TA3.sk" tvg-name="TA3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/ta3-sk.png" group-title="General" tvg-country="SK" tvg-quality="720p HD",TA3 [720p HD]
 #EXTGRP:General
 https://sktv.mxnticek.eu/new/stream.php?ch=TA3
-#EXTINF:-1 tvg-id="RTVSSport.sk" tvg-name="Šport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/rtvs-sport-sk.png" group-title="General" tvg-country="SK" tvg-quality="720p HD",Šport [720p HD]
-#EXTGRP:General
-https://sktv.mxnticek.eu/new/stream.php?ch=%C5%A0port
