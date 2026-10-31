@@ -10,16 +10,16 @@ http://khkbh.dk:8080/hls/livestream/index.m3u8
 https://livecdn.euw1-0005.jwplive.com/live/sites/J42OBHtp/media/vvNWt4O9/live.isml/.m3u8
 #EXTINF:-1 tvg-id="TV2Nord.dk" tvg-name="TV 2/Nord" tvg-logo="https://i.imgur.com/tEJ22UW.png" group-title="General" tvg-country="DK" tvg-quality="720p HD",TV 2/Nord [720p HD]
 #EXTGRP:General
-https://grevsen.dk/DRTV/f7eb0b767d23b215a16ae106fcb22122/tv2nord.m3u8
+https://grevsen.dk/DRTV/89a650ba31d40efe472ead154a878ec7/tv2nord.m3u8
 #EXTINF:-1 tvg-id="TV2Ost.dk" tvg-name="TV 2/Øst" tvg-logo="https://i.imgur.com/H9l6Ulw.png" group-title="General" tvg-country="DK" tvg-quality="720p HD",TV 2/Øst [720p HD]
 #EXTGRP:General
-https://grevsen.dk/DRTV/a274af803e7fd199652683ae426a09f9/tveast.m3u8
+https://grevsen.dk/DRTV/21693e5d4c95dd57b67bfdef454ffd77/tveast.m3u8
 #EXTINF:-1 tvg-id="TV2Ostjylland.dk" tvg-name="TV 2/Østjylland" tvg-logo="https://i.imgur.com/qEUXjHp.png" group-title="General" tvg-country="DK" tvg-quality="720p HD",TV 2/Østjylland [720p HD]
 #EXTGRP:General
-https://grevsen.dk/DRTV/e4fe6c5a76b7bee359780b3c3455c84f/tv2oj.m3u8
+https://grevsen.dk/DRTV/2f293d25da772e8d06f8930c76a1a22b/tv2oj.m3u8
 #EXTINF:-1 tvg-id="TVSYD.dk" tvg-name="TV Syd+" tvg-logo="https://i.imgur.com/k2jf591.png" group-title="General" tvg-country="DK" tvg-quality="720p HD",TV Syd+ [720p HD]
 #EXTGRP:General
 https://livecdn.euw1-0005.jwplive.com/live/sites/ZzdficfW/media/bcZFHqNK/live.isml/.m3u8
 #EXTINF:-1 tvg-id="TVMidtvest.dk" tvg-name="TV/Midt-Vest" tvg-logo="https://i.imgur.com/OU7xIVa.png" group-title="General" tvg-country="DK" tvg-quality="720p HD",TV/Midt-Vest [720p HD]
 #EXTGRP:General
-https://grevsen.dk/DRTV/6827bbfce696fd4545fd5c97172c9d7e/tvmidtvest.m3u8
+https://grevsen.dk/DRTV/13e636c017792489145a2bfbcb66c89f/tvmidtvest.m3u8

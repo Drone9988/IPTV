@@ -2,9 +2,6 @@
 #PLAYLIST:Free IPTV - CZ
 #EXT-X-VERSION:3
 
-#EXTINF:-1 tvg-id="CNNPrimaNews.cz" tvg-name="CNN Prima News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/cnn-prima-news-cz.png" group-title="General" tvg-country="CZ" tvg-quality="720p HD",CNN Prima News [720p HD]
-#EXTGRP:General
-https://sktv.mxnticek.eu/new/stream.php?ch=PrimaNews
 #EXTINF:-1 tvg-id="NovaAction.cz" tvg-name="Nova Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-action-cz.png" group-title="General" tvg-country="CZ" tvg-quality="720p HD",Nova Action [720p HD]
 #EXTGRP:General
 https://sktv.mxnticek.eu/new/stream.php?ch=NovaAction
