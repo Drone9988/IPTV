@@ -14,12 +14,12 @@ https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
 #EXTINF:-1 tvg-id="HRFernsehen.de" tvg-name="HR Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/HR-Fernsehen_Logo_2023.svg/500px-HR-Fernsehen_Logo_2023.svg.png" group-title="General" tvg-country="DE" tvg-quality="720p HD",HR Ⓖ [720p HD]
 #EXTGRP:General
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+#EXTINF:-1 tvg-id="NDRFernsehenHamburg.de" tvg-name="NDR Hamburg Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/500px-Logo_NDR_Fernsehen_2017.svg.png" group-title="General" tvg-country="DE" tvg-quality="720p HD",NDR Hamburg Ⓖ [720p HD]
+#EXTGRP:General
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/master.m3u8
 #EXTINF:-1 tvg-id="NDRFernsehenInternational.de" tvg-name="NDR International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/500px-Logo_NDR_Fernsehen_2017.svg.png" group-title="General" tvg-country="DE" tvg-quality="720p HD",NDR International [720p HD]
 #EXTGRP:General
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
-#EXTINF:-1 tvg-id="NDRFernsehenNiedersachsen.de" tvg-name="NDR Niedersachsen Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/500px-Logo_NDR_Fernsehen_2017.svg.png" group-title="General" tvg-country="DE" tvg-quality="720p HD",NDR Niedersachsen Ⓖ [720p HD]
-#EXTGRP:General
-https://ndrint.akamaized.net/hls/live/2020766/ndr_int/master.m3u8
 #EXTINF:-1 tvg-id="SRFernsehen.de" tvg-name="SR Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/SR_Fernsehen_Logo_2023.svg/500px-SR_Fernsehen_Logo_2023.svg.png" group-title="General" tvg-country="DE" tvg-quality="720p HD",SR Ⓖ [720p HD]
 #EXTGRP:General
 https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
