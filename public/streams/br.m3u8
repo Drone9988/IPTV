@@ -5,6 +5,9 @@
 #EXTINF:-1 tvg-id="COMBrasil.br" tvg-name="COM Brasil" tvg-logo="https://i.imgur.com/c8ztQnF.png" group-title="General" tvg-country="BR" tvg-quality="720p HD",COM Brasil [720p HD]
 #EXTGRP:General
 https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
+#EXTINF:-1 tvg-id="ISTVHD.br" tvg-name="ISTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png" group-title="General" tvg-country="BR" tvg-quality="720p HD",ISTV [720p HD]
+#EXTGRP:General
+https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Record_News_logo_2023.svg" group-title="General" tvg-country="BR" tvg-quality="720p HD",Record News [720p HD]
 #EXTGRP:General
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
