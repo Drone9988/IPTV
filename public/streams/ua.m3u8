@@ -26,6 +26,9 @@ http://stream.mcquack.net/174/index.m3u8
 #EXTINF:-1 tvg-id="ITV.ua" tvg-name="ITV" tvg-logo="https://i.imgur.com/NZdT9yJ.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",ITV [720p HD]
 #EXTGRP:General
 http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="M1.ua" tvg-name="M1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/M1_%28Ukraine%29_%282001-2021%29.svg/960px-M1_%28Ukraine%29_%282001-2021%29.svg.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",M1 [720p HD]
+#EXTGRP:General
+http://stream.mcquack.net/218/index.m3u8
 #EXTINF:-1 tvg-id="Mega.ua" tvg-name="Mega" tvg-logo="https://i.imgur.com/F1v69tn.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",Mega [720p HD]
 #EXTGRP:General
 https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8
@@ -38,9 +41,6 @@ https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="Pershyi.ua" tvg-name="Pershyi" tvg-logo="https://i.imgur.com/osTQLED.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",Pershyi [720p HD]
 #EXTGRP:General
 https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
-#EXTINF:-1 tvg-id="PervyygorodskoyOdessa.ua" tvg-name="Pervyy gorodskoy Odessa" tvg-logo="https://i.imgur.com/8qdc6aO.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",Pervyy gorodskoy Odessa [720p HD]
-#EXTGRP:General
-https://live.1tv.od.ua/stream1/channel1/playlist.m3u8
 #EXTINF:-1 tvg-id="SuspilneKultura.ua" tvg-name="Suspilne Kultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Suspilne_Kultura_%282022%29.svg/500px-Suspilne_Kultura_%282022%29.svg.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",Suspilne Kultura [720p HD]
 #EXTGRP:General
 http://stream.mcquack.net/435/index.m3u8
