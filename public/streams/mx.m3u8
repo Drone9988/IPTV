@@ -5,18 +5,12 @@
 #EXTINF:-1 tvg-id="AlcarriaTV.es" tvg-name="Alcarria TV" tvg-logo="https://i.imgur.com/zNSuxVZ.jpg" group-title="General" tvg-country="MX" tvg-quality="720p HD",Alcarria TV [720p HD]
 #EXTGRP:General
 http://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
-#EXTINF:-1 tvg-id="Canal6Multimedios.mx" tvg-name="Canal 6 Multimedios" tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200" group-title="General" tvg-country="MX" tvg-quality="720p HD",Canal 6 Multimedios [720p HD]
-#EXTGRP:General
-https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
 #EXTINF:-1 tvg-id="CanalOnce.mx" tvg-name="Canal Once" tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200" group-title="General" tvg-country="MX" tvg-quality="720p HD",Canal Once [720p HD]
 #EXTGRP:General
 https://vivo.canaloncelive.tv/secureoncedos/oncedigital/playlist.m3u8
 #EXTINF:-1 tvg-id="EstrellaTV.mx" tvg-name="Estrella TV" tvg-logo="https://graph.facebook.com/EstrellaTV/picture?width=200&height=200" group-title="General" tvg-country="MX" tvg-quality="720p HD",Estrella TV [720p HD]
 #EXTGRP:General
 https://amg00567-estrellamedia-estrellatv-estrellamedia-5tdh5.amagi.tv/playlist/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
-#EXTINF:-1 tvg-id="Lasestrellas.tv" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Las_Estrellas.svg" group-title="General" tvg-country="MX" tvg-quality="720p HD",Las Estrellas [720p HD]
-#EXTGRP:General
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="MexicoTravelTV.mx" tvg-name="México Travel TV" tvg-logo="https://graph.facebook.com/MexicoTravelChannelTV/picture?width=200&height=200" group-title="General" tvg-country="MX" tvg-quality="720p HD",México Travel TV [720p HD]
 #EXTGRP:General
 https://5ca9af4645e15.streamlock.net/mexicotravel/videomexicotravel/playlist.m3u8
@@ -25,4 +19,4 @@ https://5ca9af4645e15.streamlock.net/mexicotravel/videomexicotravel/playlist.m3u
 https://stream.ontvmx.com/ontv/ghxTYEQmKkB2UJyVuW/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleFormula.mx" tvg-name="TeleFormula" tvg-logo="https://i.imgur.com/jR6taXt.png" group-title="General" tvg-country="MX" tvg-quality="720p HD",TeleFormula [720p HD]
 #EXTGRP:General
-https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream-gdai/62f2c855f7981b5a5a2d8763/linear/hls/pa/event/pEN-eKQqS3OyqwKvMshcoQ/stream/10275234-d175-4217-a815-597650189df2:TUL/master.m3u8?aid=602140ecd1277a077ef81b34&adInsertionGoogleStreamId=10275234-d175-4217-a815-597650189df2:TUL&pid=T0XAaZIBHGIwCnKpM84DAbWEQVkZe7Js&sid=8WdRYPXozdO1anaBvhvzOIfzfie5DfRG&uid=pzevLpanbgO55YGAGKGnrdNXZ8plPXiJ&es=us-b4-p-e-zs14.cdn.mdstrm.com&ote=1794141303208&ot=t5o40npjrwga1KiHGXEZyA&proto=https&pz=us&access_token=3uN4lDhJX8wOYgpUkon8nOHmryFcB2t9BSuM5lAAGBnpg1uX2i3bGCyLrG8SzYpJerXIY5p6HkY
+https://us-b4-p-e-qg12.cdn.mdstrm.com/live-stream-gdai/62f2c855f7981b5a5a2d8763/linear/hls/pa/event/pEN-eKQqS3OyqwKvMshcoQ/stream/18a874f4-83e2-45fd-8b69-c0e7c4826577:MRN2/master.m3u8?aid=602140ecd1277a077ef81b34&adInsertionGoogleStreamId=18a874f4-83e2-45fd-8b69-c0e7c4826577:MRN2&pid=Qs7yag8ZurlTIDdRXxgMNoStJSEIAwBC&sid=zXVnYQ5he5DKxZboN2P9Hh5M6zRgFVhu&uid=N9rDC8CbBkS6x5Tu7Sg5xNsUkNpUQVlo&es=us-b4-p-e-qg12.cdn.mdstrm.com&ote=1794173482980&ot=yYdk3Hex44Gi4fYSELdQcg&proto=https&pz=us&access_token=Z3Etrule59WI5zHl7hZGvPv2vnNTuShV3MMipl1hwgFVP6SUqJmi2ZmvtiwV0K0hRfh7cz9mMd2
