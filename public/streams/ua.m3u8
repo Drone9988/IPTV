@@ -11,9 +11,6 @@ http://stream.mcquack.net/173/index.m3u8
 #EXTINF:-1 tvg-id="24Kanal.ua" tvg-name="24 Kanal" tvg-logo="https://pbs.twimg.com/profile_images/1498285886714298374/EMSJzC-0_400x400.jpg" group-title="General" tvg-country="UA" tvg-quality="720p HD",24 Kanal [720p HD]
 #EXTGRP:General
 http://streamvideol1.luxnet.ua/news24/livenews.m3u8
-#EXTINF:-1 tvg-id="SK1.ua" tvg-name="CK 1" tvg-logo="https://i.imgur.com/XiXwr5h.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",CK 1 [720p HD]
-#EXTGRP:General
-http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="ICTVSerialy.ua" tvg-name="ICTV Serialy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/ICTV_Serialy_%282024%29.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",ICTV Serialy [720p HD]
 #EXTGRP:General
 http://cdnua05.hls.tv/624/hls/f62d71219200da4130d13b21d23fb23c/4896/stream.m3u8
