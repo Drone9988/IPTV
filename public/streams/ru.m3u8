@@ -23,9 +23,6 @@ http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 #EXTINF:-1 tvg-id="TelekanalZvezda.ru" tvg-name="Звезда" tvg-logo="https://i.imgur.com/c0L0ncA.png" group-title="General" tvg-country="RU" tvg-quality="720p HD",Звезда [720p HD]
 #EXTGRP:General
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
-#EXTINF:-1 tvg-id="Karusel.ru" tvg-name="Карусель Ⓢ" tvg-logo="https://i.imgur.com/4fFMlVq.png" group-title="General" tvg-country="RU" tvg-quality="720p HD",Карусель Ⓢ [720p HD]
-#EXTGRP:General
-https://streaming.goodstream.icu/live/232.m3u8
 #EXTINF:-1 tvg-id="tv.minidey.ru" tvg-name="Министерство Идей" tvg-logo="https://minidey.ru/media/images/logo_minidey_tv.png" group-title="General" tvg-country="RU" tvg-quality="720p HD",Министерство Идей [720p HD]
 #EXTGRP:General
 https://live-minidey.cdnvideo.ru/minidey-srt/minidey/playlist.m3u8
