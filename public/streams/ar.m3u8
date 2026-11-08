@@ -14,9 +14,6 @@ https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-name="Net TV" tvg-logo="https://i.imgur.com/EWmshtx.png" group-title="General" tvg-country="AR" tvg-quality="720p HD",Net TV [720p HD]
 #EXTGRP:General
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" tvg-logo="https://i.imgur.com/wrZfMXn.png" group-title="General" tvg-country="AR" tvg-quality="720p HD",Telefe [720p HD]
-#EXTGRP:General
-http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-logo="https://i.imgur.com/gfX0hdB.png" group-title="General" tvg-country="AR" tvg-quality="720p HD",Telemax [720p HD]
 #EXTGRP:General
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
