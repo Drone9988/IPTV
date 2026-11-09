@@ -14,6 +14,9 @@ https://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:-1 tvg-id="FirstMusicChannel.by" tvg-name="Pervyy Muzykal'nyy BY Ⓢ" tvg-logo="https://i.imgur.com/7tFiG6S.jpg" group-title="General" tvg-country="BY" tvg-quality="720p HD",Pervyy Muzykal'nyy BY Ⓢ [720p HD]
 #EXTGRP:General
 http://rtmp.one.by:1200
+#EXTINF:-1 tvg-id="Belarus1.by" tvg-name="Беларусь 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Belarus_1_logo.svg/960px-Belarus_1_logo.svg.png" group-title="General" tvg-country="BY" tvg-quality="720p HD",Беларусь 1 [720p HD]
+#EXTGRP:General
+https://edge55.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus2.by" tvg-name="Беларусь 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Belarus_2_logo.svg/960px-Belarus_2_logo.svg.png" group-title="General" tvg-country="BY" tvg-quality="720p HD",Беларусь 2 [720p HD]
 #EXTGRP:General
 https://edge55.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
