@@ -35,3 +35,6 @@ https://allanf181.github.io/adaptive-streams/streams/kr/OBSGyeonginTV.m3u8
 #EXTINF:-1 tvg-id="SBSTV.kr" tvg-name="SBS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/500px-SBS_Korea_Logo_%28Word_Only%29.svg.png" group-title="General" tvg-country="KR" tvg-quality="720p HD",SBS TV [720p HD]
 #EXTGRP:General
 https://allanf181.github.io/adaptive-streams/streams/kr/SBSTV.m3u8
+#EXTINF:-1 tvg-id="UBCTV.kr" tvg-name="UBC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ubc_logo2.svg/500px-Ubc_logo2.svg.png" group-title="General" tvg-country="KR" tvg-quality="720p HD",UBC TV [720p HD]
+#EXTGRP:General
+https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8
