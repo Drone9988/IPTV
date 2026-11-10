@@ -56,9 +56,6 @@ https://stream.rai.ua/rai/stream.m3u8
 #EXTINF:-1 tvg-id="TET.ua" tvg-name="TET Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/TET_logo.svg/500px-TET_logo.svg.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",TET Ⓢ [720p HD]
 #EXTGRP:General
 http://stream.mcquack.net/338/index.m3u8
-#EXTINF:-1 tvg-id="TVA.ua" tvg-name="TVA" tvg-logo="https://i.imgur.com/PtTQ5lv.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",TVA [720p HD]
-#EXTGRP:General
-https://hls.cdn.ua/tva.ua_live/livestream/chunklist_.m3u8
 #EXTINF:-1 tvg-id="XSport.ua" tvg-name="XSport Ⓢ" tvg-logo="https://i.imgur.com/CHDcfrT.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",XSport Ⓢ [720p HD]
 #EXTGRP:General
 http://cdnua05.hls.tv/946/hls/8743361621b245838bee193c9ec28322/3999/stream.m3u8

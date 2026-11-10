@@ -11,9 +11,6 @@ https://sktv.mxnticek.eu/new/stream.php?ch=NovaCinema
 #EXTINF:-1 tvg-id="NovaFun.cz" tvg-name="Nova Fun" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-fun-cz.png" group-title="General" tvg-country="CZ" tvg-quality="720p HD",Nova Fun [720p HD]
 #EXTGRP:General
 https://sktv.mxnticek.eu/new/stream.php?ch=NovaFun
-#EXTINF:-1 tvg-id="NovaGold.cz" tvg-name="Nova Gold" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-gold-cz.png" group-title="General" tvg-country="CZ" tvg-quality="720p HD",Nova Gold [720p HD]
-#EXTGRP:General
-https://sktv.mxnticek.eu/new/stream.php?ch=NovaGold
 #EXTINF:-1 tvg-id="NovaLady.cz" tvg-name="Nova Lady" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-lady-cz.png" group-title="General" tvg-country="CZ" tvg-quality="720p HD",Nova Lady [720p HD]
 #EXTGRP:General
 https://sktv.mxnticek.eu/new/stream.php?ch=NovaLady
