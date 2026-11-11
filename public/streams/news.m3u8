@@ -56,9 +56,6 @@ https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:-1 tvg-id="4SiDESTV.in@SD" tvg-name="4 SiDES TV (1080p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/4sites.png" group-title="News" tvg-country="INT" tvg-quality="1080p FHD",4 SiDES TV (1080p) [1080p FHD]
 #EXTGRP:News
 https://stream.ottlive.co.in/4sidestv/index.m3u8
-#EXTINF:-1 tvg-id="4DmasNoticiasTV.py@SD" tvg-name="4Dmas Noticias TV (1080p)" tvg-logo="https://i.ibb.co/1fb5BtN/unnamed.png" group-title="News" tvg-country="INT" tvg-quality="1080p FHD",4Dmas Noticias TV (1080p) [1080p FHD]
-#EXTGRP:News
-https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
 #EXTINF:-1 tvg-id="6TVTelugu.in@SD" tvg-name="6 TV Telugu (576p)" tvg-logo="https://i.imgur.com/l3EcRnZ.png" group-title="News" tvg-country="INT" tvg-quality="SD",6 TV Telugu (576p) [SD]
 #EXTGRP:News
 https://mumbai-edge.smartplaytv.in/6TVTelugu/index.m3u8
@@ -103,7 +100,7 @@ https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive.us@SD" tvg-name="ABC News Live (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="News" tvg-country="INT" tvg-quality="720p HD",ABC News Live (720p) [720p HD]
 #EXTGRP:News
-https://ipv4.pluto.tv/api/tn/video/playout/v2/stitch/hls/channel/6508be683a0d700008c534e4/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImY2YTNiMDg5LTA5ZTctNDBhMS1hMzVkLTdhNmZhY2YxNmJhZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJiMmRkMDQ0MC1kZDA5LTExZjEtYmQ2NC02NjA3YjdjMDkzMmMiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI5LjIwLjAtODkyNTgyOTAyNjQ4Mzg1MTVlMjY0ZjViMDUxYjdjMTYwMmE1ODQ4MiIsImNsaWVudElEIjoiNjk0MjQwMmQtNGM1ZS00YzIwLWI1OGEtNzQwMzNkY2Q0NmI5IiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvTG9zX0FuZ2VsZXMiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7ImFkTG9hZCI6eyJjb2hvcnQiOiIifSwibXVsdGlBdWRpbyI6eyJlbmFibGVkIjp0cnVlfSwibXVsdGlQb2RBZHMiOnsiY29ob3J0IjoiIiwiZW5hYmxlZCI6dHJ1ZX0sInNlYXJjaEFQSSI6eyJxdWVyeVZlcnNpb24iOiJoeWJyaWQifSwic3RpdGNoZXJBZFNlc3Npb25FdmVudCI6eyJlbmFibGVkIjp0cnVlfSwic3RpdGNoZXJEYXNoTmciOnsiaml0UGFjayI6InJlcGFja0ppdCxkZWNyeXB0In0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVySGxzTmdWb2QiOnsiZW5hYmxlZCI6dHJ1ZX19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IjY5NDI0MDJkLTRjNWUtNGMyMC1iNThhLTc0MDMzZGNkNDZiOSIsImZ3VmNJRDJDb3BwYSI6IjY5NDI0MDJkLTRjNWUtNGMyMC1iNThhLTc0MDMzZGNkNDZiOSIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiNjk0MjQwMmQtNGM1ZS00YzIwLWI1OGEtNzQwMzNkY2Q0NmI5IiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAwMCwxMDAwOSJ9fSwic2Vzc2lvblN0YXJ0VGltZSI6MTc5NDMxNjkxNTA0NiwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOlVTOk5qazBNalF3TW1RdE5HTTFaUzAwWXpJd0xXSTFPR0V0TnpRd016TmtZMlEwTm1JNSIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3OTQ0MDMzMTUsImlhdCI6MTc5NDMxNjkxNSwianRpIjoiYjVlNWM2MzItYjdhNC00ZTJiLTllOGUtZmU5YWIyNzFmZmVkIn0.4hxac-wEpPKQ8BNtvGbqdI1jsAbZ4uurOkppTVFv-8Q&includeExtendedEvents=true
+https://ipv4.pluto.tv/api/tn/video/playout/v2/stitch/hls/channel/6508be683a0d700008c534e4/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImY2YTNiMDg5LTA5ZTctNDBhMS1hMzVkLTdhNmZhY2YxNmJhZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJlYjg4MGVmYS1kZDZkLTExZjEtYTZlZi0xZTQ1NzNlZDdjZDAiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI5LjIwLjAtODkyNTgyOTAyNjQ4Mzg1MTVlMjY0ZjViMDUxYjdjMTYwMmE1ODQ4MiIsImNsaWVudElEIjoiMjk1MzA4YTAtNWIwNC00MGNjLWE2ZWUtM2VlOTM5ZDBhNWYyIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvTG9zX0FuZ2VsZXMiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7ImFkTG9hZCI6eyJjb2hvcnQiOiIifSwibXVsdGlBdWRpbyI6eyJlbmFibGVkIjp0cnVlfSwibXVsdGlQb2RBZHMiOnsiY29ob3J0IjoiIiwiZW5hYmxlZCI6dHJ1ZX0sInNlYXJjaEFQSSI6eyJxdWVyeVZlcnNpb24iOiJoeWJyaWQifSwic3RpdGNoZXJBZFNlc3Npb25FdmVudCI6eyJlbmFibGVkIjp0cnVlfSwic3RpdGNoZXJEYXNoTmciOnsiaml0UGFjayI6InJlcGFja0ppdCxkZWNyeXB0In0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVySGxzTmdWb2QiOnsiZW5hYmxlZCI6dHJ1ZX19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IjI5NTMwOGEwLTViMDQtNDBjYy1hNmVlLTNlZTkzOWQwYTVmMiIsImZ3VmNJRDJDb3BwYSI6IjI5NTMwOGEwLTViMDQtNDBjYy1hNmVlLTNlZTkzOWQwYTVmMiIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiMjk1MzA4YTAtNWIwNC00MGNjLWE2ZWUtM2VlOTM5ZDBhNWYyIiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAwMCwxMDAwOSJ9fSwic2Vzc2lvblN0YXJ0VGltZSI6MTc5NDM1OTk1OTc5MywiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOlVTOk1qazFNekE0WVRBdE5XSXdOQzAwTUdOakxXRTJaV1V0TTJWbE9UTTVaREJoTldZeSIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3OTQ0NDYzNTksImlhdCI6MTc5NDM1OTk1OSwianRpIjoiOTZkNDQ4MTgtN2EwNS00YjcyLWI0YTItODZhYTJjODYzYjYyIn0.C0eltA891gQj1zy4x6MKv2UVHudZ9zHAvYQ8vwRGXFY&includeExtendedEvents=true
 #EXTINF:-1 tvg-id="ABCNewsLive1.us@SD" tvg-name="ABC News Live 1 (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="News" tvg-country="INT" tvg-quality="720p HD",ABC News Live 1 (720p) [720p HD]
 #EXTGRP:News
 https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8
@@ -136,7 +133,7 @@ https://abcnews-streams.akamaized.net/hls/live/2023567/abcnewshudson8/master.m3u
 https://abcnews-streams.akamaized.net/hls/live/2023568/abcnewshudson9/master.m3u8
 #EXTINF:-1 tvg-id="ABCTVParaguay.py@SD" tvg-name="ABC-TV Paraguay" tvg-logo="https://i.imgur.com/OqfBMGy.png" group-title="News" tvg-country="INT" tvg-quality="720p HD",ABC-TV Paraguay [720p HD]
 #EXTGRP:News
-http://45.184.109.11/auth/qg9VWUdkWT-PwhsHUoMkOANr00F_91goZ4VSgPpWCHl3lz9LLCzwyzis6V1P2uH7dFX8_y1qd--FzFe4p7-MiNkvS0sI4uFNopBoJOmm1IfiU3Y8Iy86CJBoQchUu1L614afVzuQ_uDfZm0qTXZBwlJtRSFCN_34oJ2eUkZAMPfPzLENE2CE-Y0m5lPv1tRXEBzhNfqIR5WtTxfxan6g8WRcBQLVRvI4SKDUiZq-XY3S4j6zuM5jmlqyLXnj2wLKhAAl2qCixNY6yo9cOpi7-T7dzlqIgGv8MHk6ad6-untu-NaYy7lh5ccTo280-tTTEInKWjbRhjb5kJ5oem_5iUSvpK51G-FksGQSQlNyNpHaMhFI3pcY4HiKD0SdNhii6xohoCv2sNLytMbxxf11Z2GXH1PfSlLLMc4Gqv3pHwF5FaOaCN_Zo9yS3LVU6h4zPHeqvhTQ7eXzbInPDP41wStrBIx22lLWJR-6huBOgn2iXUl2QJttqTMx9c1U2fjGYyFx7-qemVckE0ZmARLEgRbMxnWhqZBHNc4l4CKomMIMGy_6qBAp82t8QluEyOGNFRH_wzrRoZuhMiIJiDSY_Au-ed2XQsiAv7F001VL1gs
+http://45.184.109.11/auth/qg9VWUdkWT-PwhsHUoMkOANr00F_91goZ4VSgPpWCHl3lz9LLCzwyzis6V1P2uH7dFX8_y1qd--FzFe4p7-MiNkvS0sI4uFNopBoJOmm1IdNGyQehHjrW2kAvKkg__3w0PskzyokRtgk1a2WYoQk8NKcODw19X8_xU_i09B3eXlcUtkRGzpvWyle14O4gYuBVmQ33gyc5QhpJ0as16pK1fW0Tne3Kq-obveySgMFZ-UnYndo_aQ2YYEeqVgczqsIOr7pwXVEVHtDxNNOG-B14y-734PM7PfMZIble9pR0GhV4LfOCtUzKNyQwAKkLwUbRc-2hado3-XEOJkBVgd84Pzbl8b9Fss1GI2CVlrwomeI7ipuLd9Q62dparsVDF9i4S2McUrZ-_GpocYgR-Q46Omp5_thXDg8naX4QRGCD-tgqhQmQSGGkQUQ82oRsY2VpvVVF4bf03KKhABR-Lx1PYvASPFFVuHYuOveYU_z6uH8Bn6Qkt__PtvysAYzR_7oJom0F-ksYTvMo8ElR6lnFLEuBslANZeRttn7L1e2fNRv9OlUp_Mcc9t5X-lb7Cyq81x1rjSL9eSWnWikmMl2uMJ5uM7Gcr6auaOkQz65-pioCoMtA0mk0Tp5m-J_Eel1
 #EXTINF:-1 tvg-id="ABNAndhraJyoti.in@SD" tvg-name="ABN Andhra Jyoti (720p)" tvg-logo="https://dtil.tmsimg.com/assets/s142517_ld_h15_aa.png?lock=720x540" group-title="News" tvg-country="INT" tvg-quality="720p HD",ABN Andhra Jyoti (720p) [720p HD]
 #EXTGRP:News
 https://mumbai-edge.smartplaytv.in/ABNAJ/index.m3u8
@@ -169,22 +166,22 @@ https://ipv4.pluto.tv/api/tn/video/playout/v2/stitch/hls/channel/67517fae5534bb0
 https://s5.mexside.net:1936/clientetv/clientetv/playlist.m3u8
 #EXTINF:-1 tvg-id="ADN40.mx@SD" tvg-name="ADN 40 (720p)" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="News" tvg-country="INT" tvg-quality="720p HD",ADN 40 (720p) [720p HD]
 #EXTGRP:News
-https://us-b4-p-e-ml19.cdn.mdstrm.com/live-stream-gdai/60b578b060947317de7b57ac/linear/hls/pa/event/ajJQI39aQd69Omr0hRZw9Q/stream/ea614c1c-36b6-4f2e-9f6e-ce96d36a5a17:MRN2/master.m3u8?aid=5fea0f3673148d5d52cf6a76&adInsertionGoogleStreamId=ea614c1c-36b6-4f2e-9f6e-ce96d36a5a17:MRN2&pid=aU6YT8PWJXvoLeDxXaXGjEucAMZYXYij&sid=CaNSe9vPEJ2UnYwkpcg6xkgNFm57VenL&uid=hQgu1sz81cER7E9w6KV7tcBerZyMo1TJ&es=us-b4-p-e-ml19.cdn.mdstrm.com&ote=1794437652289&ot=qcAe6QpDbfHRom-Y6ZrA4g&proto=https&pz=us&access_token=zvnsfZgdyxwHbhkObbp3jdEUMAe51s0LIN223ZjEHQLj8iMW4HjRnMmnYKoOcphNnVhxEgL0IVs
+https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream-gdai/60b578b060947317de7b57ac/linear/hls/pa/event/ajJQI39aQd69Omr0hRZw9Q/stream/e262f1a1-4a97-49bd-b349-8a595c01b17b:CHS/master.m3u8?aid=5fea0f3673148d5d52cf6a76&adInsertionGoogleStreamId=e262f1a1-4a97-49bd-b349-8a595c01b17b:CHS&pid=jZeWPAUI2Lrma3FOPWEXe4OGsmA1yxwM&sid=JDUox0xr1kG7qq3il5CtDvzaFrX8F0yb&uid=pSr3GOJB8neVR9w2UdBhfVYmlowzZ8LF&es=us-b4-p-e-zs14.cdn.mdstrm.com&ote=1794459463343&ot=yCOX_kcpyfx_DaSu1HoNyA&proto=https&pz=us&access_token=ZzRVPBFXQQSmaaxb41JMRSsxJxi1Z0cW3cR4A1Rt0YOn684El7ajfGKeyZVTVbKWCp0izgjHoJQ
 #EXTINF:-1 tvg-id="ADNTV.cl@SD" tvg-name="ADN TV (720p)" tvg-logo="https://i.imgur.com/AVfTwNw.png" group-title="News" tvg-country="INT" tvg-quality="720p HD",ADN TV (720p) [720p HD]
 #EXTGRP:News
-https://jireh-7-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8?dpssid=b211657769176af3a09472d02&sid=ba5t1l1xb28206644056af3a09472d00&ndvc=1
+https://jireh-9-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8?dpssid=b29223679866af3f5c740a77&sid=ba5t1l1xb213010672426af3f5c740a76&ndvc=1
 #EXTINF:-1 tvg-id="AfghanistanInternational.uk@SD" tvg-name="Afghanistan International (720p)" tvg-logo="https://i.imgur.com/r8MmFRX.png" group-title="News" tvg-country="INT" tvg-quality="720p HD",Afghanistan International (720p) [720p HD]
 #EXTGRP:News
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Africa24.fr@SD" tvg-name="Africa 24 (1080p)" tvg-logo="https://africa24tv.com/wp-content/uploads/2021/09/logo.png" group-title="News" tvg-country="INT" tvg-quality="1080p FHD",Africa 24 (1080p) [1080p FHD]
 #EXTGRP:News
-https://edge16.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
+https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 #EXTINF:-1 tvg-id="Africa24English.fr@SD" tvg-name="Africa 24 English (1080p)" tvg-logo="https://africa24tv.com/wp-content/uploads/2023/12/logo-Africa24TVEnglish.png" group-title="News" tvg-country="INT" tvg-quality="1080p FHD",Africa 24 English (1080p) [1080p FHD]
 #EXTGRP:News
 https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
 #EXTINF:-1 tvg-id="Africa24Sport.fr@SD" tvg-name="Africa 24 Sport (1080p)" tvg-logo="https://i0.wp.com/africa24tv.com/wp-content/uploads/2023/12/LOGO-AFRICASPORT-4-HD-sans-fond.png?fit=512%2C107&ssl=1" group-title="News" tvg-country="INT" tvg-quality="1080p FHD",Africa 24 Sport (1080p) [1080p FHD]
 #EXTGRP:News
-https://edge20.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+https://edge14.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 #EXTINF:-1 tvg-id="AfricanewsEnglish.fr@SD" tvg-name="Africanews English (720p)" tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="News" tvg-country="INT" tvg-quality="720p HD",Africanews English (720p) [720p HD]
 #EXTGRP:News
 https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
@@ -217,7 +214,7 @@ https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
 #EXTINF:-1 tvg-id="AlGhadTV.eg@SD" tvg-name="Al Ghad TV (1080p)" tvg-logo="https://i.imgur.com/ga6NXb9.png" group-title="News" tvg-country="INT" tvg-quality="1080p FHD",Al Ghad TV (1080p) [1080p FHD]
 #EXTGRP:News
-https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8?sid=zbq0mqFXaUGKdbs65dohcw
+https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8?sid=QrZ4JiYk-k2w3L7AJZehuw
 #EXTINF:-1 tvg-id="AlHadath.sa@SD" tvg-name="Al Hadath (1080p)" tvg-logo="https://i.imgur.com/De4SEWE.png" group-title="News" tvg-country="INT" tvg-quality="1080p FHD",Al Hadath (1080p) [1080p FHD]
 #EXTGRP:News
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8
@@ -251,9 +248,6 @@ https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8
 #EXTINF:-1 tvg-id="AlMasarTV.ly@SD" tvg-name="Al Masar TV (576p)" tvg-logo="https://play-lh.googleusercontent.com/FHPrsr391mPFqKfTq6ZdvWPZNVfsZeTAVQ8rjQF-NosnRdNipUy5xa43RWkiF4tGcQU" group-title="News" tvg-country="INT" tvg-quality="SD",Al Masar TV (576p) [SD]
 #EXTGRP:News
 https://starmenajo.com/hls/almasar/index.m3u8
-#EXTINF:-1 tvg-id="AlMashhad.ae@SD" tvg-name="Al Mashhad (1080p)" tvg-logo="https://i.imgur.com/6G6fxs5.png" group-title="News" tvg-country="INT" tvg-quality="1080p FHD",Al Mashhad (1080p) [1080p FHD]
-#EXTGRP:News
-https://amg30483-amg30483c23-amgplt0794.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30483-amg30483c23-amgplt0794/playlist.m3u8?ads.appname=%5BAPP_NAME%5D&ads.appstoreurl=%5BAPP_STOREURL%5D&ads.appversion=%5BAPP_VERSION%5D&ads.bundleid=%5BAPP_BUNDLE%5D&ads.coppa=0&ads.country=%5BCOUNTRY%5D&ads.deviceid=%5BDEVICE_ID%5D&ads.devicemake=%5BDEVICE_MAKE%5D&ads.devicemodel=%5BDEVICE_MODEL%5D&ads.devicetype=%5BDEVICE_TYPE%5D&ads.donotsell=%5BDNS%5D&ads.fck=%5BFCK%5D&ads.gdpr=%5BGDPR%5D&ads.gdprconsent=%5BGDPR_CONSENT%5D&ads.givn=%5BNONCE%5D&ads.ic=%5BIC%5D&ads.ifa=%5BIFA%5D&ads.ifatype=%5BIFA_TYPE%5D&ads.ip=%5BIP%5D&ads.lat=%5BLMT%5D&ads.network_name=%5Bnetworkname%5D&ads.targetad=%5BTARGETAD_ALLOWED%5D&ads.ua=%5BUA%5D&ads.usprivacy=%5BUS_PRIVACY%5D&ads.viewsize=%5BVIEWSIZE%5D
 #EXTINF:-1 tvg-id="AlMasirah.ye@SD" tvg-name="Al Masirah (720p)" tvg-logo="https://i.imgur.com/V055t5e.png" group-title="News" tvg-country="INT" tvg-quality="720p HD",Al Masirah (720p) [720p HD]
 #EXTGRP:News
 https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8
@@ -377,9 +371,6 @@ https://mars.streambridge.cloud/sls/ashwaveega/playlist.m3u8
 #EXTINF:-1 tvg-id="AsianNews.in@SD" tvg-name="Asian News (1080p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asian_News.png" group-title="News" tvg-country="INT" tvg-quality="1080p FHD",Asian News (1080p) [1080p FHD]
 #EXTGRP:News
 https://stream.ottlive.co.in/asiannews/index.m3u8
-#EXTINF:-1 tvg-id="AsianetNews.in@SD" tvg-name="Asianet News (1080p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASIANET_NEWS/images/LOGO_HD/image.png" group-title="News" tvg-country="INT" tvg-quality="1080p FHD",Asianet News (1080p) [1080p FHD]
-#EXTGRP:News
-https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8
 #EXTINF:-1 tvg-id="AstraTV.gr@SD" tvg-name="Astra TV (1080p)" tvg-logo="https://i.imgur.com/oYRPfZm.png" group-title="News" tvg-country="INT" tvg-quality="1080p FHD",Astra TV (1080p) [1080p FHD]
 #EXTGRP:News
 https://server.gointernet.gr/live/livestream.m3u8
@@ -454,10 +445,7 @@ https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
 https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
 #EXTINF:-1 tvg-id="CNBCAsia.sg@HD" tvg-name="CNBC Asia HD (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png" group-title="News" tvg-country="INT" tvg-quality="1080p FHD",CNBC Asia HD (1080p) [1080p FHD]
 #EXTGRP:News
-https://pop14-ec3-ateme.tv360.vn/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk0Mzc2NDkyIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy80Njk0NjkvSExTX0NsZWFuX01ITF82cy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjEwNzNlYzg2MTQxYmQxMmQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE3Mi4yNC4xNzMuMTk2Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiIxMzgiLCJzb3VyY2VzIjpbNDk1XX0=.VraMQqjN5umPaBvhZcf-Q0jSDMmkKm1J-lKStC05dpA6bp3vtK6LkP066F2zkmkkNrYWxA2o-H3AiI8z5262SA==/live/eds/469469/HLS_Clean_MHL_6s/index.m3u8?screen=MHL&uid=64230292
-#EXTINF:-1 tvg-id="CNBCEurope.uk" tvg-name="CNBC Europe" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1088.png" group-title="News" tvg-country="INT" tvg-quality="720p HD",CNBC Europe [720p HD]
-#EXTGRP:News
-https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsunges/playlist.m3u8
+https://pop14-ec3-ateme.tv360.vn/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk0Mzk4MzA1Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy80Njk0NjkvSExTX0NsZWFuX01ITF82cy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjFmYTdhNjY3OTJiZmMyYjAiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE3Mi4yNC4xNzMuMTk2Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiIxMzgiLCJzb3VyY2VzIjpbNDk1XX0=.tFhpHNjGdT7mLIbfBB4XXVnhGuirsMzhDUvtXvLwVQSpodenuoz2Bdd3-nyBQDorj340U9BSmQjwZGy6nKYljQ==/live/eds/469469/HLS_Clean_MHL_6s/index.m3u8?screen=MHL&uid=64230292
 #EXTINF:-1 tvg-id="CNBCTV18.in@SD" tvg-name="CNBC TV18 (1080p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNBCTV18.png" group-title="News" tvg-country="INT" tvg-quality="1080p FHD",CNBC TV18 (1080p) [1080p FHD]
 #EXTGRP:News
 https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
@@ -488,9 +476,6 @@ https://fta.ektv.in/live/647/master.m3u8
 #EXTINF:-1 tvg-id="ABPSanjha.in@SD" tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="News",ABP Sanjha (576p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Sanjha.png" group-title="News" tvg-country="INT" tvg-quality="SD",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="News",ABP Sanjha (576p) [SD]
 #EXTGRP:News
 https://fta.ektv.in/live/641/master.m3u8
-#EXTINF:-1 tvg-id="AsianetSuvarnaNews.in@SD" tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="News",Asianet Suvarna News (576p)" tvg-logo="https://dtil.tmsimg.com/assets/s142682_ld_h15_aa.png?lock=720x540" group-title="News" tvg-country="INT" tvg-quality="SD",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="News",Asianet Suvarna News (576p) [SD]
-#EXTGRP:News
-https://fta.ektv.in/live/692/master.m3u8
 #EXTINF:-1 tvg-id="Antena3CNN.ro@SD" tvg-name="like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0" group-title="News",Antena 3 CNN (1080p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Antena_3_CNN_2022_v1.png/revision/latest/scale-to-width-down/512" group-title="News" tvg-country="INT" tvg-quality="1080p FHD",like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0" group-title="News",Antena 3 CNN (1080p) [1080p FHD]
 #EXTGRP:News
 https://live3vox.antenaplay.ro/a3free/a3free.m3u8
