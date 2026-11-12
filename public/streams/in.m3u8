@@ -1,0 +1,22 @@
+#EXTM3U url-tvg="epg.xml" x-tvg-url="epg.xml" refresh="3600"
+#PLAYLIST:Free IPTV - IN
+#EXT-X-VERSION:3
+
+#EXTINF:-1 tvg-id="[ABP News](https://abplive.com)" tvg-name="ABP News" tvg-logo="https://i.imgur.com/DKHUFVQ.png" group-title="General" tvg-country="IN" tvg-quality="720p HD",ABP News [720p HD]
+#EXTGRP:General
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8
+#EXTINF:-1 tvg-id="NDTVIndia.in" tvg-name="NDTV India" tvg-logo="https://i.imgur.com/QjJYohG.png" group-title="General" tvg-country="IN" tvg-quality="720p HD",NDTV India [720p HD]
+#EXTGRP:General
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+#EXTINF:-1 tvg-id="NDTVProfit.com" tvg-name="NDTV Profit" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/NDTV_Profit.svg/1280px-NDTV_Profit.svg.png" group-title="General" tvg-country="IN" tvg-quality="720p HD",NDTV Profit [720p HD]
+#EXTGRP:General
+https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8
+#EXTINF:-1 tvg-id="TV9Kannada.in" tvg-name="TV9 Kannada" tvg-logo="https://i.imgur.com/9rBgkxG.png" group-title="General" tvg-country="IN" tvg-quality="720p HD",TV9 Kannada [720p HD]
+#EXTGRP:General
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9kanmo6oiq/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="TV9Marathi.in" tvg-name="TV9 Marathi" tvg-logo="https://i.imgur.com/k7urrIv.jpeg" group-title="General" tvg-country="IN" tvg-quality="720p HD",TV9 Marathi [720p HD]
+#EXTGRP:General
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="TV9Telugu.in" tvg-name="TV9 Telugu" tvg-logo="https://i.imgur.com/oHAdC30.png" group-title="General" tvg-country="IN" tvg-quality="720p HD",TV9 Telugu [720p HD]
+#EXTGRP:General
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8

@@ -7,7 +7,7 @@
 https://amg01287-rakutentvjapan-news4-cmaf-rakutenjp-vtp1v.amagi.tv/ts-us-w2-n1/playlist/amg01287-rakutentvjapan-news4-cmaf-rakutenjp/playlist.m3u8
 #EXTINF:-1 tvg-id="rch_115" tvg-name="MBSニュース" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/106_mbs.png" group-title="General" tvg-country="JP" tvg-quality="720p HD",MBSニュース [720p HD]
 #EXTGRP:General
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news5-cmaf-rakutenjp/playlist.m3u8
+https://amg01287-rakutentvjapan-news5-cmaf-rakutenjp-wfuin.amagi.tv/ts-us-w2-n1/playlist/amg01287-rakutentvjapan-news5-cmaf-rakutenjp/playlist.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK WORLD JAPAN" tvg-logo="https://i.imgur.com/Mhw1Ihk.png" group-title="General" tvg-country="JP" tvg-quality="720p HD",NHK WORLD JAPAN [720p HD]
 #EXTGRP:General
 https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
