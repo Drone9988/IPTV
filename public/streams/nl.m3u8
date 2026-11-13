@@ -7,7 +7,7 @@
 http://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
 #EXTINF:-1 tvg-id="NH.nl" tvg-name="NH Nieuws" tvg-logo="https://i.imgur.com/SQPVOwn.png" group-title="General" tvg-country="NL" tvg-quality="720p HD",NH Nieuws [720p HD]
 #EXTGRP:General
-https://n1.cdn.jetstre.am/session/34dd13b2a0b7460c6a69c6e809373752/sz/nhnieuws/wowza4/live/live/playlist.m3u8?token=SH5YuHfBYzPv36GRXVzr7g&time=1794578825
+https://n1.cdn.jetstre.am/session/63f93593286c309ab1eccadf61283523/sz/nhnieuws/wowza4/live/live/playlist.m3u8?token=3ZjX6TSegqPRaIORRJYkow&time=1794612263
 #EXTINF:-1 tvg-id="OmroepBrabantTV.nl" tvg-name="Omroep Brabant" tvg-logo="https://i.imgur.com/Jv7IjHJ.png" group-title="General" tvg-country="NL" tvg-quality="720p HD",Omroep Brabant [720p HD]
 #EXTGRP:General
 http://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8

@@ -104,9 +104,6 @@ http://193.225.32.62:8890/live.m3u8
 #EXTINF:-1 tvg-id="M1.hu" tvg-name="M1 Ⓖ" tvg-logo="https://i.imgur.com/neddXUd.png" group-title="General" tvg-country="HU" tvg-quality="720p HD",M1 Ⓖ [720p HD]
 #EXTGRP:General
 http://141.94.193.53/M1_HD/index.m3u8
-#EXTINF:-1 tvg-id="M2.hu" tvg-name="M2 / Petőfi TV Ⓖ" tvg-logo="https://i.imgur.com/CzaDhmA.png" group-title="General" tvg-country="HU" tvg-quality="720p HD",M2 / Petőfi TV Ⓖ [720p HD]
-#EXTGRP:General
-http://141.94.193.53/M2_HD/index.m3u8
 #EXTINF:-1 tvg-id="M4Sport.hu" tvg-name="M4 Sport Ⓖ" tvg-logo="https://nb1.hu/uploads/news/3/31023.jpg" group-title="General" tvg-country="HU" tvg-quality="720p HD",M4 Sport Ⓖ [720p HD]
 #EXTGRP:General
 http://141.94.193.53/M4_Sport_HD/index.m3u8
@@ -127,7 +124,7 @@ http://141.94.193.53/Nat_Geo_HD/index.m3u8
 https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="PannonRTV.hu" tvg-name="Pannon RTV" tvg-logo="https://i.imgur.com/iD5tCjX.png" group-title="General" tvg-country="HU" tvg-quality="720p HD",Pannon RTV [720p HD]
 #EXTGRP:General
-https://stream2.nmih.hu:4102/hls/eaefe255678b3c9ce0e93a60e6929b2a/live.m3u8
+https://stream2.nmih.hu:4102/hls/4b3f44872c815d63f425adbd937d2797/live.m3u8
 #EXTINF:-1 tvg-id="Parlamentikzvetts.hu" tvg-name="Parlamenti közvetítés" tvg-logo="" group-title="General" tvg-country="HU" tvg-quality="720p HD",Parlamenti közvetítés [720p HD]
 #EXTGRP:General
 https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8
@@ -172,7 +169,7 @@ http://141.94.193.53/Sport_2_HD/index.m3u8
 http://141.94.193.53/Story4_HD/index.m3u8
 #EXTINF:-1 tvg-id="TVEger.hu" tvg-name="TV Eger" tvg-logo="https://i.imgur.com/GUVW073.png" group-title="General" tvg-country="HU" tvg-quality="720p HD",TV Eger [720p HD]
 #EXTGRP:General
-http://stream.tveger.hu:8010/hls/b619bb0b770090c6a0f9b22e5fbd626e/live.m3u8
+http://stream.tveger.hu:8010/hls/7bd0efdb53b931c6b1618bbdca4e31e7/live.m3u8
 #EXTINF:-1 tvg-id="TVPaprika.hu" tvg-name="TV Paprika Ⓖ" tvg-logo="https://www.tvmustra.hu/logok/csatikon/tvpaprika.gif" group-title="General" tvg-country="HU" tvg-quality="720p HD",TV Paprika Ⓖ [720p HD]
 #EXTGRP:General
 http://141.94.193.53/TV_Paprika_HD/index.m3u8
@@ -205,4 +202,4 @@ https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8
 https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="OzdiVarosiTV.hu" tvg-name="Ózdi Városi TV" tvg-logo="https://i.imgur.com/5cOpdRp.jpg" group-title="General" tvg-country="HU" tvg-quality="720p HD",Ózdi Városi TV [720p HD]
 #EXTGRP:General
-http://stream.nmih.hu:7980/hls/3cd3a4a7ceffb86195f4c46e3c4bd3d7/live.m3u8
+http://stream.nmih.hu:7980/hls/9826bfdbbb9d2501d9cfd14ac3529f8c/live.m3u8
