@@ -79,7 +79,7 @@ http://92.114.85.87:8014/play/a00a/index.m3u8
 https://edge01.cdn.emitel.pl/bpk-tv/Puls2_HD/hbbtv-hls/index.m3u8
 #EXTINF:-1 tvg-id="RedCarpetTVInternational.pl" tvg-name="Red Carpet TV International (1080p)" tvg-logo="https://i.imgur.com/xf7UXCA.png" group-title="General" tvg-country="PL" tvg-quality="1080p FHD",Red Carpet TV International (1080p) [1080p FHD]
 #EXTGRP:General
-https://fast-rakuten.okast.tv/channels/1a6ecfaa-40c6-41b8-8634-595c424f856e/21f67fd1-4d21-43ba-8ad8-3afac9982c25/master.m3u8?bpkio_sessionid=10d1c204c1-ff6f99b4-ad69-4c28-b637-8ab38e5d9789&bpkio_serviceid=fa2e8c4385712f9a9076eaf728c751de&category=all
+https://fast-rakuten.okast.tv/channels/1a6ecfaa-40c6-41b8-8634-595c424f856e/21f67fd1-4d21-43ba-8ad8-3afac9982c25/master.m3u8?bpkio_sessionid=10e1e204d1-9c212b86-b16a-446f-9a56-2cf2d1732cec&bpkio_serviceid=fa2e8c4385712f9a9076eaf728c751de&category=all
 #EXTINF:-1 tvg-id="RomanceTV.pl" tvg-name="Romance TV (576i) Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Romance_TV_Logo_10.2019.svg/960px-Romance_TV_Logo_10.2019.svg.png" group-title="General" tvg-country="PL" tvg-quality="720p HD",Romance TV (576i) Ⓢ [720p HD]
 #EXTGRP:General
 http://92.114.85.87:8009/play/a00a/index.m3u8
@@ -116,9 +116,6 @@ https://cdn01.aztv.pl/live_tvjaslo/live_tvjaslo.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TelewizjaLuban.pl" tvg-name="Telewizja Luban (720p)" tvg-logo="https://i.imgur.com/t2BGp0G.jpeg" group-title="General" tvg-country="PL" tvg-quality="720p HD",Telewizja Luban (720p) [720p HD]
 #EXTGRP:General
 http://stream.herissons.cloud/hls/tvluban.m3u8
-#EXTINF:-1 tvg-id="TelewizjaRegionalnaZary.pl" tvg-name="Telewizja Regionalna Zary Ⓢ" tvg-logo="https://i.imgur.com/FB9H8DO.png" group-title="General" tvg-country="PL" tvg-quality="720p HD",Telewizja Regionalna Zary Ⓢ [720p HD]
-#EXTGRP:General
-https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd_output_0.m3u8
 #EXTINF:-1 tvg-id="TelewizjaRelax.pl" tvg-name="Telewizja Relax (1080p)" tvg-logo="https://i.imgur.com/dejnH0O.png" group-title="General" tvg-country="PL" tvg-quality="1080p FHD",Telewizja Relax (1080p) [1080p FHD]
 #EXTGRP:General
 https://srv1.streamingo.pl/memfs/be50f17e-6579-4bdf-86b1-31207aec85b8.m3u8
@@ -143,9 +140,6 @@ https://edge01.cdn.emitel.pl/bpk-tv/Puls_HD/hbbtv-hls/index.m3u8
 #EXTINF:-1 tvg-id="TVPuls.pl" tvg-name="TV Puls HD (1080p)" tvg-logo="https://i.imgur.com/gXA7pai.png" group-title="General" tvg-country="PL" tvg-quality="1080p FHD",TV Puls HD (1080p) [1080p FHD]
 #EXTGRP:General
 https://edge06.cdn.emitel.pl/bpk-tv/Puls2_HD/hbbtv-hls/index.m3u8
-#EXTINF:-1 tvg-id="TVRegionalnaLubin.pl" tvg-name="TV Regionalna Lubin (1080p)" tvg-logo="https://i.imgur.com/2WVNt3f.png" group-title="General" tvg-country="PL" tvg-quality="1080p FHD",TV Regionalna Lubin (1080p) [1080p FHD]
-#EXTGRP:General
-https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd.m3u8
 #EXTINF:-1 tvg-id="TVRepublika.pl" tvg-name="TV Republika Ⓢ" tvg-logo="https://i.imgur.com/ljpK6dZ.png" group-title="General" tvg-country="PL" tvg-quality="720p HD",TV Republika Ⓢ [720p HD]
 #EXTGRP:General
 http://92.114.85.87:8018/play/a008/index.m3u8

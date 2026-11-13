@@ -4,16 +4,16 @@
 
 #EXTINF:-1 tvg-id="N1BosniaHerzegovina.ba" tvg-name="N1 Bosna i Hercegovina" tvg-logo="https://i.imgur.com/72oMSWz.png" group-title="General" tvg-country="BA" tvg-quality="720p HD",N1 Bosna i Hercegovina [720p HD]
 #EXTGRP:General
-https://n1-bg-ku-r1-2.umn.cdn.united.cloud/stream/?i=zkqd3dYbiXsD5VtsidkAhA&a=7MTAIK6GHOg8CIpaIu9NFOgR1Pdc1D9D73Ry-6gVPRZVFuwaSpHbYv3Otlk6Sslq7nLJ0B29pnrtEeJ1qzkheXW5VAedH4ERDRYOpaZp0xYTJQvCoGCcWAdT4wWepn-SzWDaDB9CVy_g0leGqQE6g4QcoELv7Wvtenjfy3xhlFipnlj-TreJII9Fo_cXGq1SygYAZHHeFK_5TYqmTuSHFg&sp=n1info&u=n1info&player=http
+https://n1-bg-ku-r1-1.umn.cdn.united.cloud/stream/?i=uaE9XpCDbOyQPZHr_U0giQ&a=0n7lgoypImMEOWncWU_aivFOsrST86TM-zESOdAK374TenBYis37UwsFoKQrwvursj3v79B1irEJw0kYSYmIdtMuSJb5H6C5YmXath0gi3ivOgHJjHtmymEiziCvl9-mqw15JjdR1ci3BxloQtgBmtrtj4xiR8JjNtUExePgkKWbfOG_dM6objVkN2uGRCcd9Tvvzxehu3dXrZzagDgbtQ&sp=n1info&u=n1info&player=http
 #EXTINF:-1 tvg-id="BNTV.ba" tvg-name="RTV BN" tvg-logo="https://i.imgur.com/DUBvfWb.png" group-title="General" tvg-country="BA" tvg-quality="720p HD",RTV BN [720p HD]
 #EXTGRP:General
 https://stream2.rtvbn.tv:8080/live_1935/bnstream/index.m3u8
 #EXTINF:-1 tvg-id="RTVHB.ba" tvg-name="RTV HB Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/Logo_of_TV_Herceg-Bosne.png" group-title="General" tvg-country="BA" tvg-quality="720p HD",RTV HB Ⓢ [720p HD]
 #EXTGRP:General
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
-#EXTINF:-1 tvg-id="RTVZenica.ba" tvg-name="RTV ZE Ⓢ" tvg-logo="https://i.imgur.com/TKUaflB.png" group-title="General" tvg-country="BA" tvg-quality="720p HD",RTV ZE Ⓢ [720p HD]
-#EXTGRP:General
-https://stream.rtvze.ba/live/123/123.m3u8
 #EXTINF:-1 tvg-id="Televizija5.ba" tvg-name="Televizija 5" tvg-logo="https://i.imgur.com/znpvJys.png" group-title="General" tvg-country="BA" tvg-quality="720p HD",Televizija 5 [720p HD]
 #EXTGRP:General
 https://balkanmedia.dynu.net/hls/tv5web.m3u8
+#EXTINF:-1 tvg-id="RTRSTV.ba" tvg-name="Televizija Republike Srpske (RTRS)" tvg-logo="https://i.imgur.com/2Sgs5gM.png" group-title="General" tvg-country="BA" tvg-quality="720p HD",Televizija Republike Srpske (RTRS) [720p HD]
+#EXTGRP:General
+https://parh.rtrs.tv/tv/live/playlist.m3u8
