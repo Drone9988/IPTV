@@ -8,9 +8,6 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-name="TRT Avaz" tvg-logo="https://i.imgur.com/VhTwXu5.png" group-title="General" tvg-country="TR" tvg-quality="720p HD",TRT Avaz [720p HD]
 #EXTGRP:General
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT Belgesel" tvg-logo="https://i.imgur.com/MGO87pe.png" group-title="General" tvg-country="TR" tvg-quality="720p HD",TRT Belgesel [720p HD]
-#EXTGRP:General
-https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTEBAIlkokul.tr" tvg-name="TRT EBA Ilkokul" tvg-logo="https://i.imgur.com/wDvZfk8.png" group-title="General" tvg-country="TR" tvg-quality="720p HD",TRT EBA Ilkokul [720p HD]
 #EXTGRP:General
 https://tv-e-okul00.medya.trt.com.tr/master.m3u8
