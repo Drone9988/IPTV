@@ -62,9 +62,6 @@ https://hls.cdn.ua/tva.ua_live/livestream/chunklist_.m3u8
 #EXTINF:-1 tvg-id="XSport.ua" tvg-name="XSport Ⓢ" tvg-logo="https://i.imgur.com/CHDcfrT.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",XSport Ⓢ [720p HD]
 #EXTGRP:General
 http://cdnua05.hls.tv/946/hls/8743361621b245838bee193c9ec28322/3999/stream.m3u8
-#EXTINF:-1 tvg-id="DniproTV.ua" tvg-name="Дніпро TV" tvg-logo="https://i.imgur.com/mbPTVh1.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",Дніпро TV [720p HD]
-#EXTGRP:General
-http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
 #EXTINF:-1 tvg-id="DIM.ua" tvg-name="ДІМ" tvg-logo="https://i.imgur.com/3cjaXIF.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",ДІМ [720p HD]
 #EXTGRP:General
 https://dash2.antik.sk/live/telekanal_dim/playlist.m3u8
