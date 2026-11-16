@@ -4,34 +4,37 @@
 
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="13 Cultura" tvg-logo="https://i.imgur.com/49QkKWv.png" group-title="General" tvg-country="CL" tvg-quality="720p HD",13 Cultura [720p HD]
 #EXTGRP:General
-https://dai.google.com/linear/hls/pa/event/GI-9cp_bT8KcerLpZwkuhw/stream/9ad24669-c352-4dfa-9625-0608482e9d0d:TUL/master.m3u8
+https://dai.google.com/linear/hls/pa/event/GI-9cp_bT8KcerLpZwkuhw/stream/95623339-c0a4-4b89-a1cc-f76c76e4ce1e:DLS/master.m3u8
 #EXTINF:-1 tvg-id="13P.cl" tvg-name="13 Prime" tvg-logo="https://i.imgur.com/YwDFNxs.png" group-title="General" tvg-country="CL" tvg-quality="720p HD",13 Prime [720p HD]
 #EXTGRP:General
-https://dai.google.com/linear/hls/pa/event/p4mmBxEzSmKAxY1GusOHrw/stream/abeffdfd-c58f-4468-85a7-25bcc34507bb:ATL/master.m3u8
+https://dai.google.com/linear/hls/pa/event/p4mmBxEzSmKAxY1GusOHrw/stream/69eaee55-30b2-459e-8a4f-c61af2e01516:MRN2/master.m3u8
 #EXTINF:-1 tvg-id="13T.cl" tvg-name="13 Teleseries" tvg-logo="https://i.imgur.com/aJMBnse.png" group-title="General" tvg-country="CL" tvg-quality="720p HD",13 Teleseries [720p HD]
 #EXTGRP:General
-https://dai.google.com/linear/hls/pa/event/f4TrySe8SoiGF8Lu3EIq1g/stream/43b2dc87-c972-4cb1-84ed-28131c41b625:MRN2/master.m3u8
+https://dai.google.com/linear/hls/pa/event/f4TrySe8SoiGF8Lu3EIq1g/stream/cbf0b997-3b3d-43ce-8b87-61c880d0c012:MRN2/master.m3u8
 #EXTINF:-1 tvg-id="biobiochile.cl" tvg-name="Bio Bio TV" tvg-logo="https://i.imgur.com/wrRufts.png" group-title="General" tvg-country="CL" tvg-quality="720p HD",Bio Bio TV [720p HD]
 #EXTGRP:General
-https://jireh-4-hls-video-us-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8?dpssid=a75895b7ab7d3b32d85e068e&sid=d5095d3aa7dad3292a542b77&ndvc=1
+https://jireh-5-hls-video-us-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8?dpssid=9b48adcdf227b7e7f1d2d282&sid=e1de145c8ad812dc82b7e7a1&ndvc=1
 #EXTINF:-1 tvg-id="Canal13.cl" tvg-name="Canal 13" tvg-logo="https://i.imgur.com/JIo1HBs.png" group-title="General" tvg-country="CL" tvg-quality="720p HD",Canal 13 [720p HD]
 #EXTGRP:General
-https://dai.google.com/linear/hls/pa/event/nthipJzGQY-A-N0t6xCZhA/stream/332677bf-d041-40bf-b320-bc7429ff45c2:MRN2/master.m3u8
+https://dai.google.com/linear/hls/pa/event/nthipJzGQY-A-N0t6xCZhA/stream/2f078161-774f-47ee-af60-36e58d983b4b:ATL/master.m3u8
 #EXTINF:-1 tvg-id="ElPinguinoTV.cl" tvg-name="El Pingüino TV" tvg-logo="https://i.imgur.com/ohXs2NV.png" group-title="General" tvg-country="CL" tvg-quality="720p HD",El Pingüino TV [720p HD]
 #EXTGRP:General
-https://jireh-7-hls-video-us-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.m3u8?dpssid=0db64af84757577aa98bb6a5&sid=4f8aa6a466856992982eb53d&ndvc=1
+https://jireh-7-hls-video-us-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.m3u8?dpssid=6fc54b31c4b34a8e58baa84e&sid=d1fda1df88882a9cf074bac9&ndvc=1
 #EXTINF:-1 tvg-id="Mega.cl" tvg-name="Mega" tvg-logo="https://i.imgur.com/CYdWSDb.png" group-title="General" tvg-country="CL" tvg-quality="720p HD",Mega [720p HD]
 #EXTGRP:General
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Mega2.cl" tvg-name="Mega 2" tvg-logo="https://i.imgur.com/c1ME00r.png" group-title="General" tvg-country="CL" tvg-quality="720p HD",Mega 2 [720p HD]
 #EXTGRP:General
 http://15.204.196.147:22880/MEGA2-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
+#EXTINF:-1 tvg-id="SoloTV.cl" tvg-name="SoloTV" tvg-logo="https://i.imgur.com/Ad2ueID.png" group-title="General" tvg-country="CL" tvg-quality="720p HD",SoloTV [720p HD]
+#EXTGRP:General
+https://stream.making.cl/memfs/ee909361-73e9-4e74-8391-5f1b0b8006c2.m3u8
 #EXTINF:-1 tvg-id="T13.cl" tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" group-title="General" tvg-country="CL" tvg-quality="720p HD",T13 en vivo [720p HD]
 #EXTGRP:General
-https://jireh-9-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?dpssid=54cff88ecd5aa408a12495cc&sid=43ec0ddaf382443bd3eda029&ndvc=1
+https://jireh-3-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?dpssid=56809e2e120a1ed0a0cf3661&sid=2f0a10a530889e8155d5e3b5&ndvc=1
 #EXTINF:-1 tvg-id="TVPlus.cl" tvg-name="TV+" tvg-logo="https://i.imgur.com/NtuZIEJ.png" group-title="General" tvg-country="CL" tvg-quality="720p HD",TV+ [720p HD]
 #EXTGRP:General
-https://jireh-6-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8?dpssid=99a47ff2ddc961dbddd9d2ee7a2ff6af&sid=d51f0bbe1f442dc5a9205603&ndvc=0
+https://jireh-4-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8?dpssid=f630934b74e2640c83d10d8143ecfa46&sid=62a642345b03057d22e2b51e&ndvc=0
 #EXTINF:-1 tvg-id="TVN3.cl" tvg-name="TVN 3" tvg-logo="https://i.imgur.com/84lWqRi.png" group-title="General" tvg-country="CL" tvg-quality="720p HD",TVN 3 [720p HD]
 #EXTGRP:General
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
