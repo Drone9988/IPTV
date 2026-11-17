@@ -47,6 +47,9 @@ https://live-fi.tvkaista.net/star-channel/live.m3u8?src=freetv
 #EXTINF:-1 tvg-id="TaivasTV7.fi" tvg-name="Taivas TV7" tvg-logo="https://i.imgur.com/a4iNVXA.png" group-title="General" tvg-country="FI" tvg-quality="720p HD",Taivas TV7 [720p HD]
 #EXTGRP:General
 https://vod.tv7.fi/tv7-fi/_definst_/smil:tv7-fi.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Eveo.fi" tvg-name="TapahtumaTV Eveo" tvg-logo="https://i.imgur.com/sR8nA8w.png" group-title="General" tvg-country="FI" tvg-quality="720p HD",TapahtumaTV Eveo [720p HD]
+#EXTGRP:General
+https://live-fi.tvkaista.net/eveo/live.m3u8?src=freetv
 #EXTINF:-1 tvg-id="TLCFinland.fi" tvg-name="TLC Finland" tvg-logo="https://i.imgur.com/0d5hP3A.png" group-title="General" tvg-country="FI" tvg-quality="720p HD",TLC Finland [720p HD]
 #EXTGRP:General
 https://live-fi.tvkaista.net/tlc/live.m3u8?src=freetv
