@@ -161,6 +161,9 @@ http://141.94.193.53/Spektrum_Home_HD/index.m3u8
 #EXTINF:-1 tvg-id="Spektrum.hu" tvg-name="Spektrum Ⓖ" tvg-logo="https://media.port.hu/images/001/591/100x100/776.jpg" group-title="General" tvg-country="HU" tvg-quality="720p HD",Spektrum Ⓖ [720p HD]
 #EXTGRP:General
 http://141.94.193.53/Spektrum_HD/index.m3u8
+#EXTINF:-1 tvg-id="SpiritFM.hu" tvg-name="Spirit FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Spiritfm876logo.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="General" tvg-country="HU" tvg-quality="720p HD",Spirit FM [720p HD]
+#EXTGRP:General
+https://budapest-cache-1.antik.sk/live/spirit_fm/index.m3u8
 #EXTINF:-1 tvg-id="Sport1.hu" tvg-name="Sport1 Ⓖ" tvg-logo="https://www.tvmustra.hu/logok/csatikon/sport1.gif" group-title="General" tvg-country="HU" tvg-quality="720p HD",Sport1 Ⓖ [720p HD]
 #EXTGRP:General
 http://141.94.193.53/Sport_1_HD/index.m3u8
@@ -172,7 +175,7 @@ http://141.94.193.53/Sport_2_HD/index.m3u8
 http://141.94.193.53/Story4_HD/index.m3u8
 #EXTINF:-1 tvg-id="TVEger.hu" tvg-name="TV Eger" tvg-logo="https://i.imgur.com/GUVW073.png" group-title="General" tvg-country="HU" tvg-quality="720p HD",TV Eger [720p HD]
 #EXTGRP:General
-http://stream.tveger.hu:8010/hls/2d0770c1b0ea8481c620cb94ee397cae/live.m3u8
+http://stream.tveger.hu:8010/hls/7fc451cd09f361f507cae568e9c26eb8/live.m3u8
 #EXTINF:-1 tvg-id="TVPaprika.hu" tvg-name="TV Paprika Ⓖ" tvg-logo="https://www.tvmustra.hu/logok/csatikon/tvpaprika.gif" group-title="General" tvg-country="HU" tvg-quality="720p HD",TV Paprika Ⓖ [720p HD]
 #EXTGRP:General
 http://141.94.193.53/TV_Paprika_HD/index.m3u8
@@ -205,4 +208,4 @@ https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8
 https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="OzdiVarosiTV.hu" tvg-name="Ózdi Városi TV" tvg-logo="https://i.imgur.com/5cOpdRp.jpg" group-title="General" tvg-country="HU" tvg-quality="720p HD",Ózdi Városi TV [720p HD]
 #EXTGRP:General
-http://stream.nmih.hu:7980/hls/553290769c4cc4a0af83188f9af71549/live.m3u8
+http://stream.nmih.hu:7980/hls/199b7f2823328d881a975305a712084c/live.m3u8
