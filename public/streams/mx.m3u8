@@ -17,6 +17,9 @@ https://5ca9af4645e15.streamlock.net/mexicotravel/videomexicotravel/playlist.m3u
 #EXTINF:-1 tvg-id="QuieroTV.mx" tvg-name="Quiero TV" tvg-logo="https://graph.facebook.com/quierotvGDL/picture?width=200&height=200" group-title="General" tvg-country="MX" tvg-quality="720p HD",Quiero TV [720p HD]
 #EXTGRP:General
 https://stream.ontvmx.com/ontv/ghxTYEQmKkB2UJyVuW/playlist.m3u8
+#EXTINF:-1 tvg-id="Tele10Nayarit.mx" tvg-name="TELE 10 Nayarit" tvg-logo="https://graph.facebook.com/Tele10Nayarit/picture?width=200&height=200" group-title="General" tvg-country="MX" tvg-quality="720p HD",TELE 10 Nayarit [720p HD]
+#EXTGRP:General
+https://live.iplanay.gob.mx/hls/nayarittv.m3u8
 #EXTINF:-1 tvg-id="TeleFormula.mx" tvg-name="TeleFormula" tvg-logo="https://i.imgur.com/jR6taXt.png" group-title="General" tvg-country="MX" tvg-quality="720p HD",TeleFormula [720p HD]
 #EXTGRP:General
-https://us-b4-p-e-qg12.cdn.mdstrm.com/live-stream-gdai/62f2c855f7981b5a5a2d8763/linear/hls/pa/event/pEN-eKQqS3OyqwKvMshcoQ/stream/4f768a0d-3635-4619-96db-3e0b70b9875b:ATL/master.m3u8?aid=602140ecd1277a077ef81b34&adInsertionGoogleStreamId=4f768a0d-3635-4619-96db-3e0b70b9875b:ATL&pid=hhgey6o6lGcKEDmJRWVXZEF3HaVeVUF5&sid=Yg6L2nD3n6MTmSJZiPxuG5WJ8Di0ROLr&uid=NJfat8zYNWHUTHoNkT3ECKgna8gAKqGE&es=us-b4-p-e-qg12.cdn.mdstrm.com&ote=1795132662327&ot=zHebFtCFXiODEeEHwFJgow&proto=https&pz=us&access_token=x6t9kVQtmUvT57U4UV3KqacDsflkfHHZzjHHk67wSDlTbHtqAHlf8PMmftfq88SPkqQHpA9JyRC
+https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream-gdai/62f2c855f7981b5a5a2d8763/linear/hls/pa/event/pEN-eKQqS3OyqwKvMshcoQ/stream/87427161-7488-459c-af1e-d8e4e93e18d1:ATL/master.m3u8?aid=602140ecd1277a077ef81b34&adInsertionGoogleStreamId=87427161-7488-459c-af1e-d8e4e93e18d1:ATL&pid=tlCb85JncelYlK0v9U24oZTCQTaLM43f&sid=rpTzF6xye2GfRhsfi1LWqIf4bz5RRCs7&uid=xU0wXKC1tV9SJV9qczWzoHu6F0yeoh3b&es=us-b4-p-e-zs14.cdn.mdstrm.com&ote=1795156943704&ot=6UKFFb0y5-OfGbKe7-5cbQ&proto=https&pz=us&access_token=giRWCkFn70QgfoyQqX66Fjj2YYzZjx0TCMKt9YWPg7gFKFc7pp2CwKQ8jtJDEdtvWUtO4HEdFJ2

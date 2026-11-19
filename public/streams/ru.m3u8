@@ -26,6 +26,9 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 tvg-id="Karusel.ru" tvg-name="Карусель Ⓢ" tvg-logo="https://i.imgur.com/4fFMlVq.png" group-title="General" tvg-country="RU" tvg-quality="720p HD",Карусель Ⓢ [720p HD]
 #EXTGRP:General
 https://streaming.goodstream.icu/live/232.m3u8
+#EXTINF:-1 tvg-id="tv.minidey.ru" tvg-name="Министерство Идей" tvg-logo="https://minidey.ru/media/images/logo_minidey_tv.png" group-title="General" tvg-country="RU" tvg-quality="720p HD",Министерство Идей [720p HD]
+#EXTGRP:General
+https://live-minidey.cdnvideo.ru/minidey-srt/minidey/playlist.m3u8
 #EXTINF:-1 tvg-id="Mir.ru" tvg-name="Мир" tvg-logo="https://i.imgur.com/L2slsbG.png" group-title="General" tvg-country="RU" tvg-quality="720p HD",Мир [720p HD]
 #EXTGRP:General
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/int/playlist.m3u8
