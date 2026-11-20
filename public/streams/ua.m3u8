@@ -23,6 +23,9 @@ https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="NTKTV.ua" tvg-name="NTK TV" tvg-logo="https://www.ntktv.ua/bitrix/templates/ntk_copy/images/logo.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",NTK TV [720p HD]
 #EXTGRP:General
 http://stream.ntktv.ua/s/ntk/ntk.m3u8
+#EXTINF:-1 tvg-id="NTN.ua" tvg-name="NTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/NTNUA_logo_%282013%29.svg/500px-NTNUA_logo_%282013%29.svg.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",NTN [720p HD]
+#EXTGRP:General
+https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="Pershyi.ua" tvg-name="Pershyi" tvg-logo="https://i.imgur.com/osTQLED.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",Pershyi [720p HD]
 #EXTGRP:General
 https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
@@ -47,6 +50,9 @@ http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
 #EXTINF:-1 tvg-id="DIM.ua" tvg-name="ДІМ" tvg-logo="https://i.imgur.com/3cjaXIF.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",ДІМ [720p HD]
 #EXTGRP:General
 https://dash2.antik.sk/live/telekanal_dim/playlist.m3u8
+#EXTINF:-1 tvg-id="PixelTV.ua" tvg-name="Піксель TV" tvg-logo="https://i.imgur.com/ECro8Ah.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",Піксель TV [720p HD]
+#EXTGRP:General
+https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="SuspilneKropyvnytskyi.ua" tvg-name="Суспільне Kropyvnytskyi" tvg-logo="https://i.imgur.com/zzYJr87.png" group-title="General" tvg-country="UA" tvg-quality="720p HD",Суспільне Kropyvnytskyi [720p HD]
 #EXTGRP:General
 http://cdnua05.hls.tv/650/hls/f62d71219200da4130d13b21d23fb23c/4788/stream.m3u8
