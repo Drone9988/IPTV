@@ -17,9 +17,6 @@ https://vod.tv7.fi/tv7-se/_definst_/smil:tv7-se.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Kutonen.fi" tvg-name="Kutonen" tvg-logo="https://i.imgur.com/4giVyxb.png" group-title="General" tvg-country="FI" tvg-quality="720p HD",Kutonen [720p HD]
 #EXTGRP:General
 https://live-fi.tvkaista.net/kutonen/live.m3u8?src=freetv
-#EXTINF:-1 tvg-id="Sub.fi" tvg-name="MTV Sub" tvg-logo="https://i.imgur.com/VRCuxQt.png" group-title="General" tvg-country="FI" tvg-quality="720p HD",MTV Sub [720p HD]
-#EXTGRP:General
-https://live-fi.tvkaista.net/sub/live.m3u8?src=freetv
 #EXTINF:-1 tvg-id="MTVUutiset.fi" tvg-name="MTV Uutiset Live" tvg-logo="https://i.imgur.com/IyB6mIb.png" group-title="General" tvg-country="FI" tvg-quality="720p HD",MTV Uutiset Live [720p HD]
 #EXTGRP:General
 https://live.streaming.a2d.tv/content/channels/uutiset/cmaf.m3u8
