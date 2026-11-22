@@ -2,9 +2,9 @@
 #PLAYLIST:Free IPTV - TR
 #EXT-X-VERSION:3
 
-#EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT 2 Ⓖ" tvg-logo="https://i.imgur.com/lNWrOE2.png" group-title="General" tvg-country="TR" tvg-quality="720p HD",TRT 2 Ⓖ [720p HD]
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://i.imgur.com/j786OLG.png" group-title="General" tvg-country="TR" tvg-quality="720p HD",TRT 1 [720p HD]
 #EXTGRP:General
-https://tv-trt2.medya.trt.com.tr/master.m3u8
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-name="TRT Avaz" tvg-logo="https://i.imgur.com/VhTwXu5.png" group-title="General" tvg-country="TR" tvg-quality="720p HD",TRT Avaz [720p HD]
 #EXTGRP:General
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
