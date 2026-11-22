@@ -23,6 +23,9 @@ http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 #EXTINF:-1 tvg-id="DeltaTV.gr" tvg-name="Delta Evros" tvg-logo="https://i.imgur.com/PDfSkRF.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",Delta Evros [720p HD]
 #EXTGRP:General
 http://81.171.10.42:1935/liveD/DStream.sdp/chunklist_w819085920.m3u8
+#EXTINF:-1 tvg-id="egnatiatv.gr" tvg-name="Egnatia" tvg-logo="https://i.imgur.com/zuyYIca.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",Egnatia [720p HD]
+#EXTGRP:General
+https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u
 #EXTINF:-1 tvg-id="epsilon.gr" tvg-name="Epsilon" tvg-logo="https://i.imgur.com/vUQSDvZ.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",Epsilon [720p HD]
 #EXTGRP:General
 https://neon.streams.gr:8081/epsilontv/index.m3u8
@@ -38,6 +41,9 @@ https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="KontraChannel.gr" tvg-name="Kontra" tvg-logo="https://i.imgur.com/ROZ9VfV.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",Kontra [720p HD]
 #EXTGRP:General
 https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
+#EXTINF:-1 tvg-id="Kriti1Tv.gr" tvg-name="Kriti 1" tvg-logo="https://i.imgur.com/C1ucQeC.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",Kriti 1 [720p HD]
+#EXTGRP:General
+https://livetv.streams.ovh:8081/kriti/index.m3u8
 #EXTINF:-1 tvg-id="KritiTv.gr" tvg-name="Kriti TV" tvg-logo="https://i.imgur.com/eLhYMmc.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",Kriti TV [720p HD]
 #EXTGRP:General
 https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8
@@ -74,9 +80,6 @@ https://livestar.siliconweb.com/starvod/star4/star4.m3u8
 #EXTINF:-1 tvg-id="SyrosTV1.gr" tvg-name="Syros TV1" tvg-logo="https://i.imgur.com/duXHyvN.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",Syros TV1 [720p HD]
 #EXTGRP:General
 https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
-#EXTINF:-1 tvg-id="trttv.gr" tvg-name="TRT" tvg-logo="https://i.imgur.com/g0jPOcC.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",TRT [720p HD]
-#EXTGRP:General
-https://av.hellasnet.tv/rst/trt/index.m3u8
 #EXTINF:-1 tvg-id="VouliTV.gr" tvg-name="Vouli TV" tvg-logo="https://i.imgur.com/1vqW7lc.png" group-title="General" tvg-country="GR" tvg-quality="720p HD",Vouli TV [720p HD]
 #EXTGRP:General
 https://diavlos-cache.cnt.grnet.gr/parltv/webtv-1b.sdp/playlist.m3u8
