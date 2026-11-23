@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-id="ARDalpha.de" tvg-name="ARD Alpha Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/500px-ARD_alpha.svg.png" group-title="General" tvg-country="DE" tvg-quality="720p HD",ARD Alpha Ⓖ [720p HD]
 #EXTGRP:General
 https://mcdn.br.de/br/fs/ard_alpha/hls/int/master.m3u8
-#EXTINF:-1 tvg-id="BRFernsehenSud.de" tvg-name="BR Süd Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_BR_Fernsehen_2021.svg/500px-Logo_BR_Fernsehen_2021.svg.png" group-title="General" tvg-country="DE" tvg-quality="720p HD",BR Süd Ⓖ [720p HD]
+#EXTINF:-1 tvg-id="BRFernsehenNord.de" tvg-name="BR Nord Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_BR_Fernsehen_2021.svg/500px-Logo_BR_Fernsehen_2021.svg.png" group-title="General" tvg-country="DE" tvg-quality="720p HD",BR Nord Ⓖ [720p HD]
 #EXTGRP:General
 https://mcdn.br.de/br/fs/bfs_sued/hls/int/master.m3u8
 #EXTINF:-1 tvg-id="DasErste.de" tvg-name="Das Erste Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/500px-Das_Erste_2014.svg.png" group-title="General" tvg-country="DE" tvg-quality="720p HD",Das Erste Ⓖ [720p HD]
