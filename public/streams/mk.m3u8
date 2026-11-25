@@ -29,9 +29,6 @@ https://live.vtv.mk/live/vtv/chunks.m3u8
 #EXTINF:-1 tvg-id="NasaTV.mk" tvg-name="Наша ТВ" tvg-logo="https://i.imgur.com/EOLrXvB.png" group-title="General" tvg-country="MK" tvg-quality="720p HD",Наша ТВ [720p HD]
 #EXTGRP:General
 https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
-#EXTINF:-1 tvg-id="TV Orbis" tvg-name="Орбис" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Orbis-logo.png" group-title="General" tvg-country="MK" tvg-quality="720p HD",Орбис [720p HD]
-#EXTGRP:General
-http://tvorbis.hugo.mk:1935/live/orbis/index.m3u8
 #EXTINF:-1 tvg-id="tvnova12.mk" tvg-name="ТВ НОВА 12" tvg-logo="https://i.imgur.com/Qo3Hj3t.png" group-title="General" tvg-country="MK" tvg-quality="720p HD",ТВ НОВА 12 [720p HD]
 #EXTGRP:General
 http://151.236.247.171:8080/nova/index.m3u8
