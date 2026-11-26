@@ -26,9 +26,9 @@ http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 #EXTINF:-1 tvg-id="TelekanalZvezda.ru" tvg-name="Звезда" tvg-logo="https://i.imgur.com/c0L0ncA.png" group-title="General" tvg-country="RU" tvg-quality="720p HD",Звезда [720p HD]
 #EXTGRP:General
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
-#EXTINF:-1 tvg-id="tv.minidey.ru" tvg-name="Министерство Идей" tvg-logo="https://minidey.ru/media/images/logo_minidey_tv.png" group-title="General" tvg-country="RU" tvg-quality="720p HD",Министерство Идей [720p HD]
+#EXTINF:-1 tvg-id="Crimea24.ru" tvg-name="Крым 24" tvg-logo="https://i.imgur.com/k4C0uvp.png" group-title="General" tvg-country="RU" tvg-quality="720p HD",Крым 24 [720p HD]
 #EXTGRP:General
-https://live-minidey.cdnvideo.ru/minidey-srt/minidey/playlist.m3u8
+https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 #EXTINF:-1 tvg-id="Mir.ru" tvg-name="Мир" tvg-logo="https://i.imgur.com/L2slsbG.png" group-title="General" tvg-country="RU" tvg-quality="720p HD",Мир [720p HD]
 #EXTGRP:General
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/int/playlist.m3u8
@@ -59,3 +59,6 @@ https://stream.smotrim.ru/hls/solovievlive/playlist.m3u8?entity=channel&id=292&s
 #EXTINF:-1 tvg-id="PeretzInternational.ru" tvg-name="Че" tvg-logo="" group-title="General" tvg-country="RU" tvg-quality="720p HD",Че [720p HD]
 #EXTGRP:General
 https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
+#EXTINF:-1 tvg-id="Yakutiya24.ru" tvg-name="Якутия 24" tvg-logo="https://i.imgur.com/2BAQklm.png" group-title="General" tvg-country="RU" tvg-quality="720p HD",Якутия 24 [720p HD]
+#EXTGRP:General
+https://live-saha.cdnvideo.ru/saha2/yak24rtmp_live.smil/playlist.m3u8

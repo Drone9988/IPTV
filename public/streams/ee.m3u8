@@ -19,7 +19,7 @@ https://lifetv.bitflip.ee/live/stream2.m3u8
 https://lifetv.bitflip.ee/live/stream1.m3u8
 #EXTINF:-1 tvg-id="Riigikogu.ee" tvg-name="Riigikogu" tvg-logo="https://i.imgur.com/7uWaZLF.png" group-title="General" tvg-country="EE" tvg-quality="720p HD",Riigikogu [720p HD]
 #EXTGRP:General
-https://le301.euddn.net/8e2cdb581238532f030e8edcbe943976f8199f3005fd02913c8bc088e705fa13b23596a207c3492144c911e86f0089e582bf0307c343f90578784a9264b39cc05bbadaf24f210a6737bf8a8cb3de7c6dddda131cbce28a90e5e83ec6ff23149e2db47833ca9d2197b5f9f939ac186098a7592c9ac06265f75289b987e623ffa8b2744954006cd2dcd8805f27d5fdad32bcc6844fb48f21afe9acdb13ada1202dba424665c34df721612afac5c5e8c2e3/smil:rk_live_1.smil/playlist.m3u8
+https://le305.euddn.net/dc0de8a4f724f4ad689a28ad3babfe7409c52279667cbde7724c307ee53fb34c686307dadf1f75d94d51d343c9b8d267f652e9f3a91e4a22836b798c641956c08219eeac6b210fb4c39db684b4c44ba555ac35d156e7870276e72b551d2c49c4bf36c08b87fd52ac113bddd6ac91a593b9e1880c8775871188c64642ffae87a41aacef6973d473006f86875d51fd72e36dfcdec9b05413db79349925479913e6ad940723962b3e091d16d755085e33d946f69b4f9bb5584755e2b960b9155382/smil:rk_live_1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TaevasTV7.fi" tvg-name="Taevas TV7" tvg-logo="https://i.imgur.com/usXedIj.png" group-title="General" tvg-country="EE" tvg-quality="720p HD",Taevas TV7 [720p HD]
 #EXTGRP:General
 https://vod.tv7.fi/tv7-ee/_definst_/smil:tv7-ee.smil/playlist.m3u8
