@@ -59,3 +59,6 @@ https://stream.smotrim.ru/hls/solovievlive/playlist.m3u8?entity=channel&id=292&s
 #EXTINF:-1 tvg-id="PeretzInternational.ru" tvg-name="Че" tvg-logo="" group-title="General" tvg-country="RU" tvg-quality="720p HD",Че [720p HD]
 #EXTGRP:General
 https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
+#EXTINF:-1 tvg-id="Yakutiya24.ru" tvg-name="Якутия 24" tvg-logo="https://i.imgur.com/2BAQklm.png" group-title="General" tvg-country="RU" tvg-quality="720p HD",Якутия 24 [720p HD]
+#EXTGRP:General
+https://live-saha.cdnvideo.ru/saha2/yak24rtmp_live.smil/playlist.m3u8
