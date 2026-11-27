@@ -2,16 +2,16 @@
 #PLAYLIST:Free IPTV - HR
 #EXT-X-VERSION:3
 
-#EXTINF:-1 tvg-id="DiadoraTV.hr" tvg-name="Diadora" tvg-logo="https://i.imgur.com/qZzsASl.png" group-title="General" tvg-country="HR" tvg-quality="720p HD",Diadora [720p HD]
+#EXTINF:-1 tvg-id="LibertasTV.hr" tvg-name="Libertas TV" tvg-logo="https://i.imgur.com/4R4fhbd.png" group-title="General" tvg-country="HR" tvg-quality="720p HD",Libertas TV [720p HD]
 #EXTGRP:General
-https://diadoratv.stream/live/diadora/playlist.m3u8
-#EXTINF:-1 tvg-id="KanalRi.hr" tvg-name="Kanal Ri" tvg-logo="https://kanal-ri.hr/wp-content/uploads/2022/09/kanalRi_logo_v1.png" group-title="General" tvg-country="HR" tvg-quality="720p HD",Kanal Ri [720p HD]
+https://stream.libertas.tv/memfs/6767a62d-34ce-4756-8df5-0722b0475870.m3u8
+#EXTINF:-1 tvg-id="OSTV.hr" tvg-name="Osječka televizija (OSTV) Ⓢ" tvg-logo="https://i.imgur.com/o9JgEyG.png" group-title="General" tvg-country="HR" tvg-quality="720p HD",Osječka televizija (OSTV) Ⓢ [720p HD]
 #EXTGRP:General
-https://live.kanal-ri.click/LiveApp/streams/B6HK3voDwNsRQoLm1124882102135504.m3u8
-#EXTINF:-1 tvg-id="NovaTV.hr" tvg-name="Nova TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nova_TV_Croatia_logo.png/500px-Nova_TV_Croatia_logo.png" group-title="General" tvg-country="HR" tvg-quality="720p HD",Nova TV [720p HD]
+https://live.osjecka.com/live/index.m3u8?cookieCheck=1
+#EXTINF:-1 tvg-id="PlavaVinkovacka.hr" tvg-name="Plava Vinkovačka" tvg-logo="https://i.imgur.com/WJJNtQ3.jpg" group-title="General" tvg-country="HR" tvg-quality="720p HD",Plava Vinkovačka [720p HD]
 #EXTGRP:General
-http://176.61.157.250/NovaTV/index.m3u8
-#EXTINF:-1 tvg-id="SBTV.hr" tvg-name="SBTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/SBTV_Logo.svg/500px-SBTV_Logo.svg.png" group-title="General" tvg-country="HR" tvg-quality="720p HD",SBTV [720p HD]
+https://edge2.livebroadcastsolutions.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="SBTV.hr" tvg-name="SBTV" tvg-logo="https://i.imgur.com/MIampxZ.png" group-title="General" tvg-country="HR" tvg-quality="720p HD",SBTV [720p HD]
 #EXTGRP:General
 https://live.leveex.hr/hls/live.m3u8
 #EXTINF:-1 tvg-id="STV.hr" tvg-name="Televizija Slavonije i Baranje (STV)" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/0/04/STV.PNG" group-title="General" tvg-country="HR" tvg-quality="720p HD",Televizija Slavonije i Baranje (STV) [720p HD]
